@@ -16,7 +16,6 @@ for more information: http://getkirby.com/license
 */
 
 c::set('license', 'put your license key here');
-c::set('debug', true);
 
 /*
 
@@ -29,3 +28,14 @@ make Kirby work. For more fine-grained configuration
 of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
+
+c::set('debug', true);
+c::set('languages', array(
+   array(
+      'code'    => 'de',
+      'name'    => 'Deutsch',
+      'locale'  => 'de_DE',
+      'default' => true,
+      'url'     => '/'
+   )
+));
