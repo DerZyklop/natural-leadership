@@ -12,9 +12,12 @@
           </figure>
         <?php endif ?>
         <h2 id="<?= $p->uid() ?>"><?php echo $p->title()->html() ?></h2>
-        <div class="text">
-          <?php echo $p->text()->kirbytext() ?>
-        </div>
+        <?php if ($p->hasText()) : ?>
+          <div class="text">
+            <?php echo $p->text()->kirbytext() ?>
+          </div>
+        <?php endif ?>
+        <?php snippet($p->uid(), array('p' => $p)); ?>
       </section>
     <?php endforeach ?>
   </main>

@@ -1,0 +1,42 @@
+title: Natural Leadership
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  chapters:
+    label: Abschnitte
+    type: structure
+    entry: >
+      {{start_date}} – {{end_date}}<br />
+      {{company}}<br />{{position}}
+    fields:
+      start_date:
+        label: Start
+        type: date
+        format: YYYY/DD
+        width: 1/2
+      end_date:
+        label: Ende
+        type: date
+        format: YYYY/DD
+        width: 1/2
+      company:
+        label: Firma
+        type: text
+        placeholder: Hess Natur-Textilien GmbH
+        width: 1/2
+      position:
+        label: Postition
+        type: text
+        placeholder: Geschäftsführer
+        width: 1/2
+      text:
+        label: Tätigkeitsfeld
+        type: textarea
+files:
+  fields:
+    caption:
+      label: Bildunterschrift
+      type: textarea

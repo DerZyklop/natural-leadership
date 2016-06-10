@@ -2,10 +2,19 @@ Title: Wolf Lüdge
 
 ----
 
-Text: Yo. Der Typ.
+Chapters: 
 
-#### Lebenslauf & so
-
-1234 Dings – Da GmbH
-
-Dies und das.
+- 
+  start_date: 2006-11-03
+  end_date: 2010-06-19
+  company: Medialis.net
+  position: Semi-Profi
+  text: >
+    Von anderen auf die Finger gehauen
+    bekommen.
+- 
+  start_date: 2016-06-01
+  end_date: 2016-12-22
+  company: Placeworkers GmbH
+  position: Profi
+  text: Anderen auf die Finger hauen.
