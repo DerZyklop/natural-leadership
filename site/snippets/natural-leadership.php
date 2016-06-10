@@ -4,3 +4,9 @@
     <?php echo $c->text()->kirbytext() ?>
   <?php endforeach ?>
 <?php endif ?>
+<?php if ($p->hasQuote()): ?>
+  <blockquote>
+    <p><?= $p->quote() ?></p>
+    <footer><?= "– ".$p->quoteauthor() ?></footer>
+  </blockquote>
+<?php endif ?>

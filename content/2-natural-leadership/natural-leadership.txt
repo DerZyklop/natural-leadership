@@ -26,3 +26,11 @@ Chapters:
     Aenean vulputate eleifend tellus. Aenean
     leo ligula, porttitor eu, consequat
     vitae, eleifend ac, enim.
+
+----
+
+Quote: Von nix kommt nix.
+
+----
+
+Quoteauthor: Nils Neumann

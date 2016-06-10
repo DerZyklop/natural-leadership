@@ -17,6 +17,13 @@ fields:
       text:
         label: Text
         type: textarea
+  quote:
+    label: Zitat
+    type:  textarea
+    size: small
+  quoteauthor:
+    label: Zitat-Author
+    type:  text
 files:
   fields:
     caption:
