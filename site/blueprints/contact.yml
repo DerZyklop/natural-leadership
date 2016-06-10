@@ -1,0 +1,59 @@
+title: Page
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Text
+    type:  textarea
+    size:  small
+    buttons:
+      - h1
+      - h2
+      - h3
+      - bold
+      - italic
+      - email
+      - link
+  company:
+    label: Company
+    type:  text
+  plz:
+    label: PLZ
+    type:  number
+    width: 1/2
+  city:
+    label: Ort
+    type:  text
+    width: 1/2
+  street:
+    label: Straße
+    type:  text
+    width: 1/2
+  housenumber:
+    label: Hausnummer
+    type:  text
+    width: 1/2
+  country:
+    label: Land
+    type:  text
+    width: 1/2
+  email:
+    label: E-Mail
+    type:  text
+  phone:
+    label: Telefon
+    type:  text
+    width: 1/2
+  mobilephone:
+    label: Mobiltelefon
+    type:  text
+    width: 1/2
+
+files:
+  fields:
+    caption:
+      label: Bildunterschrift
+      type: textarea

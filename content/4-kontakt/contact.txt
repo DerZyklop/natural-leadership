@@ -1,0 +1,41 @@
+Title: Kontakt
+
+----
+
+Text: 
+
+----
+
+Company: Natural Leadership
+
+----
+
+Plz: 12345
+
+----
+
+City: Berlin
+
+----
+
+Street: Frankfurter Strasse
+
+----
+
+Country: Germany
+
+----
+
+Email: lorem@ipsum.de
+
+----
+
+Phone: 123456789
+
+----
+
+Mobilephone: 12345678987654
+
+----
+
+Housenumber: 12
