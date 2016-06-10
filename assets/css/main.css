@@ -58,6 +58,7 @@ footer, header, hgroup, main, nav, section, summary {
 img {
   display: block;
   max-width: 100%;
+  margin: 0 auto;
 }
 
 
@@ -69,7 +70,7 @@ a {
   transition: color .3s, background .3s, border .3s;
 }
 a:hover {
-  color: red;
+  color: #B5191C;
 }
 
 
@@ -104,7 +105,7 @@ body {
 /* Header
 -------------------------------------------------- */
 .header {
-  border-bottom: 2px solid red;
+  border-bottom: 2px solid #B5191C;
   margin-bottom: 1.5em;
 }
 .logo {
@@ -112,7 +113,7 @@ body {
   margin-bottom: 1.5em;
 }
 .logo img {
-  width: 2em;
+  width: 8em;
 }
 
 
@@ -123,11 +124,11 @@ body {
   color: #222;
 }
 .menu a:hover {
-  color: red;
+  color: #B5191C;
   text-decoration: none;
 }
 .menu .active {
-  color: red;
+  color: #B5191C;
 }
 .menu li {
   list-style: none;
@@ -210,7 +211,7 @@ h2 {
   line-height: 1.25em;
   font-weight: 300;
   margin-bottom: .5em;
-  color: red;
+  color: #B5191C;
 }
 h3 {
   font-size: 1.4em;
@@ -223,7 +224,7 @@ h4 {
   font-weight: 600;
   line-height: 1.5em;
   margin-bottom: .5em;
-  color: red;
+  color: #B5191C;
 }
 h1 a, h2 a, h3 a, h4 a {
   color: inherit;
@@ -236,7 +237,7 @@ h1 a, h2 a, h3 a, h4 a {
 -------------------------------------------------- */
 .main {
   padding-bottom: 1.5em;
-  border-bottom: 2px solid red;
+  border-bottom: 2px solid #B5191C;
 }
 .main hr {
   margin: 3em 0;
@@ -271,7 +272,7 @@ h1 a, h2 a, h3 a, h4 a {
   float: left;
   list-style: none;
   margin-right: 2em;
-  color: red;
+  color: #B5191C;
 }
 .meta li b {
   font-weight: 400;
@@ -330,6 +331,6 @@ h1 a, h2 a, h3 a, h4 a {
   float: right;
 }
 .colophon a b {
-  color: red;
+  color: #B5191C;
   padding-left: .25em;
 }
