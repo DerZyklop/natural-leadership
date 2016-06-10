@@ -1,8 +1,6 @@
   <footer class="footer cf" role="contentinfo">
 
-    <div class="copyright">
-      <?php echo $site->copyright()->kirbytext() ?>
-    </div>
+    <a href="<?= $pages->find("impressum")->url(); ?>">Impressum</a>
 
     <div class="colophon">
       <a href="http://getkirby.com/made-with-kirby-and-love">Made with <b>♥</b> and <b>☕️</b></a>

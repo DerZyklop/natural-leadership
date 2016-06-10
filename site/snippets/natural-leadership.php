@@ -1,3 +1,4 @@
+<?php snippet("default", array('p' => $p, )); ?>
 <?php if ($p->hasChapters()): ?>
   <?php foreach ($p->chapters()->toStructure() as $c): ?>
     <h3><?= $c->title()->html() ?></h3>

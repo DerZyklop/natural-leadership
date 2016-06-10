@@ -7,6 +7,6 @@ email: mail@der-zyklop.de
 language: de
 role: admin
 history:
-  - wolf-luedge
   - natural-leadership
+  - wolf-luedge
   - home
