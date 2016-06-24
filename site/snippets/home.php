@@ -22,3 +22,8 @@
     <?php endif ?>
   </div>
 <?php endif ?>
+<?php if ($p->hasSubtext()): ?>
+  <div class="text">
+    <?php echo $p->subtext()->kirbytext() ?>
+  </div>
+<?php endif ?>

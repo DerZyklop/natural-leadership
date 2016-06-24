@@ -16,6 +16,9 @@ fields:
     label: Kleines Bild neben dem Text
     type:  select
     options: images
+  subtext:
+    label: Zweispaltiger Text
+    type:  textarea
 files:
   fields:
     caption:
