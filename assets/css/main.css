@@ -93,7 +93,7 @@ html {
 }
 body {
   margin: 0 auto;
-  font-size: 1.25em;
+  font-size: 1.2em;
   line-height: 1.5em;
   background: #fff;
   color: #222;
@@ -211,10 +211,11 @@ h2 {
   color: #C4251A;
 }
 h3 {
-  font-size: 1.4em;
+  font-size: 1.6em;
   line-height: 1.5em;
-  font-weight: 400;
+  font-weight: 700;
   margin-bottom: .5em;
+  text-transform: uppercase;
 }
 h4 {
   font-size: 1.125em;
@@ -287,16 +288,7 @@ h1 a, h2 a, h3 a, h4 a {
   margin-bottom: 1.5em;
   list-style: none;
 }
-@media screen and (min-width: 50em) {
-  .teaser li {
-    float: left;
-    width: 30%;
-    margin-left: 5%;
-  }
-  .teaser li:first-child {
-    margin-left: 0;
-  }
-}
+
 
 
 /* Next/Prev nav
@@ -337,7 +329,7 @@ main > section {
   margin-bottom: 3em;
 }
 
-blockquote, .chapter {
+.chapter {
   border: 1px solid #ccc;
   padding: 1em;
 }
@@ -488,11 +480,21 @@ ul.flex > li:last-child {
 
 
 
-
 hr.page-seperator,
 section {
-  max-width: 50em;
+  max-width: 1200px;
   margin: 0 auto;
+}
+
+@media screen and (min-width: 1200px) {
+  .teaser li {
+    float: left;
+    width: 30%;
+    margin-left: 5%;
+  }
+  .teaser li:first-child {
+    margin-left: 0;
+  }
 }
 
 section {
@@ -504,6 +506,27 @@ hr.page-seperator {
   background-color: #C4251A;
 }
 
+.teaser {
+  position: relative;
+}
+.quote {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  color: white;
+}
 .teaserimage img {
   width: 100%;
+}
+
+figcaption {
+  font-weight: 100;
+  font-style: italic;
+}
+.subtext {
+  font-size: 0.9em;
+}
+.two-col-text {
+  column-count: 2;
 }
