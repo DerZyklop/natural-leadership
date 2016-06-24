@@ -10,8 +10,20 @@ Startimage: photo.jpg
 
 ----
 
-Textimage: stats.png
+Textimage: dateiname.png
 
 ----
 
 Subtext: Leoeokfowekofewkof kweofkoew kfoewj iwjoifnruib grebg hsbg ielrbgehulkbg urkab hruqebiulqrbgu ilqrbguie rlqbrg egniu relqn ugilberquilgb eriulqbgu erilqbgu ierlbqgerlbiqgu erq.
+
+----
+
+Quote: Design is not just what it looks like and feels like. Design is how it works.
+
+----
+
+Quoteauthor: Steve Jobs
+
+----
+
+Headline: Klarheit, Mut, Menschlichkeit

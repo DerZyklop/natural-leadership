@@ -7,23 +7,35 @@
     <?php endif ?>
   </figure>
 <?php endif ?>
-<h2 id="<?= $p->uid() ?>"><?php echo $p->title()->html() ?></h2>
+<?php if ($p->hasQuote()): ?>
+  <blockquote>
+    „<?= $p->quote()->kirbytextRaw() ?>“
+    <?php if ($p->hasQuoteauthor()): ?>
+      <footer>– <?= $p->quoteauthor() ?></footer>
+    <?php endif ?>
+  </blockquote>
+<?php endif ?>
+<?php if ($p->hasHeadline()): ?>
+  <h2 id="<?= $p->uid() ?>"><?= $p->headline()->html() ?></h2>
+<?php endif ?>
 <?php if ($p->hasText()) : ?>
   <div class="text">
-    <?php echo $p->text()->kirbytext() ?>
+    <?= $p->text()->kirbytext() ?>
     <?php if ($p->hasTextimage()): ?>
       <?php $image = $p->images()->find($p->textimage()); ?>
-      <figure>
-        <?= $image ?>
-        <?php if ($image->hasCaption()): ?>
-          <figcaption><?= $image->caption() ?></figcaption>
-        <?php endif ?>
-      </figure>
+      <?php if ($image): ?>
+        <figure>
+          <?= $image ?>
+          <?php if ($image->hasCaption()): ?>
+            <figcaption><?= $image->caption() ?></figcaption>
+          <?php endif ?>
+        </figure>
+      <?php endif ?>
     <?php endif ?>
   </div>
 <?php endif ?>
 <?php if ($p->hasSubtext()): ?>
   <div class="text">
-    <?php echo $p->subtext()->kirbytext() ?>
+    <?= $p->subtext()->kirbytext() ?>
   </div>
 <?php endif ?>
