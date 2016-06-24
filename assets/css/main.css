@@ -95,8 +95,6 @@ body {
   margin: 0 auto;
   font-size: 1.25em;
   line-height: 1.5em;
-  padding: 1.5em;
-  max-width: 50em;
   background: #fff;
   color: #222;
 }
@@ -105,12 +103,9 @@ body {
 /* Header
 -------------------------------------------------- */
 .header {
-  border-bottom: 2px solid #C4251A;
-  margin-bottom: 1.5em;
 }
 .logo {
   display: block;
-  margin-bottom: 1.5em;
 }
 .logo img {
   width: 8em;
@@ -175,9 +170,11 @@ body {
 }
 
 @media screen and (min-width: 40em) {
-  body {
+/*
+  section {
     padding: 3em;
   }
+*/
   .logo {
     float: left;
   }
@@ -346,4 +343,167 @@ blockquote, .chapter {
 }
 blockquote p {
   font-style: italic;
+}
+
+
+
+
+/* Flexbox [BEGIN] */
+.flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: flext-start;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+}
+.flex > * {
+  flex: 1 1 0;
+  padding: 0 0.5rem;
+}
+.flex > .flex-1 {
+  flex-basis: 8.333%;
+  max-width: 8.333%;
+}
+.flex > .flex-2 {
+  flex-basis: 16.667%;
+  max-width: 16.667%;
+}
+.flex > .flex-3 {
+  flex-basis: 25%;
+  max-width: 25%;
+}
+.flex > .flex-4 {
+  flex-basis: 33.333%;
+  max-width: 33.333%;
+}
+.flex > .flex-5 {
+  flex-basis: 41.667%;
+  max-width: 41.667%;
+}
+.flex > .flex-6 {
+  flex-basis: 50%;
+  max-width: 50%;
+}
+.flex > .flex-7 {
+  flex-basis: 58.333%;
+  max-width: 58.333%;
+}
+.flex > .flex-8 {
+  flex-basis: 66.667%;
+  max-width: 66.667%;
+}
+.flex > .flex-9 {
+  flex-basis: 75%;
+  max-width: 75%;
+}
+.flex > .flex-10 {
+  flex-basis: 83.333%;
+  max-width: 83.333%;
+}
+.flex > .flex-11 {
+  flex-basis: 91.667%;
+  max-width: 91.667%;
+}
+.flex > .flex-12 {
+  flex-basis: 100%;
+  max-width: 100%;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.flex-2 {
+  flex: 2;
+}
+
+.flex-3 {
+  flex: 3;
+}
+
+.flex-4 {
+  flex: 4;
+}
+
+.flex-5 {
+  flex: 5;
+}
+
+.flex-6 {
+  flex: 6;
+}
+
+.flex-7 {
+  flex: 7;
+}
+
+.flex-8 {
+  flex: 8;
+}
+
+.flex-9 {
+  flex: 9;
+}
+
+.flex-10 {
+  flex: 10;
+}
+
+.flex-11 {
+  flex: 11;
+}
+
+.flex-12 {
+  flex: 12;
+}
+
+.flex-start {
+  justify-content: flex-start;
+}
+
+.flex-end {
+  justify-content: flex-end;
+}
+
+.flex-baseline {
+  align-items: baseline;
+}
+
+.flex-end > *,
+.flex-start > * {
+  flex: 0 1 auto;
+}
+
+ul.flex {
+  list-style: none;
+}
+ul.flex > li {
+  margin-right: 1em;
+}
+ul.flex > li:last-child {
+  margin-right: 0;
+}
+
+
+
+
+
+hr.page-seperator,
+section {
+  max-width: 50em;
+  margin: 0 auto;
+}
+
+section {
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}
+
+hr.page-seperator {
+  background-color: #C4251A;
+}
+
+.teaserimage img {
+  width: 100%;
 }

@@ -1,11 +1,13 @@
 <?php if ($p->hasStartimage()): ?>
-  <?php $image = $p->images()->find($p->startimage()); ?>
-  <figure>
-    <?= $image ?>
-    <?php if ($image->hasCaption()): ?>
-      <figcaption><?= $image->caption() ?></figcaption>
-    <?php endif ?>
-  </figure>
+  <div class="teaserimage">
+    <?php $image = $p->images()->find($p->startimage()); ?>
+    <figure>
+      <?= $image ?>
+      <?php if ($image->hasCaption()): ?>
+        <figcaption><?= $image->caption() ?></figcaption>
+      <?php endif ?>
+    </figure>
+  </div>
 <?php endif ?>
 <?php if ($p->hasQuote()): ?>
   <blockquote>
@@ -15,27 +17,38 @@
     <?php endif ?>
   </blockquote>
 <?php endif ?>
-<?php if ($p->hasHeadline()): ?>
-  <h2 id="<?= $p->uid() ?>"><?= $p->headline()->html() ?></h2>
-<?php endif ?>
+
 <?php if ($p->hasText()) : ?>
-  <div class="text">
-    <?= $p->text()->kirbytext() ?>
-    <?php if ($p->hasTextimage()): ?>
-      <?php $image = $p->images()->find($p->textimage()); ?>
-      <?php if ($image): ?>
-        <figure>
-          <?= $image ?>
-          <?php if ($image->hasCaption()): ?>
-            <figcaption><?= $image->caption() ?></figcaption>
-          <?php endif ?>
-        </figure>
-      <?php endif ?>
+  <section>
+    <?php if ($p->hasHeadline()): ?>
+      <h2 id="<?= $p->uid() ?>"><?= $p->headline()->html() ?></h2>
     <?php endif ?>
-  </div>
+    <div class="flex">
+      <div class="flex-6">
+        <div class="text">
+          <?= $p->text()->kirbytext() ?>
+        </div>
+      </div>
+      <div class="flex-6">
+        <?php if ($p->hasTextimage()): ?>
+          <?php $image = $p->images()->find($p->textimage()); ?>
+          <?php if ($image): ?>
+            <figure>
+              <?= $image ?>
+              <?php if ($image->hasCaption()): ?>
+                <figcaption><?= $image->caption() ?></figcaption>
+              <?php endif ?>
+            </figure>
+          <?php endif ?>
+        <?php endif ?>
+      </div>
+    </div>
+  </section>
 <?php endif ?>
-<?php if ($p->hasSubtext()): ?>
-  <div class="text">
-    <?= $p->subtext()->kirbytext() ?>
-  </div>
-<?php endif ?>
+<section>
+  <?php if ($p->hasSubtext()): ?>
+    <div class="text">
+      <?= $p->subtext()->kirbytext() ?>
+    </div>
+  <?php endif ?>
+</section>

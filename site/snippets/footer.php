@@ -1,3 +1,4 @@
+<section>
   <footer class="footer cf" role="contentinfo">
 
     <a href="<?= $pages->find("impressum")->url(); ?>">Impressum</a>
@@ -7,6 +8,7 @@
     </div>
 
   </footer>
+</section>
 
 </body>
 </html>
