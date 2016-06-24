@@ -11,7 +11,7 @@ Warum gibt es im Kindergarten immer Kinder, die bestimmen dürfen, was gespielt 
 
 ----
 
-Startimage: photo.jpg
+Backgroundimage: photo.jpg
 
 ----
 

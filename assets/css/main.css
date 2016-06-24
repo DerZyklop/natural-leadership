@@ -195,13 +195,13 @@ header > .flex > * {
 /* Headings
 -------------------------------------------------- */
 h1 {
-  font-size: 2em;
+  font-size: 2.2em;
   line-height: 1.25em;
   font-weight: 400;
   margin-bottom: .5em;
 }
 h2 {
-  font-size: 2em;
+  font-size: 2.4em;
   line-height: 1.25em;
   font-weight: 300;
   margin-bottom: .5em;
@@ -215,11 +215,11 @@ h3 {
   text-transform: uppercase;
 }
 h4 {
-  font-size: 1.125em;
+  font-size: 1.1em;
   font-weight: 600;
   line-height: 1.5em;
   margin-bottom: .5em;
-  color: #C4251A;
+  text-transform: uppercase;
 }
 h1 a, h2 a, h3 a, h4 a {
   color: inherit;
@@ -327,8 +327,13 @@ main > section {
 }
 
 .chapter {
-  border: 1px solid #ccc;
+  border: 2px solid #000;
+  background: #fff;
   padding: 1em;
+  margin: 1em 0 2em 0;
+}
+.chapter:hover {
+  border-color: #C4251A;
 }
 blockquote p {
   font-style: italic;
@@ -483,7 +488,7 @@ ul.flex > li:last-child {
 
 
 header,
-hr.page-seperator,
+.page-seperator,
 section {
   max-width: 1200px;
   margin: 0 auto;
@@ -503,21 +508,37 @@ section {
 section {
   padding-top: 1.5em;
   padding-bottom: 1.5em;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
-hr.page-seperator {
+.page-seperator hr {
+  margin: 0;
   background-color: #C4251A;
 }
 
 .teaser {
   position: relative;
 }
-.quote {
+.overlay {
   position: absolute;
   left: 0;
   right: 0;
+  top: 0;
   bottom: 0;
   color: white;
+  overflow: hidden;
+}
+.overlay h1,
+.overlay h2,
+.overlay h3,
+.overlay h4,
+.overlay h5,
+.overlay h6 {
+  color: inherit;
+}
+#home .overlay {
+  top: initial;
 }
 .teaserimage img {
   width: 100%;
@@ -543,4 +564,13 @@ figcaption {
 .permanentmailhint > a > img {
   padding-top: 0.5em;
   padding-bottom: .5em
+}
+
+ul {
+  list-style-position: inside;
+  list-style-type: square;
+}
+#wolf-luedge {
+  padding: 1px;
+  background-color: #f1f1ee;
 }

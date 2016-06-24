@@ -5,7 +5,7 @@ fields:
   title:
     label: Title
     type:  text
-  startimage:
+  backgroundimage:
     label: Großes Bild als Zitat-Hintergrund
     type:  select
     options: images

@@ -5,20 +5,22 @@
       $i = 0;
     ?>
     <?php foreach ($site->children()->visible() as $p): ?>
-      <?php if ($i != 0): ?>
-        <section>
-          <div class="flex">
-            <div class="flex-1"></div>
-            <div class="flex-10">
-              <hr class="page-seperator">
+      <div id="<?= $p->uid() ?>">
+        <?php if ($i != 0): ?>
+          <div class="page-seperator">
+            <div class="flex">
+              <div class="flex-1"></div>
+              <div class="flex-10">
+                <hr>
+              </div>
+              <div class="flex-1"></div>
             </div>
-            <div class="flex-1"></div>
           </div>
-        </section>
-      <?php else: ?>
-        <?php $i++; ?>
-      <?php endif ?>
-      <?php snippet($p->intendedTemplate(), array('p' => $p)); ?>
+        <?php else: ?>
+          <?php $i++; ?>
+        <?php endif ?>
+        <?php snippet($p->intendedTemplate(), array('p' => $p)); ?>
+      </div>
     <?php endforeach ?>
   </main>
 

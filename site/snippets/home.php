@@ -1,24 +1,26 @@
-<div class="teaser">
+<div id="<?= $p->uid() ?>" class="teaser">
   <?php if ($p->hasQuote()): ?>
-    <div class="quote">
+    <div class="overlay">
       <section>
-        <div class="flex">
-          <div class="flex-5"></div>
-          <div class="flex-7">
-            <blockquote>
-              — „<?= $p->quote()->kirbytextRaw() ?>“
-              <?php if ($p->hasQuoteauthor()): ?>
-                <footer><?= $p->quoteauthor() ?></footer>
-              <?php endif ?>
-            </blockquote>
+        <div class="quote">
+          <div class="flex">
+            <div class="flex-5"></div>
+            <div class="flex-7">
+              <blockquote>
+                — „<?= $p->quote()->kirbytextRaw() ?>“
+                <?php if ($p->hasQuoteauthor()): ?>
+                  <footer><?= $p->quoteauthor() ?></footer>
+                <?php endif ?>
+              </blockquote>
+            </div>
           </div>
         </div>
       </section>
     </div>
   <?php endif ?>
-  <?php if ($p->hasStartimage()): ?>
+  <?php if ($p->hasBackgroundimage()): ?>
     <div class="teaserimage">
-      <?php $image = $p->images()->find($p->startimage()); ?>
+      <?php $image = $p->images()->find($p->backgroundimage()); ?>
       <figure>
         <?= $image ?>
         <?php if ($image->hasCaption()): ?>
@@ -34,11 +36,9 @@
     <div class="flex">
       <div class="flex-1"></div>
       <div class="flex-6">
-        <div class="text">
-          <?php if ($p->hasHeadline()): ?>
-            <h3><?= $p->headline()->html() ?></h3>
-          <?php endif ?>
-        </div>
+        <?php if ($p->hasHeadline()): ?>
+          <h3><?= $p->headline()->html() ?></h3>
+        <?php endif ?>
       </div>
       <div class="flex-1"></div>
       <div class="flex-4"></div>

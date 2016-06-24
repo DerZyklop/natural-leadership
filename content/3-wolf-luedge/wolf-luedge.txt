@@ -2,19 +2,84 @@ Title: Wolf Lüdge
 
 ----
 
+Backgroundimage: artboard.png
+
+----
+
 Chapters: 
 
 - 
-  start_date: 2006-11-03
-  end_date: 2010-06-19
+  start_date: 2006-01-03
+  end_date: 2010-01-19
   company: Medialis.net
   position: Semi-Profi
   text: >
     Von anderen auf die Finger gehauen
     bekommen.
+  branche: Lorem
+  tasks: Isum
+  achievements: LoLoLorem
 - 
   start_date: 2016-06-01
   end_date: 2016-12-22
   company: Placeworkers GmbH
   position: Profi
   text: Anderen auf die Finger hauen.
+
+----
+
+Quote: 
+
+Habe keine Angst vor der Zukunft. 
+Et kütt, wie et kütt.
+
+----
+
+Text: Lorem ipsum dolor sit amet, __consectetur__ adipiscing elit. Cras imperdiet nec erat ac condimentum. Nulla vel rutrum ligula. Sed hendrerit interdum orci a posuere. Vivamus ut velit aliquet, mollis purus eget, iaculis nisl. Proin posuere malesuada ante. Proin auctor orci eros, ac molestie lorem dictum nec.
+
+----
+
+Teasertext: Lorem ipsum dolor sit amet, __consectetur__ adipiscing elit. Cras imperdiet nec erat ac condimentum. Nulla vel rutrum ligula. Sed hendrerit interdum orci a posuere. Vivamus ut velit aliquet, mollis purus eget, iaculis nisl. 
+
+----
+
+Headline: Fach- und Führungsprofil Kurzübersicht
+
+----
+
+Headline2: Beruflicher Werdegang
+
+----
+
+Leftcol: 
+
+- 
+  title: Foo
+  text: |
+    - Bar
+    - Foobar
+    - Lorem
+    - Ipsum
+- 
+  title: Lorem
+  text: |
+    - Ipsum
+    - Bar
+
+----
+
+Rightcol: 
+
+- 
+  title: Ipsum
+  text: |
+    - Lorem
+    - Bar
+    - BarFooo
+- 
+  title: Bar
+  text: |
+    - Foobar
+    - Lorem
+    - Ipsum
+    - Bar
