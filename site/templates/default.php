@@ -6,13 +6,15 @@
     ?>
     <?php foreach ($site->children()->visible() as $p): ?>
       <?php if ($i != 0): ?>
-        <div class="flex">
-          <div class="flex-1"></div>
-          <div class="flex-10">
-            <hr class="page-seperator">
+        <section>
+          <div class="flex">
+            <div class="flex-1"></div>
+            <div class="flex-10">
+              <hr class="page-seperator">
+            </div>
+            <div class="flex-1"></div>
           </div>
-          <div class="flex-1"></div>
-        </div>
+        </section>
       <?php else: ?>
         <?php $i++; ?>
       <?php endif ?>

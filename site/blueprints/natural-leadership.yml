@@ -5,6 +5,13 @@ fields:
   title:
     label: Title
     type:  text
+  text:
+    label: Text
+    type:  textarea
+  textimage:
+    label: Bild zum Text
+    type:  select
+    options: images
   chapters:
     label: Inhalte
     type: structure
@@ -17,13 +24,10 @@ fields:
       text:
         label: Text
         type: textarea
-  quote:
-    label: Zitat
-    type:  textarea
-    size: small
-  quoteauthor:
-    label: Zitat-Author
-    type:  text
+      textimage:
+        label: Bild zum Text
+        type:  select
+        options: images
 files:
   fields:
     caption:
