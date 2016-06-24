@@ -1,8 +1,9 @@
-<?php if ($p->hasImages()): ?>
+<?php if ($p->hasStartimage()): ?>
+  <?php $image = $p->images()->find($p->startimage()); ?>
   <figure>
-    <?= $p->images()->first() ?>
-    <?php if ($p->images()->first()->hasCaption()): ?>
-      <figcaption><?= $p->images()->first()->caption() ?></figcaption>
+    <?= $image ?>
+    <?php if ($image->hasCaption()): ?>
+      <figcaption><?= $image->caption() ?></figcaption>
     <?php endif ?>
   </figure>
 <?php endif ?>
@@ -10,5 +11,14 @@
 <?php if ($p->hasText()) : ?>
   <div class="text">
     <?php echo $p->text()->kirbytext() ?>
+    <?php if ($p->hasTextimage()): ?>
+      <?php $image = $p->images()->find($p->textimage()); ?>
+      <figure>
+        <?= $image ?>
+        <?php if ($image->hasCaption()): ?>
+          <figcaption><?= $image->caption() ?></figcaption>
+        <?php endif ?>
+      </figure>
+    <?php endif ?>
   </div>
 <?php endif ?>

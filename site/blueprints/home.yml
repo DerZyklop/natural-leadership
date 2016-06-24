@@ -1,0 +1,23 @@
+title: Page
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  startimage:
+    label: Großes Bild als Zitat-Hintergrund
+    type:  select
+    options: images
+  text:
+    label: Text
+    type:  textarea
+  textimage:
+    label: Kleines Bild neben dem Text
+    type:  select
+    options: images
+files:
+  fields:
+    caption:
+      label: Bildunterschrift
+      type: textarea

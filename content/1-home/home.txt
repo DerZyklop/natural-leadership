@@ -3,3 +3,11 @@ Title: Home
 ----
 
 Text: Hallo Miri!
+
+----
+
+Startimage: photo.jpg
+
+----
+
+Textimage: stats.png
