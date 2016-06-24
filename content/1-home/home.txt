@@ -15,7 +15,7 @@ Startimage: photo.jpg
 
 ----
 
-Textimage: dateiname.png
+Textimage: pk300.jpg
 
 ----
 
