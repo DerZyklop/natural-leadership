@@ -30,13 +30,13 @@
 </div>
 
 <?php if ($p->hasText()) : ?>
-  <section>
+  <section id="<?= $p->uid() ?>">
     <div class="flex">
       <div class="flex-1"></div>
       <div class="flex-6">
         <div class="text">
           <?php if ($p->hasHeadline()): ?>
-            <h3 id="<?= $p->uid() ?>"><?= $p->headline()->html() ?></h3>
+            <h3><?= $p->headline()->html() ?></h3>
           <?php endif ?>
         </div>
       </div>

@@ -24,9 +24,11 @@
     </div>
     <div class="flex-8"><?php snippet('menu') ?></div>
     <div class="flex-1 permanentmailhint">
-      <a href="#">
-        <img width="50px" src="/assets/images/mail-icon.svg">
-      </a>
+      <?php if ($pages->find("kontakt")): ?>
+        <a href="<?php echo $site->url() ?>/#<?= $pages->find("kontakt")->uri() ?>">
+          <img width="50px" src="/assets/images/mail-icon.svg">
+        </a>
+      <?php endif ?>
       </div>
     </div>
   </div>

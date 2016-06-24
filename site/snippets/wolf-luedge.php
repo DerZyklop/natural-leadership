@@ -1,4 +1,4 @@
-<section>
+<section id="<?= $p->uid() ?>">
   <?php snippet("default", array('p' => $p, )); ?>
   <?php if ($p->hasChapters()): ?>
     <?php foreach ($p->chapters()->toStructure() as $c): ?>
