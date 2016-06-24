@@ -14,12 +14,20 @@
 </head>
 <body>
 
-<section>
-  <header class="header cf" role="banner">
-    <a class="logo" href="<?php echo url() ?>">
-      <img src="<?php echo url('assets/images/logo.svg') ?>" alt="<?php echo $site->title()->html() ?>" />
-      <h1 style="display: none"><?php echo $site->title()->html() ?></h1>
-    </a>
-    <?php snippet('menu') ?>
-  </header>
-</section>
+<header role="banner">
+  <div class="flex flex-center">
+    <div class="flex-3">
+      <a class="logo" href="<?php echo url() ?>">
+        <img src="<?php echo url('assets/images/logo.svg') ?>" alt="<?php echo $site->title()->html() ?>" />
+        <h1 style="display: none"><?php echo $site->title()->html() ?></h1>
+      </a>
+    </div>
+    <div class="flex-8"><?php snippet('menu') ?></div>
+    <div class="flex-1 permanentmailhint">
+      <a href="#">
+        <img width="50px" src="/assets/images/mail-icon.svg">
+      </a>
+      </div>
+    </div>
+  </div>
+</header>

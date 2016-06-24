@@ -1,7 +1,7 @@
 <nav role="navigation">
-  <ul class="menu cf">
+  <ul class="menu flex">
     <?php foreach($pages->visible() as $p): ?>
-    <li>
+    <li class="flex-fit-content">
       <a <?php e($p->isOpen(), ' class="active"') ?> href="<?php echo $site->url() ?>/#<?= $p->uid() ?>"><?php echo $p->title()->html() ?></a>
       <?php if($p->hasVisibleChildren()): ?>
       <ul class="submenu">

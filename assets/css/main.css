@@ -102,8 +102,12 @@ body {
 
 /* Header
 -------------------------------------------------- */
-.header {
+
+header > .flex > * {
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
+
 .logo {
   display: block;
 }
@@ -176,13 +180,6 @@ body {
   }
 */
   .logo {
-    float: left;
-  }
-  .menu {
-    float: right;
-    margin-right: -1em;
-  }
-  .menu > li {
     float: left;
   }
   .menu > li > a {
@@ -344,13 +341,13 @@ blockquote p {
 .flex {
   display: flex;
   flex-direction: row;
-  justify-content: flext-start;
+  justify-content: flex-start;
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
 }
 .flex > * {
-  flex: 1 1 0;
+  flex: 1 1 auto;
   padding: 0 0.5rem;
 }
 .flex > .flex-1 {
@@ -458,6 +455,11 @@ blockquote p {
   justify-content: flex-end;
 }
 
+.flex-center {
+  /* justify-content: flex-end; */
+  align-content: center;
+}
+
 .flex-baseline {
   align-items: baseline;
 }
@@ -480,6 +482,7 @@ ul.flex > li:last-child {
 
 
 
+header,
 hr.page-seperator,
 section {
   max-width: 1200px;
@@ -529,4 +532,15 @@ figcaption {
 }
 .two-col-text {
   column-count: 2;
+}
+.permanentmailhint {
+  position: fixed;
+  z-index: 10;
+}
+.permanentmailhint > a {
+  display: block;
+}
+.permanentmailhint > a > img {
+  padding-top: 0.5em;
+  padding-bottom: .5em
 }
