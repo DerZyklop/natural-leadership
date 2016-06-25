@@ -107,14 +107,22 @@
               <h5><?= $c->position()->html() ?></h5>
             <?php endif ?>
             <?php if ($c->branche()->length()): ?>
-              <?= $c->branche()->html() ?><br>
+              <?= $c->branche()->kirbytext() ?>
             <?php endif ?>
-            <?php if ($c->achievements()->length()): ?>
-              <?= $c->achievements()->html() ?><br>
-            <?php endif ?>
-            <?php if ($c->tasks()->length()): ?>
-              <?= $c->tasks()->html() ?><br>
-            <?php endif ?>
+            <div class="flex">
+              <?php if ($c->tasks()->length()): ?>
+                <div>
+                  <h5>Aufgaben</h5>
+                  <?= $c->tasks()->kirbytext() ?>
+                </div>
+              <?php endif ?>
+              <?php if ($c->achievements()->length()): ?>
+                <div>
+                  <h5>Erfolge</h5>
+                  <?= $c->achievements()->kirbytext() ?>
+                </div>
+              <?php endif ?>
+            </div>
           </div>
         </div>
         <div class="flex-1"></div>
