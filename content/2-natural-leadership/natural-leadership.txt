@@ -62,7 +62,11 @@ Quoteauthor: Nils Neumann
 
 ----
 
-Text: Lorem ipsum dolor sit amet, __consectetur__ adipiscing elit. Cras imperdiet nec erat ac condimentum. Nulla vel rutrum ligula. Sed hendrerit interdum orci a posuere. Vivamus ut velit aliquet, mollis purus eget, iaculis nisl. Proin posuere malesuada ante. Proin auctor orci eros, ac molestie lorem dictum nec. Vestibulum sit amet erat est. Morbi luctus sed elit ac luctus. Proin blandit, enim vitae egestas posuere, neque elit ultricies dui, vel mattis nibh enim ac lorem. Maecenas molestie nisl sit amet velit dictum lobortis. Aliquam erat volutpat.
+Text: 
+
+Mein Ansatz Natural Leadership beschreibt die Kernkompetenzen eines modernen Leaders. Ich möchte Sie auffordern, sich zum Anführer Ihrer Mitarbeiter, Ihrer Community zu entwickeln. 
+Gehen Sie in Ihre Verantwortung und werden sie vom  head zum leader!
+Was ist das, was in der heutigen Zeit einen Leader Ausmacht?
 
 ----
 
