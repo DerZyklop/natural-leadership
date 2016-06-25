@@ -206,7 +206,6 @@ h2 {
   font-weight: 300;
   margin-top: .5em;
   margin-bottom: .5em;
-  color: #C4251A;
   text-transform: uppercase;
 }
 h3 {
@@ -359,6 +358,24 @@ blockquote {
 */
 }
 
+
+
+input, textarea {
+  border: 1px solid #bbb;
+  width: 100%;
+  font-size: 0.9em;
+  padding: 0.3em;
+  margin: 0.3em 0;
+}
+.formblock {
+  margin: 0.3em 0;
+}
+.formblock.checkbox > * {
+  width: auto;
+}
+.formblock.checkbox input {
+  margin-right: 0.5em;
+}
 
 
 
