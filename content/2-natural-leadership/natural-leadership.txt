@@ -30,7 +30,7 @@ Chapters:
     Jeder Leader muss seine Gewinn- und Verlustrechnung, seine  Liquidität und seine Operations im Griff haben. Die Steuerbarkeit des Unternehmens ist die Grundlage für Vertrauen und Handlungsfähigkeit der Mitarbeiter.
     
     Den größten Nutzen, den der Leader Ihnen Mitarbeitern stiften kann, wichtiger als Ideale, Werte und Visionen, ist ein sicherer Arbeitsplatz und ein sicheres Einkommen. Das ist die primäre Pflicht den Menschen gegenüber.
-  textimage: 450.jpg
+  textimage: 500-1.jpg
 - 
   title: >
     Ihre Organisation muss den Menschen
@@ -39,7 +39,7 @@ Chapters:
     Schaffen Sie ein Umfeld aus Prozessen und Verantwortlichkeiten für Ihre Mitarbeiter, in dem diese sich entwickeln und entfalten können. Sie machen dadurch das Unternehmen zur Herzensangelegenheit.
     
     Leben Sie Menschlichkeit und Verantwortung gegenüber Menschen und seien Sie klar und mutig. Seien Sie ein Vorbild, aber nahbar!
-  textimage: 430.jpg
+  textimage: 500.jpg
 - 
   title: Sei Dir im Klaren über Dich selbst!
   text: >

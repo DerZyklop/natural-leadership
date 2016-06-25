@@ -1,4 +1,4 @@
-<div class="flex">
+<div class="flex flex-center">
   <div class="flex-1"></div>
   <div class="flex-4">
     <?php if ($c->hasTextimage()): ?>

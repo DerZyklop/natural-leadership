@@ -33,7 +33,7 @@
 
 <?php if ($p->hasText()) : ?>
   <section id="<?= $p->uid() ?>">
-    <div class="flex">
+    <div class="flex flex-center">
       <div class="flex-1"></div>
       <div class="flex-6">
         <?php if ($p->hasHeadline()): ?>

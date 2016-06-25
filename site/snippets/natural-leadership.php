@@ -1,5 +1,5 @@
 <section id="<?= $p->uid() ?>">
-  <div class="flex">
+  <div class="flex flex-center">
     <div class="flex-4">
       <?php if ($p->hasTextimage()): ?>
         <?php $image = $p->images()->find($p->textimage()) ?>

@@ -1,4 +1,4 @@
-<div class="flex">
+<div class="flex flex-center">
   <div class="flex-1"></div>
   <div class="flex-6">
     <h4 class="title"><span class="counter"><?= $i+1 ?></span><?= $c->title()->html() ?></h4>
