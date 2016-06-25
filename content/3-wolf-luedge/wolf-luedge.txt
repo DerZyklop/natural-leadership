@@ -39,7 +39,7 @@ Text: Lorem ipsum dolor sit amet, __consectetur__ adipiscing elit. Cras imperdie
 
 ----
 
-Teasertext: Lorem ipsum dolor sit amet, __consectetur__ adipiscing elit. Cras imperdiet nec erat ac condimentum. Nulla vel rutrum ligula. Sed hendrerit interdum orci a posuere. Vivamus ut velit aliquet, mollis purus eget, iaculis nisl. 
+Teasertext: Lorem ipsum dolor sit amet, __consectetur__ adipiscing elit. Cras imperdiet nec erat ac condimentum. Nulla vel rutrum ligula. Sed hendrerit interdum orci a posuere. Vivamus ut velit aliquet, mollis purus eget, iaculis nisl.
 
 ----
 
@@ -83,3 +83,11 @@ Rightcol:
     - Lorem
     - Ipsum
     - Bar
+
+----
+
+Ononepager: 1
+
+----
+
+Ismenuitem: 1

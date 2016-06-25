@@ -8,6 +8,7 @@ language: de
 role: admin
 history:
   - kontakt
-  - natural-leadership
   - wolf-luedge
+  - natural-leadership
   - home
+  - impressum

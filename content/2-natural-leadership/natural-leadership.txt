@@ -67,3 +67,7 @@ Text: Lorem ipsum dolor sit amet, __consectetur__ adipiscing elit. Cras imperdie
 ----
 
 Textimage: artboard.png
+
+----
+
+Ismenuitem: 1

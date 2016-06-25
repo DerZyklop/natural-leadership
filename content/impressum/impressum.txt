@@ -2,4 +2,12 @@ Title: Impressum
 
 ----
 
-Text: -
+Text: 
+
+----
+
+Visible: 1
+
+----
+
+Ismenuitem: 0
