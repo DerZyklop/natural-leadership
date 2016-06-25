@@ -110,18 +110,22 @@
               <?= $c->branche()->kirbytext() ?>
             <?php endif ?>
             <div class="flex">
-              <?php if ($c->tasks()->length()): ?>
-                <div>
-                  <h5>Aufgaben</h5>
-                  <?= $c->tasks()->kirbytext() ?>
-                </div>
-              <?php endif ?>
-              <?php if ($c->achievements()->length()): ?>
-                <div>
-                  <h5>Erfolge</h5>
-                  <?= $c->achievements()->kirbytext() ?>
-                </div>
-              <?php endif ?>
+              <div class="flex-6">
+                <?php if ($c->tasks()->length()): ?>
+                  <div>
+                    <h5>Aufgaben</h5>
+                    <?= $c->tasks()->kirbytext() ?>
+                  </div>
+                <?php endif ?>
+              </div>
+              <div class="flex-6">
+                <?php if ($c->achievements()->length()): ?>
+                  <div>
+                    <h5>Erfolge</h5>
+                    <?= $c->achievements()->kirbytext() ?>
+                  </div>
+                <?php endif ?>
+              </div>
             </div>
           </div>
         </div>
