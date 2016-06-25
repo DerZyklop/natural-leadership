@@ -44,3 +44,7 @@ Quoteauthor: Wolf Lüdge
 ----
 
 Headline: Klarheit, Mut, Menschlichkeit
+
+----
+
+Ismenuitem: 1

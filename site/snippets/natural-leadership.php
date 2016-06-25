@@ -1,5 +1,5 @@
 <section id="<?= $p->uid() ?>">
-  <div class="flex">
+  <div class="flex flex-center">
     <div class="flex-4">
       <?php if ($p->hasTextimage()): ?>
         <?php $image = $p->images()->find($p->textimage()) ?>
@@ -27,11 +27,11 @@
 <?php $i = 0; ?>
 <?php if ($p->hasChapters()): ?>
   <?php foreach ($p->chapters()->toStructure() as $c): ?>
-    <section>
+    <section class="chapter">
       <?php if ($i%2): ?>
-        <?php snippet("chapter-a", array('c' => $c, 'p' => $p)); ?>
+        <?php snippet("chapter-a", array('c' => $c, 'p' => $p, 'i' => $i)); ?>
       <?php else : ?>
-        <?php snippet("chapter-b", array('c' => $c, 'p' => $p)); ?>
+        <?php snippet("chapter-b", array('c' => $c, 'p' => $p, 'i' => $i)); ?>
       <?php endif ?>
       <?php $i++; ?>
     </section>

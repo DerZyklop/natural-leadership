@@ -1,0 +1,13 @@
+Title: Impressum
+
+----
+
+Text: Text des Impressum.
+
+----
+
+Visible: 1
+
+----
+
+Ismenuitem: 0

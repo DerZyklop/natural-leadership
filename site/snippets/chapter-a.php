@@ -1,4 +1,4 @@
-<div class="flex">
+<div class="flex flex-center">
   <div class="flex-1"></div>
   <div class="flex-4">
     <?php if ($c->hasTextimage()): ?>
@@ -15,7 +15,7 @@
   </div>
   <div class="flex-1"></div>
   <div class="flex-6">
-    <h3><?= $c->title()->html() ?></h3>
-    <?= $c->text()->kirbytext() ?>
+    <h4 class="title"><span class="counter"><?= $i+1 ?></span><?= $c->title()->html() ?></h4>
+    <div class="text"><?= $c->text()->kirbytext() ?></div>
   </div>
 </div>

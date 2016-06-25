@@ -230,3 +230,6 @@ Rightcol:
     - Consulting im Bereich „Global Risk Management Solutions“ (PwC)
     - Projektmanagement-Kaufmann
     - Umfangreiches Methoden-Know-How (Moderation, etc.)
+----
+
+Ismenuitem: 1

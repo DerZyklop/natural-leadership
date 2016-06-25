@@ -5,6 +5,9 @@ fields:
   title:
     label: Title
     type:  text
+  ismenuitem:
+    label: Sichtbar im Menü
+    type:  checkbox
   text:
     label: Text
     type:  textarea

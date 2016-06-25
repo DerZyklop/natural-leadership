@@ -60,7 +60,7 @@
       <?php if ($p->hasLeftcol()): ?>
         <?php foreach ($p->leftcol()->toStructure() as $c): ?>
           <?php if ($c->hasTitle()): ?>
-            <h4><?= $c->title()->html() ?></h4>
+            <h5><?= $c->title()->html() ?></h5>
           <?php endif ?>
           <?php if ($c->hasText()): ?>
             <?= $c->text()->kirbytext() ?>
@@ -73,7 +73,7 @@
       <?php if ($p->hasRightcol()): ?>
         <?php foreach ($p->rightcol()->toStructure() as $c): ?>
           <?php if ($c->hasTitle()): ?>
-            <h4><?= $c->title()->html() ?></h4>
+            <h5><?= $c->title()->html() ?></h5>
           <?php endif ?>
           <?php if ($c->hasText()): ?>
             <?= $c->text()->kirbytext() ?>
@@ -83,6 +83,8 @@
     </div>
     <div class="flex-3"></div>
   </div>
+</section>
+<section>
   <?php if ($p->hasHeadline2()): ?>
     <div class="flex">
       <div class="flex-2"></div>
@@ -96,23 +98,31 @@
       <div class="flex">
         <div class="flex-2"></div>
         <div class="flex-9">
-          <div class="chapter">
+          <div class="chapter box">
             <?= $c->start_date()->html() ?> – <?= $c->end_date()->html() ?>
             <?php if ($c->company()->length()): ?>
               <h3><?= $c->company()->html() ?></h3>
             <?php endif ?>
             <?php if ($c->position()->length()): ?>
-              <h4><?= $c->position()->html() ?></h4>
+              <h5><?= $c->position()->html() ?></h5>
             <?php endif ?>
             <?php if ($c->branche()->length()): ?>
-              <?= $c->branche()->html() ?><br>
+              <?= $c->branche()->kirbytext() ?>
             <?php endif ?>
-            <?php if ($c->achievements()->length()): ?>
-              <?= $c->achievements()->html() ?><br>
-            <?php endif ?>
-            <?php if ($c->tasks()->length()): ?>
-              <?= $c->tasks()->html() ?><br>
-            <?php endif ?>
+            <div class="flex">
+              <?php if ($c->tasks()->length()): ?>
+                <div>
+                  <h5>Aufgaben</h5>
+                  <?= $c->tasks()->kirbytext() ?>
+                </div>
+              <?php endif ?>
+              <?php if ($c->achievements()->length()): ?>
+                <div>
+                  <h5>Erfolge</h5>
+                  <?= $c->achievements()->kirbytext() ?>
+                </div>
+              <?php endif ?>
+            </div>
           </div>
         </div>
         <div class="flex-1"></div>
