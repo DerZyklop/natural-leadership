@@ -204,18 +204,27 @@ h2 {
   font-size: 2.4em;
   line-height: 1.25em;
   font-weight: 300;
+  margin-top: .5em;
   margin-bottom: .5em;
   color: #C4251A;
+  text-transform: uppercase;
 }
 h3 {
   font-size: 1.6em;
   line-height: 1.5em;
   font-weight: 700;
-  margin-bottom: .5em;
+  margin-bottom: 1.5em;
   text-transform: uppercase;
 }
 h4 {
   font-size: 1.1em;
+  font-weight: 600;
+  line-height: 1.5em;
+  margin-bottom: .5em;
+  text-transform: uppercase;
+}
+h5 {
+  font-size: 1em;
   font-weight: 600;
   line-height: 1.5em;
   margin-bottom: .5em;
@@ -335,8 +344,14 @@ main > section {
 .chapter:hover {
   border-color: #C4251A;
 }
-blockquote p {
+blockquote {
+  font-size: 1.3em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  font-family: serif;
+/*
   font-style: italic;
+*/
 }
 
 
@@ -506,10 +521,8 @@ section {
 }
 
 section {
-  padding-top: 1.5em;
-  padding-bottom: 1.5em;
-  margin-top: 2em;
-  margin-bottom: 2em;
+  margin-top: 3em;
+  margin-bottom: 3em;
 }
 
 .page-seperator hr {
@@ -536,6 +549,7 @@ section {
 .overlay h5,
 .overlay h6 {
   color: inherit;
+  margin: 0;
 }
 #home .overlay {
   top: initial;

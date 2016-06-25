@@ -60,7 +60,7 @@
       <?php if ($p->hasLeftcol()): ?>
         <?php foreach ($p->leftcol()->toStructure() as $c): ?>
           <?php if ($c->hasTitle()): ?>
-            <h4><?= $c->title()->html() ?></h4>
+            <h5><?= $c->title()->html() ?></h5>
           <?php endif ?>
           <?php if ($c->hasText()): ?>
             <?= $c->text()->kirbytext() ?>
@@ -73,7 +73,7 @@
       <?php if ($p->hasRightcol()): ?>
         <?php foreach ($p->rightcol()->toStructure() as $c): ?>
           <?php if ($c->hasTitle()): ?>
-            <h4><?= $c->title()->html() ?></h4>
+            <h5><?= $c->title()->html() ?></h5>
           <?php endif ?>
           <?php if ($c->hasText()): ?>
             <?= $c->text()->kirbytext() ?>
@@ -83,6 +83,8 @@
     </div>
     <div class="flex-3"></div>
   </div>
+</section>
+<section>
   <?php if ($p->hasHeadline2()): ?>
     <div class="flex">
       <div class="flex-2"></div>
@@ -102,7 +104,7 @@
               <h3><?= $c->company()->html() ?></h3>
             <?php endif ?>
             <?php if ($c->position()->length()): ?>
-              <h4><?= $c->position()->html() ?></h4>
+              <h5><?= $c->position()->html() ?></h5>
             <?php endif ?>
             <?php if ($c->branche()->length()): ?>
               <?= $c->branche()->html() ?><br>
