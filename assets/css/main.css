@@ -560,8 +560,10 @@ section {
   right: 0;
   top: 0;
   bottom: 0;
-  color: white;
   overflow: hidden;
+}
+#home .overlay {
+  color: white;
 }
 .overlay h1,
 .overlay h2,
