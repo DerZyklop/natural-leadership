@@ -15,7 +15,7 @@
   </div>
   <div class="flex-1"></div>
   <div class="flex-6">
-    <h3><?= $c->title()->html() ?></h3>
+    <h4><?= $c->title()->html() ?></h4>
     <?= $c->text()->kirbytext() ?>
   </div>
 </div>
