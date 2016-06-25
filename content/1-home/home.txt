@@ -11,11 +11,11 @@ Warum gibt es im Kindergarten immer Kinder, die bestimmen dürfen, was gespielt 
 
 ----
 
-Backgroundimage: photo.jpg
+Backgroundimage: header.png
 
 ----
 
-Textimage: pk300.jpg
+Textimage: pexels-photo-58862.jpg
 
 ----
 
@@ -44,10 +44,6 @@ Quoteauthor: Wolf Lüdge
 ----
 
 Headline: Klarheit, Mut, Menschlichkeit
-
-----
-
-Ononepager: 1
 
 ----
 

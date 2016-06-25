@@ -10,4 +10,5 @@ language: de
 role: editor
 history:
   - home
+  - wolf-luedge
   - natural-leadership
