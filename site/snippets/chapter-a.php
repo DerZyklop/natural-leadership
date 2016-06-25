@@ -15,7 +15,7 @@
   </div>
   <div class="flex-1"></div>
   <div class="flex-6">
-    <h4><?= $c->title()->html() ?></h4>
-    <?= $c->text()->kirbytext() ?>
+    <h4 class="title"><span class="counter"><?= $i+1 ?></span><?= $c->title()->html() ?></h4>
+    <div class="text"><?= $c->text()->kirbytext() ?></div>
   </div>
 </div>

@@ -27,11 +27,11 @@
 <?php $i = 0; ?>
 <?php if ($p->hasChapters()): ?>
   <?php foreach ($p->chapters()->toStructure() as $c): ?>
-    <section>
+    <section class="chapter">
       <?php if ($i%2): ?>
-        <?php snippet("chapter-a", array('c' => $c, 'p' => $p)); ?>
+        <?php snippet("chapter-a", array('c' => $c, 'p' => $p, 'i' => $i)); ?>
       <?php else : ?>
-        <?php snippet("chapter-b", array('c' => $c, 'p' => $p)); ?>
+        <?php snippet("chapter-b", array('c' => $c, 'p' => $p, 'i' => $i)); ?>
       <?php endif ?>
       <?php $i++; ?>
     </section>

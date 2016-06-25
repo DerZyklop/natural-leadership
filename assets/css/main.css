@@ -338,13 +338,13 @@ main > section {
   margin-bottom: 2em;
 }
 
-.chapter {
+.box {
   border: 2px solid #000;
   background: #fff;
   padding: 1em;
   margin: 1em 0 2em 0;
 }
-.chapter:hover {
+.box:hover {
   border-color: #C4251A;
 }
 blockquote {
@@ -590,4 +590,19 @@ ul {
 #wolf-luedge {
   padding: 1px;
   background-color: #f1f1ee;
+}
+#natural-leadership .chapter .text {
+  position: relative;
+  z-index: 1;
+}
+#natural-leadership .chapter .title {
+  position: relative;
+}
+#natural-leadership .chapter .title .counter {
+  position: absolute;
+  z-index: 0;
+  left: -20px;
+  top: 30px;
+  font-size: 8em;
+  color: #ecbd33;
 }

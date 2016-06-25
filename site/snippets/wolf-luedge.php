@@ -98,7 +98,7 @@
       <div class="flex">
         <div class="flex-2"></div>
         <div class="flex-9">
-          <div class="chapter">
+          <div class="chapter box">
             <?= $c->start_date()->html() ?> – <?= $c->end_date()->html() ?>
             <?php if ($c->company()->length()): ?>
               <h3><?= $c->company()->html() ?></h3>
