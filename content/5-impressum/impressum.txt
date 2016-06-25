@@ -2,7 +2,7 @@ Title: Impressum
 
 ----
 
-Text: 
+Text: Text des Impressum.
 
 ----
 
