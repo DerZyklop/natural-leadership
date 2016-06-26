@@ -99,7 +99,35 @@
         <div class="flex-2"></div>
         <div class="flex-9">
           <div class="chapter box">
-            <?= $c->start_date()->html() ?> – <?= $c->end_date()->html() ?>
+            <?php
+              $trans = array(
+                'Monday'    => 'Montag',
+                'Tuesday'   => 'Dienstag',
+                'Wednesday' => 'Mittwoch',
+                'Thursday'  => 'Donnerstag',
+                'Friday'    => 'Freitag',
+                'Saturday'  => 'Samstag',
+                'Sunday'    => 'Sonntag',
+                'Mon'       => 'Mo',
+                'Tue'       => 'Di',
+                'Wed'       => 'Mi',
+                'Thu'       => 'Do',
+                'Fri'       => 'Fr',
+                'Sat'       => 'Sa',
+                'Sun'       => 'So',
+                'January'   => 'Januar',
+                'February'  => 'Februar',
+                'March'     => 'März',
+                'May'       => 'Mai',
+                'June'      => 'Juni',
+                'July'      => 'Juli',
+                'October'   => 'Oktober',
+                'December'  => 'Dezember',
+              );
+              $start_date = strtr(date('F/y', strtotime($c->start_date())),$trans);
+              $end_date = strtr(date('F/y', strtotime($c->end_date())),$trans);
+            ?>
+            <?= $start_date ?> – <?= $end_date ?>
             <?php if ($c->company()->length()): ?>
               <h3><?= $c->company()->html() ?></h3>
             <?php endif ?>
