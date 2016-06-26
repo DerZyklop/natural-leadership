@@ -524,8 +524,8 @@ section {
   margin-bottom: 3em;
 }
 section, .page-seperator {
-  margin-right: 3em;
-  margin-left: 3em;
+  margin-right: 10vw;
+  margin-left: 10vw;
 }
 @media screen and (min-width: 1200px) {
   section, .page-seperator {
