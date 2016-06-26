@@ -124,8 +124,8 @@
                 'October'   => 'Oktober',
                 'December'  => 'Dezember',
               );
-              $start_date = strtr(date('F/y', strtotime($c->start_date())),$trans);
-              $end_date = strtr(date('F/y', strtotime($c->end_date())),$trans);
+              $start_date = strtr(date('F/Y', strtotime($c->start_date())),$trans);
+              $end_date = strtr(date('F/Y', strtotime($c->end_date())),$trans);
             ?>
             <?= $start_date ?> – <?= $end_date ?>
             <?php if ($c->company()->length()): ?>
