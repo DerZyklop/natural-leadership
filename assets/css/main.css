@@ -103,8 +103,9 @@ body {
 /* Header
 -------------------------------------------------- */
 
-header > .flex > * {
+header {
   padding-top: 1em;
+  padding-left: 1em;
   padding-bottom: 1em;
 }
 
@@ -334,11 +335,6 @@ h1 a, h2 a, h3 a, h4 a {
   padding-left: .25em;
 }
 
-main > section {
-  margin-top: 2em;
-  margin-bottom: 2em;
-}
-
 .box {
   border: 2px solid #000;
   background: #fff;
@@ -387,8 +383,10 @@ input, textarea {
   flex-direction: row;
   justify-content: flex-start;
   flex-wrap: wrap;
+/*
   margin-right: -0.5rem;
   margin-left: -0.5rem;
+*/
 }
 .flex > * {
   flex: 1 1 auto;
@@ -546,6 +544,10 @@ section {
 section {
   margin-top: 3em;
   margin-bottom: 3em;
+}
+section, .page-seperator {
+  margin-right: 3em;
+  margin-left: 3em;
 }
 
 .page-seperator hr {
