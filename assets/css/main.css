@@ -589,6 +589,7 @@ figcaption {
 @media screen and (min-width: 1200px) {
   .two-col-text {
     column-count: 2;
+    column-gap: 2.5em;
   }
 }
 
