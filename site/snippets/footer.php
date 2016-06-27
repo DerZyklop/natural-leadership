@@ -1,4 +1,4 @@
-<section>
+<!-- <section>
   <footer class="footer cf" role="contentinfo">
 
     <a href="<?php echo $site->url() ?>/#<?= $pages->find("impressum")->uri(); ?>">Impressum</a>
@@ -8,7 +8,7 @@
     </div>
 
   </footer>
-</section>
+</section> -->
 
 </body>
 </html>
