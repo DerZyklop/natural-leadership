@@ -2,7 +2,15 @@ Title: Impressum
 
 ----
 
-Text: Text des Impressum.
+Text: 
+
+Wolf Lüdge 
+Natural Leadership
+Hauser Gasse 19
+35578 Wetzlar
+
+Umsatzsteuer-ID: 
+Umsatzsteuer-Identifikationsnummer nach §27a Umsatzsteuergesetz: 02084331751
 
 ----
 
