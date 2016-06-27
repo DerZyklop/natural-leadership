@@ -594,8 +594,11 @@ figcaption {
 }
 
 ul {
-  list-style-position: inside;
+  list-style-position: outside;
   list-style-type: square;
+}
+ul li {
+  margin-left: 1em;
 }
 #wolf-luedge {
   padding: 1px;
