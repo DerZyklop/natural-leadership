@@ -24,11 +24,16 @@
     <div class="flex-1"></div>
 
     <div class="flex-1"></div>
+    <div class="flex-10">
+      <?php if ($p->hasCompany()) : ?>
+        <h5><?= $p->company()->html() ?></h5>
+      <?php endif ?>
+    </div>
+    <div class="flex-1"></div>
+
+    <div class="flex-1"></div>
     <div class="flex-4">
       <p>
-        <?php if ($p->hasCompany()) : ?>
-          <h5><?= $p->company()->html() ?></h5>
-        <?php endif ?>
         <?php if ($p->hasPlz()) : ?>
           <?= $p->plz()->html() ?> <?= $p->city()->html() ?><br>
         <?php endif ?>
@@ -39,6 +44,9 @@
           <?= $p->country()->html() ?><br>
         <?php endif ?>
       </p>
+    </div>
+    <div class="flex-1"></div>
+    <div class="flex-5">
       <p>
         <?php if ($p->hasEmail()) : ?>
           <a href="mailto:lorem@ipsum.de"><?= $p->email()->html() ?></a><br>
@@ -46,27 +54,11 @@
         <?php if ($p->hasPhone()) : ?>
           T <?= $p->phone()->html() ?><br>
         <?php endif ?>
-        <?php if ($p->hasMobilephone()) : ?>
+        <?php if ($p->mobilephone()->length()) : ?>
           M <?= $p->mobilephone()->html() ?><br>
         <?php endif ?>
       </p>
-    </div>
-    <div class="flex-1"></div>
-    <div class="flex-5">
-      <input type="text" name="" placeholder="Vor-/ Nachname">
-      <input type="text" name="" placeholder="Firma">
-      <textarea name="" placeholder="Nachricht"></textarea>
-      <input type="text" name="" placeholder="Email">
-      <input type="text" name="" placeholder="Kontaktnummer">
-      <div class="formblock checkbox">
-        <input id="rueckrufanfrage" type="checkbox" name=""><label for="rueckrufanfrage">Bitte rufen sie mich zurück</label>
-      </div>
-      <div class="formblock checkbox">
-        <input id="emailanfrage" type="checkbox" name=""><label for="emailanfrage">Bitte antworten sie mir per E-Mail</label>
-      </div>
-      <div class="formblock checkbox">
-        <input id="einhornanfrage" type="checkbox" name=""><label for="einhornanfrage">Bitte schenken sie mir ein Einhorn</label>
-      </div>
+      <?php //snippet("contactform") ?>
     </div>
     <div class="flex-1"></div>
   </div>
