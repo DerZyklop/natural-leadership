@@ -173,7 +173,7 @@ Text: Lorem ipsum dolor sit amet, __consectetur__ adipiscing elit. Cras imperdie
 
 ----
 
-Teasertext: Lorem ipsum dolor sit amet, __consectetur__ adipiscing elit. Cras imperdiet nec erat ac condimentum. Nulla vel rutrum ligula. Sed hendrerit interdum orci a posuere. Vivamus ut velit aliquet, mollis purus eget, iaculis nisl.
+Teasertext: Wolf Lüdge war in verschiedenen Unternehmen der grünen und der Markenartikelbranche als Geschäftsführer tätig. Er hatte die Funktion als Markenmanager von hessnatur mehr als 10 Jahre inne. Wolf Lüdge gilt als unkonventionelle Führungskraft, dessen  Umgang mit seinen Kollegen und Mitarbeitern geprägt ist  von Konsequenz und Herzlichkeit. Er ist ein Kumpeltyp, aber immer klar in der Sache.
 
 ----
 
@@ -230,6 +230,7 @@ Rightcol:
     - Consulting im Bereich „Global Risk Management Solutions“ (PwC)
     - Projektmanagement-Kaufmann
     - Umfangreiches Methoden-Know-How (Moderation, etc.)
+
 ----
 
 Ismenuitem: 1
