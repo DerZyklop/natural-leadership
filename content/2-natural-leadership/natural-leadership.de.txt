@@ -21,7 +21,7 @@ Chapters:
     Lösung nicht für jeden verständlich,
     ist sie nicht klar und simpel genug,
     dann ist es keine gute Lösung.
-  textimage: 420.jpg
+  textimage: nl_schaubild_simple.png
 - 
   title: >
     Haben Sie Ihr Unternehmen kaufmännisch
@@ -30,7 +30,7 @@ Chapters:
     Jeder Leader muss seine Gewinn- und Verlustrechnung, seine  Liquidität und seine Operations im Griff haben. Die Steuerbarkeit des Unternehmens ist die Grundlage für Vertrauen und Handlungsfähigkeit der Mitarbeiter.
     
     Den größten Nutzen, den der Leader Ihnen Mitarbeitern stiften kann, wichtiger als Ideale, Werte und Visionen, ist ein sicherer Arbeitsplatz und ein sicheres Einkommen. Das ist die primäre Pflicht den Menschen gegenüber.
-  textimage: 500-1.jpg
+  textimage: nl_schaubild_sicher.png
 - 
   title: >
     Ihre Organisation muss den Menschen
@@ -39,7 +39,7 @@ Chapters:
     Schaffen Sie ein Umfeld aus Prozessen und Verantwortlichkeiten für Ihre Mitarbeiter, in dem diese sich entwickeln und entfalten können. Sie machen dadurch das Unternehmen zur Herzensangelegenheit.
     
     Leben Sie Menschlichkeit und Verantwortung gegenüber Menschen und seien Sie klar und mutig. Seien Sie ein Vorbild, aber nahbar!
-  textimage: 500.jpg
+  textimage: nl_schaubild_menschlich.png
 - 
   title: Sei Dir im Klaren über Dich selbst!
   text: >
@@ -50,7 +50,7 @@ Chapters:
     Strategie und Leader, wenn man den Weg
     sieht. Dafür braucht es Klarheit, Mut
     und Menschlichkeit.
-  textimage: 440.jpg
+  textimage: nl_schaubild_reflektiert.png
 
 ----
 

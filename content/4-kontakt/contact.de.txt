@@ -2,7 +2,7 @@ Title: Kontakt
 
 ----
 
-Text: Hier ist Blindtext. Irgendwann auch echter Text. Nur heute noch nicht.
+Text: Auf große Macht, folgt große Verantwortung. *Badman*
 
 ----
 
@@ -26,7 +26,7 @@ Country: Germany
 
 ----
 
-Email: wolf@luedge.com
+Email: info@luedge.com
 
 ----
 
