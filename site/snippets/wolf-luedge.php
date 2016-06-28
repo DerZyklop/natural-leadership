@@ -25,7 +25,7 @@
       <?php if ($p->hasTeasertext()): ?>
         <div class="flex">
           <div class="flex-4"></div>
-          <div class="flex-8">
+          <div class="flex-8 teasertext">
             <?php echo $p->teasertext()->kirbytext() ?>
           </div>
         </div>
