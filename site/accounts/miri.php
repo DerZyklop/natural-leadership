@@ -10,7 +10,7 @@ language: de
 role: editor
 history:
   - kontakt
-  - natural-leadership
   - wolf-luedge
   - impressum
+  - natural-leadership
   - home

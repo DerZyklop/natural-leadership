@@ -2,7 +2,7 @@ Title: Kontakt
 
 ----
 
-Text: Auf große Macht, folgt große Verantwortung. *Badman*
+Text: Aus großer Macht folgt große Verantwortung. *Spiderman*
 
 ----
 
@@ -26,7 +26,7 @@ Country: Germany
 
 ----
 
-Email: info@luedge.com
+Email: info@wolfluedge.com
 
 ----
 
