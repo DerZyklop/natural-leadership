@@ -67,6 +67,9 @@ fields:
         type: date
         format: YYYY/MM
         width: 1/2
+      open_end:
+        label: Bis heute
+        type: checkbox
       company:
         label: Firma
         type: text

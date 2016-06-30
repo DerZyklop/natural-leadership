@@ -9,8 +9,8 @@ Backgroundimage: luedge_wolf_2013.png
 Chapters: 
 
 - 
-  start_date: 2002-01-15
-  end_date: 2015-07-25
+  start_date: 2002-01-01
+  end_date: 2015-07-01
   company: ikarus Design Handel
   position: Kaufmännischer-Geschäftsführer
   text: >
@@ -27,6 +27,7 @@ Chapters:
     - IT
     - Logistik
   achievements: ""
+  open_end: "1"
 - 
   start_date: 2014-01-06
   end_date: 2015-01-01

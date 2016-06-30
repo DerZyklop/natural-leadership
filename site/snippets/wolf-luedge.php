@@ -125,7 +125,11 @@
                 'December'  => 'Dezember',
               );
               $start_date = strtr(date('F/Y', strtotime($c->start_date())),$trans);
-              $end_date = strtr(date('F/Y', strtotime($c->end_date())),$trans);
+              if ($c->open_end() == '1') {
+                $end_date = "heute";
+              } else {
+                $end_date = strtr(date('F/Y', strtotime($c->end_date())),$trans);
+              }
             ?>
             <?= $start_date ?> – <?= $end_date ?>
             <?php if ($c->company()->length()): ?>
