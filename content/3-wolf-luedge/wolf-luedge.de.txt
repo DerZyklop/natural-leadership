@@ -27,6 +27,7 @@ Chapters:
     - IT
     - Logistik
   achievements: ""
+  open_end: "1"
 - 
   start_date: 2014-01-06
   end_date: 2015-01-01
