@@ -5,7 +5,52 @@ fields:
   title:
     label: Title
     type:  text
-  chapters:
+  ismenuitem:
+    label: Sichtbar im Menü
+    type:  checkbox
+  backgroundimage:
+    label: Großes Bild als Zitat-Hintergrund
+    type:  select
+    options: images
+  quote:
+    label: Zitat
+    type: textarea
+  teasertext:
+    label: Text
+    type: textarea
+  headline:
+    label: Überschrift
+    type: text
+ leftcol:
+    label: Linke Spalte
+    type: structure
+    width: 1/2
+    entry: >
+      <b>{{title}}</b><br>{{text}}
+    fields:
+      title:
+        label: Titel
+        type: text
+      text:
+        label: Text
+        type: textarea
+ rightcol:
+    label: Rechte Spalte
+    type: structure
+    width: 1/2
+    entry: >
+      <b>{{title}}</b><br>{{text}}
+    fields:
+      title:
+        label: Titel
+        type: text
+      text:
+        label: Text
+        type: textarea
+  headline2:
+    label: Überschrift
+    type: text
+ chapters:
     label: Abschnitte
     type: structure
     entry: >
@@ -32,8 +77,14 @@ fields:
         type: text
         placeholder: Geschäftsführer
         width: 1/2
-      text:
-        label: Tätigkeitsfeld
+      branche:
+        label: Branche
+        type: textarea
+      tasks:
+        label: Aufgaben
+        type: textarea
+      achievements:
+        label: Erfolge
         type: textarea
 files:
   fields:

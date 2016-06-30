@@ -1,4 +1,4 @@
-<h2 id="<?= $p->uid() ?>"><?php echo $p->title()->html() ?></h2>
+<h2><?php echo $p->title()->html() ?></h2>
 <?php if ($p->hasImages()): ?>
   <figure>
     <?= $p->images()->first() ?>

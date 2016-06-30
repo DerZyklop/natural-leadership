@@ -1,0 +1,38 @@
+title: Page
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  ismenuitem:
+    label: Sichtbar im Menü
+    type:  checkbox
+  backgroundimage:
+    label: Großes Bild als Zitat-Hintergrund
+    type:  select
+    options: images
+  quote:
+    label: Zitat
+    type: textarea
+  quoteauthor:
+    label: Zitat Autor
+    type: text
+  headline:
+    label: Überschrift
+    type:  text
+  text:
+    label: Text
+    type:  textarea
+  textimage:
+    label: Kleines Bild neben dem Text
+    type:  select
+    options: images
+  subtext:
+    label: Zweispaltiger Text
+    type:  textarea
+files:
+  fields:
+    caption:
+      label: Bildunterschrift
+      type: textarea
