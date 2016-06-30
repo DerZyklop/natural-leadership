@@ -60,12 +60,12 @@ fields:
       start_date:
         label: Start
         type: date
-        format: YYYY/DD
+        format: YYYY/MM
         width: 1/2
       end_date:
         label: Ende
         type: date
-        format: YYYY/DD
+        format: YYYY/MM
         width: 1/2
       company:
         label: Firma
