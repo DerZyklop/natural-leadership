@@ -120,7 +120,11 @@ body {
   padding-bottom: .5em
 }
 @media screen and (min-width: 1200px) {
-  header, header .logo-wrap {
+  header {
+
+  }
+
+/*  header, header .logo-wrap {
     background: #fff;
     position: relative;
     z-index: 20;
@@ -130,6 +134,7 @@ body {
     top: initial;
     right: initial;
   }
+*/
 }
 .logo {
   display: block;
