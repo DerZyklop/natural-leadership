@@ -9,13 +9,8 @@ Wolf Lüdge
 Hauser Gasse 19b
 35578 Wetzlar
 
-<<<<<<< HEAD
 E-Mail wolf@luedge.com
 Telefon (+49) 6441 67100-224
-=======
-E-Mail info@wolfluedge.com
-Telefon (+49) 6441 67100-0
->>>>>>> fc11ff188f4eb01840ee0766dabdac53852ede0c
 
 ----
 

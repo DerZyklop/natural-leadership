@@ -9,69 +9,73 @@ Backgroundimage: luedge_wolf_2013.png
 Chapters: 
 
 - 
-  start_date: 2015-01-28
-  end_date: 2016-01-31
-  company: ikarus Design Handel
-  position: Kaufmännischer-Geschäftsführer
+  start_date: 2015-02-01
+  end_date: 2016-01-01
+  company: ikarus Design Handel AG Schweiz
+  position: Geschäftsführer
   text: >
     Von anderen auf die Finger gehauen
     bekommen.
-  branche: Design, Möbel
+  branche: '**Branche:** **Möbel**'
   tasks: |
-    Kaufmännische-Geschäftsführung mit der Aufgabe, das Unternehmen zu restrukturie-ren und den Vertrieb zu reorganisieren.
-    Im Rahmen dieser Aufgabe waren mir folgende Bereiche unterstellt:
+    Geschäftsführung der Vertriebstochter
+    
+    **Aufgaben bei der Ikarus Design Handel GmbH Deutschland**
     - Vertrieb
     - Auftragsannahme
-    - Finanz- und Rechnungswesen
     - Personal
     - IT
     - Logistik
   achievements: ""
   open_end: "1"
 - 
-  start_date: 2014-01-06
+  start_date: 2014-06-01
   end_date: 2015-01-01
   company: >
     Santaverde Gesellschaft für
     Naturprodukte mbH
   position: Interims-Geschäftsführer
   text: Anderen auf die Finger hauen.
-  branche: Naturkosmetik
+  branche: '**Branche :** **Naturkosmetik**'
   tasks: |
     Befristete Interims-Geschäftsführung mit der Aufgabe, neue Vertriebswege für das Unternehmen zu erschließen und die Unternehmensstrukturen und -prozesse zu überarbeiten.
-    Im Rahmen dieser Aufgabe waren mir folgende Bereiche unterstellt:
+    
+    Aufgabenfelder
     - Marketing
     - Vertrieb & Vertriebsinnendienst
     - Einkauf
     - Finanz- und Rechnungswesen & Personal
-  achievements: |
-    - Im Rahmen des Auftrages ist es gelungen, SANTAVERDE im kompletten Reformhausmarkt zu platzieren.
-    - Das Unternehmen wurde strategisch klar im Nachhaltig- und  Gesundheitsmarkt  positioniert.
-    - Es wurde ein Steuerungssystem mit Plan- und Berichtswesen eingeführt.
+  achievements: ""
+  open_end: "0"
 - 
-  start_date: 2013-01-08
-  end_date: 2014-01-02
+  start_date: 2013-08-01
+  end_date: 2014-02-01
   company: Salus – Haus GmbH
-  position: Geschäftsführung
-  branche: ""
+  position: Geschäftsführer
+  branche: '**Branche: Naturarznei- & Naturarzneimittel**'
   tasks: |
-    Gemeinsam mit dem Firmeneigner war ich gesamtverantwortlicher Geschäftsführer, mit der Aufgabe das Unternehmen/ die Gruppe zu repositionieren und neue Vertriebswege zu erschließen.
-    Im Rahmen dieser Aufgabe waren mir folgende Bereiche unterstellt:
+    Gesamtverantwortlicher Geschäftsführer gemeinsam mit dem Firmeneigener, mit der Aufgabe das Unternehmen/ die Gruppe zu repositionieren und neue Vertriebswege zu erschließen.
+    
+    **Aufgabenfelder**
+    
     - PM, Werbung, Vertrieb & PR
     - Finanz- und Rechnungswesen /Controlling / Recht
     - Personal & IT
     - F&E, Einkauf und Produktion
-    Ferner gehörten zu meinem Aufgabenbereich die Beteiligungsführung der Firmen Schönenberger Säfte und Herbaria.
+    -  Beteiligungsführung der Firmen Schönenberger Säfte und Herbaria.
   achievements: ""
+  open_end: "0"
 - 
-  start_date: 2008-01-08
-  end_date: 2013-01-07
+  start_date: 2008-08-01
+  end_date: 2013-07-01
   company: Hess Naturtextilien GmbH
-  position: Geschäftsführung
-  branche: ""
+  position: Geschäftsführer
+  branche: '**Branche:** **Naturtextilien**'
   tasks: |
-    Allein-Geschäftsführung mit der Aufgabe, das Unternehmen nach einer Um-satz- und Ergebnisschwäche wieder auf das gewohnte Ergebnisniveau zu führen und eine strategische Repositionierung vorzunehmen; inklusive der Erschließung neuer Vertriebsmärkte.
-    Im Rahmen dieser Aufgabe waren mir folgende Bereiche unterstellt:
+    Allein-Geschäftsführung mit der Aufgabe, das Unternehmen nach einer Umsatz- und Ergebnisschwäche wieder auf das gewohnte Ergebnisniveau zu führen und eine strategische Repositionierung vorzunehmen; inklusive der Erschließung neuer Vertriebsmärkte.
+    **
+    Aufgabenfelder**
+    
     - Marketing & Vertrieb
     - PR, Branding & Markenführung
     - Finanz- und Rechnungswesen /Controlling / Recht
@@ -79,87 +83,68 @@ Chapters:
     - Warenlogistik und Auftragsannahme
     - EDV & Organisation
     - Design, Einkauf & Sourcing (strategische Führung; keine Kernkompetenz)
-  achievements: |
-    - Umsatzsteigerung von **28 % in 3 Jahren**
-    - Ergebnisverbesserung **EBITDA von 1 % auf 8 %**
-    - **Bestes Geschäftsjahr aller Zeiten** 2011/2012 in Ergebnis und Umsatz
-    - **Repositionierung der Marke** hessnatur in Design- und Kommunikationstil, sowie PR-Präsenz, verbunden mit einer signiﬁkanten Steigerung des **Bekanntheitsgrades von ca. 10 % auf über 20 %**
-    - Einführung von hessnatur auf dem US-Markt mit Katalog und Internet
-    - Umstellen des **Sortimentierungs-  prozesses und Reorganisation des Produktbereichs** im Hinblick auf die geplante Stationärexpansion
-    - Beginn Stationär-Rollout mit Ladener-  öffnungen in Hamburg und München
-    - **Erschließung neuer Sourcingmärkte** in Armenien und der Türkei und eine damit verbundene erhebliche Margenverbesserung
-    - **Erfolgreiches Cashmangement** nach der Insolvenz von Arcandor (vormals Karstadt-Quelle)
-    
-    Ausscheiden bei Hess Naturtextilien GmbH nach Übernahme durch Capvis per Juli 2012 – Freistellung bis Juli 2013.
+  achievements: ""
+  open_end: "0"
 - 
   start_date: 2001-01-01
-  end_date: 2008-01-07
+  end_date: 2008-07-01
   company: Hess Naturtextilien GmbH
   position: Kaufmännischer Geschäftsführer
-  branche: ""
+  branche: '**Branche:** **Naturtextilien**'
   tasks: |
     Kaufmännische Geschäftsführung mit der Aufgabe, das Unternehmen nach Übernah-me durch den KarstadtQuelle-Konzern  ﬁnanziell und organisatorisch auf eine soli-de Basis zu stellen.
-    Im Rahmen dieser Aufgabe waren mir folgende Bereiche unterstellt:
+    
+    **Aufgabenfelder
+    **
     - Finanz- und Rechnungswesen /Controlling / Recht
     - Personal
     - Warenlogistik und Auftragsannahme
     - EDV & Organisation
-  achievements: |
-    - **Umsetzung des Sanierungsplans** mit Personal-, Kosten- und Efﬁzienzsteigerungsprogrammen
-    - **Finanzieller Turnaround  und Stabilisierung** des Unternehmens auf einem hohen Ergebnisniveau (8% EBITDA)
-    - **Organisatorische Neuausrichtung** und Optimierung des Auftragabwicklungsprozesses (25 % - 30 % Efﬁzienzsteigerung)
-    - **Überführung des Unternehmens** aus einer Eigentümergeschäftsführung in eine Führung durch das Management mit gleichzeitiger Eingliederung in den Karstadt-Quelle-Konzern
+  achievements: ""
+  open_end: "0"
 - 
   start_date: 2000-01-01
-  end_date: 2000-01-12
+  end_date: 2000-12-01
   company: Hess Naturtextilien GmbH
   position: Kaufmännischer Leiter ppa.
-  branche: ""
+  branche: '**Branche:** **Naturtextilien**'
   tasks: |
     - Abschluss- und Berichtswesen
     - Finanzierungsmittelbeschaffung und Liquiditätssteuerung
     - Strategische und operative Planung
     - Strategisches und operatives Controlling
-    - Erstellung eines Sanierungskonzepts und verantwortlich für Umsetzung
+    - Erstellung Umsetzung  Sanierungskonzept
   achievements: ""
+  open_end: "0"
 - 
-  start_date: 1999-01-02
-  end_date: 1999-01-12
+  start_date: 1999-02-01
+  end_date: 1999-12-01
   company: PwC Deutsche Revision
   position: 'Berater „Global Risk  Management Solutions“'
   branche: ""
-  tasks: |
-    Beratungsprojekte:
-    - Strategische Neuausrichtung des After-sale-Bereiches eines internationalen Maschinenbauherstellers
-    - Beurteilung der Controlling-Instrumente einer Management-  holding hinsichtlich der Anforderungen des KonTraG
-    - Durchführung der Jahresplanung eines Markenartikelherstellers
-    - Ergebnisanalyse eines börsennotierten Maschinenbauunternehmens
+  tasks: ""
   achievements: ""
+  open_end: "0"
 - 
-  start_date: 1996-01-02
+  start_date: 1996-02-01
   end_date: 1999-01-01
   company: Hess Naturtextilien GmbH
   position: Controller
   branche: ""
-  tasks: |
-    - Unternehmensplanung
-    - Forecasting
-    - Aufbau Marketingcontrolling u.a. Kalkulationssystem
-    - Konzeption & Entwicklung einer Balanced Scorecard
-    - Fachkonzept und Einführung SAP Modul CO
+  tasks: ""
   achievements: ""
+  open_end: "0"
 - 
-  start_date: 1995-01-07
+  start_date: 1995-07-01
   end_date: 1996-01-01
   company: >
     SG Capital Gesellschaft für Beratung
     und Betreuung mbH
   position: 'Sachbearbeiter im Bereich Mergers & Acquisitions'
   branche: ""
-  tasks: |
-    - Suche von Potentialkandidaten
-    - Erstellung von Unternehmensproﬁlen und -bewertungen
+  tasks: ""
   achievements: ""
+  open_end: "0"
 
 ----
 
@@ -174,7 +159,7 @@ Text: Lorem ipsum dolor sit amet, __consectetur__ adipiscing elit. Cras imperdie
 
 ----
 
-Teasertext: Wolf Lüdge war in verschiedenen Unternehmen der grünen und der Markenartikelbranche als Geschäftsführer tätig. Er hatte die Funktion als Markenmanager von hessnatur mehr als 10 Jahre inne. Wolf Lüdge gilt als unkonventionelle Führungskraft, dessen  Umgang mit seinen Kollegen und Mitarbeitern geprägt ist  von Konsequenz und Herzlichkeit. Er ist ein Kumpeltyp, aber immer klar in der Sache.
+Teasertext: 
 
 ----
 
@@ -191,23 +176,21 @@ Leftcol:
 - 
   title: Geschäftsführung
   text: |
-    - Ikarus Design Möbel GmbH
+    - Ikarus Designhandel AG Schweiz
     - Interimsmanagement SANTAVERDE
     - Salus – Haus GmbH
-    - 7 Jahre Kaufmännischer Geschäftsführer (hessnatur)
-    - 4 Jahre Alleingeschäftsführer (hessnatur)
-    - Sanierungserfahrung
-    - M&A-Erfahrung
-    - Erschließung USA – Geschäft (hessnatur)
+    - hessnatur
+    7 Jahre Kaufmännischer Geschäftsführer
+    4 Jahre Alleingeschäftsführer
 - 
   title: Branchenkentnisse
   text: |
-    - Einzelhandel (Textil, Kosmetik Nahrungsergänzungsmittel, Möbel)
-    - Produktionsbetrieb
-    - Versandhandel
+    - Einzel- und Versandhandel
+    - Textil
+    -  Kosmetik
+    -  Naturarznei- & Nahrungsergänzungsmittel
+    -  Möbel
     - Nachhaltigkeitsmarkt
-    - Consulting
-    - Bank
 
 ----
 
@@ -220,17 +203,10 @@ Rightcol:
     - Umfangreiche PR-Erfahrung
     - Sehr gute Vernetzung in der grünen Community
 - 
-  title: Führungskompetenz
+  title: Zusatzqualifikationen
   text: |
-    - Disziplinarische und fachliche Führung verschiedener Bereiche (Administration, Sales, Kreativ) und Tochterﬁrmen
-    - Ausbildung zum systemischen Coach
-- 
-  title: Problemlösungskompetenz
-  text: |
-    - Consulting im M&A-Bereich
-    - Consulting im Bereich „Global Risk Management Solutions“ (PwC)
-    - Projektmanagement-Kaufmann
-    - Umfangreiches Methoden-Know-How (Moderation, etc.)
+    - Systemischer Coach
+    - Projektmanagement-Fachmann
 
 ----
 

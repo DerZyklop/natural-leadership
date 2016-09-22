@@ -9,14 +9,8 @@ password: >
 language: de
 role: editor
 history:
-<<<<<<< HEAD
   - impressum
   - kontakt
   - home
-=======
-  - kontakt
->>>>>>> fc11ff188f4eb01840ee0766dabdac53852ede0c
   - wolf-luedge
-  - impressum
   - natural-leadership
-  - home
