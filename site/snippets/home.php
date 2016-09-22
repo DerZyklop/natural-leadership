@@ -1,5 +1,5 @@
 <div id="<?= $p->uid() ?>" class="teaser">
-  <?php if ($p->hasQuote()): ?>
+  <?php if ($p->hasQuote() && $p->quote() != ''): ?>
     <div class="overlay">
       <section>
         <div class="quote">
@@ -7,7 +7,7 @@
             <div class="flex-5"></div>
             <div class="flex-7">
               <blockquote>
-                — „<?= $p->quote()->kirbytextRaw() ?>“
+                — <?= $p->quote()->kirbytextRaw() ?>
                 <?php if ($p->hasQuoteauthor()): ?>
                   <footer><?= $p->quoteauthor() ?></footer>
                 <?php endif ?>

@@ -13,7 +13,7 @@
             <div class="flex-3"></div>
             <div class="flex-9">
               <blockquote>
-                — „<?= $p->quote()->kirbytextRaw() ?>“
+                — <?= $p->quote()->kirbytextRaw() ?>
                 <?php if ($p->hasQuoteauthor()): ?>
                   <footer><?= $p->quoteauthor() ?></footer>
                 <?php endif ?>

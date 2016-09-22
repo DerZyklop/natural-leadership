@@ -17,7 +17,7 @@
       <?php endif ?>
       <?php if ($p->hasText()) : ?>
         <blockquote>
-          — „<?= $p->text()->kirbytextRaw() ?>“
+          — <?= $p->text()->kirbytextRaw() ?>
         </blockquote>
       <?php endif ?>
     </div>
