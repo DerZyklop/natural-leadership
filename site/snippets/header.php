@@ -16,7 +16,7 @@
 
 <header role="banner">
   <div class="flex flex-center">
-    <div class="flex-3">
+    <div class="flex-3 logo-wrap">
       <a class="logo" href="<?php echo url() ?>">
         <img src="<?php echo url('assets/images/logo.svg') ?>" alt="<?php echo $site->title()->html() ?>" />
         <h1 style="display: none"><?php echo $site->title()->html() ?></h1>

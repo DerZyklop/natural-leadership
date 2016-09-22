@@ -120,6 +120,12 @@ body {
   padding-bottom: .5em
 }
 @media screen and (min-width: 1200px) {
+  header, header .logo-wrap {
+    background: #fff;
+    position: relative;
+    z-index: 20;
+  }
+
   .permanentmailhint {
     top: initial;
     right: initial;
@@ -638,3 +644,4 @@ ul li {
   font-size: 8em;
   color: #ecbd33;
 }
+
