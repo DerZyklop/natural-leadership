@@ -26,6 +26,7 @@ Country: Germany
 
 ----
 
+<<<<<<< HEAD
 Email: wolf@luedge.com
 
 ----
@@ -35,6 +36,17 @@ Phone: (+49) 6441 67100-224
 ----
 
 Mobilephone: (+49) 172 6979 360
+=======
+Email: info@wolfluedge.com
+
+----
+
+Phone: (+49) 6441 67100-0
+
+----
+
+Mobilephone: 
+>>>>>>> fc11ff188f4eb01840ee0766dabdac53852ede0c
 
 ----
 
