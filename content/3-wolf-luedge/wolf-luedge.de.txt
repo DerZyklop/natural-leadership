@@ -150,9 +150,6 @@ Chapters:
 
 Quote: 
 
-Habe keine Angst vor der Zukunft. 
-Et kütt, wie et kütt.
-
 ----
 
 Text: Lorem ipsum dolor sit amet, __consectetur__ adipiscing elit. Cras imperdiet nec erat ac condimentum. Nulla vel rutrum ligula. Sed hendrerit interdum orci a posuere. Vivamus ut velit aliquet, mollis purus eget, iaculis nisl. Proin posuere malesuada ante. Proin auctor orci eros, ac molestie lorem dictum nec.

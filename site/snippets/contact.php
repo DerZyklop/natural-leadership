@@ -15,7 +15,7 @@
           <?php endif ?>
         </figure>
       <?php endif ?>
-      <?php if ($p->hasText()) : ?>
+      <?php if ($p->hasText() && $p->text() != '') : ?>
         <blockquote>
           — <?= $p->text()->kirbytextRaw() ?>
         </blockquote>

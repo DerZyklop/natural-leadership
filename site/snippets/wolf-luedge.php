@@ -7,7 +7,7 @@
           <h2><?php echo $p->title()->html() ?></h2>
         </div>
       </div>
-      <?php if ($p->hasQuote()): ?>
+      <?php if ($p->hasQuote() && $p->quote() != ''): ?>
         <div class="quote">
           <div class="flex">
             <div class="flex-3"></div>
