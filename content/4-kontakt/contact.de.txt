@@ -2,7 +2,7 @@ Title: Kontakt
 
 ----
 
-Text: Werden sie teil blibla
+Text: Aus großer Macht folgt große Verantwortung. *Spiderman*
 
 ----
 
@@ -10,15 +10,15 @@ Company: Natural Leadership
 
 ----
 
-Plz: 12345
+Plz: 35578
 
 ----
 
-City: Berlin
+City: Wetzlar
 
 ----
 
-Street: Frankfurter Strasse
+Street: Hauser Gasse
 
 ----
 
@@ -26,19 +26,19 @@ Country: Germany
 
 ----
 
-Email: lorem@ipsum.de
+Email: wolf@luedge.com
 
 ----
 
-Phone: 123456789
+Phone: (+49) 6441 67100-224
 
 ----
 
-Mobilephone: 12345678987654
+Mobilephone: (+49) 172 6979 360
 
 ----
 
-Housenumber: 12
+Housenumber: 19b
 
 ----
 
