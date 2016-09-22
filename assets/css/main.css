@@ -120,8 +120,19 @@ body {
   padding-bottom: .5em
 }
 @media screen and (min-width: 1200px) {
+  main {
+    padding-top: 4.5em
+  }
   header {
-
+    background: #fff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    box-shadow:
+      0 0 20px rgba(0,0,0,0.1),
+      0 0 6px rgba(0,0,0,0.1);
   }
 
 /*  header, header .logo-wrap {
@@ -534,7 +545,7 @@ input, textarea {
 }
 
 
-header,
+header .width-wrap,
 .page-seperator,
 section {
   max-width: 1200px;
