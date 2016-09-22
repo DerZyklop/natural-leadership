@@ -358,17 +358,33 @@ h1 a, h2 a, h3 a, h4 a {
 .box:hover {
   border-color: #C4251A;
 }
+
 blockquote {
-  font-size: 1.5em;
-  line-height: 1.3em;
-  margin-top: 1.5em;
-  margin-bottom: 1.5em;
-  font-family: serif;
+  display: none;
 }
-blockquote > footer {
-  margin-top: 1em;
-  margin-bottom: 1em;
-  font-weight: bold;
+@media screen and (min-width: 1200px) {
+  blockquote {
+    display: block;
+    font-size: 1.5em;
+    line-height: 1.3em;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    font-family: serif;
+  }
+  blockquote > footer {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-weight: bold;
+  }
+}
+
+.teasertext {
+  display: none;
+}
+@media screen and (min-width: 1200px) {
+  .teasertext {
+    display: block;
+  }
 }
 
 
@@ -589,12 +605,16 @@ figcaption {
 @media screen and (min-width: 1200px) {
   .two-col-text {
     column-count: 2;
+    column-gap: 2.5em;
   }
 }
 
 ul {
-  list-style-position: inside;
+  list-style-position: outside;
   list-style-type: square;
+}
+ul li {
+  margin-left: 1em;
 }
 #wolf-luedge {
   padding: 1px;
