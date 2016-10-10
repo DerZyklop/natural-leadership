@@ -9,8 +9,8 @@ password: >
 language: de
 role: editor
 history:
-  - kontakt
-  - wolf-luedge
   - impressum
-  - natural-leadership
+  - kontakt
   - home
+  - wolf-luedge
+  - natural-leadership

@@ -41,7 +41,7 @@ Chapters:
     Leben Sie Menschlichkeit und Verantwortung gegenüber Menschen und seien Sie klar und mutig. Seien Sie ein Vorbild, aber nahbar!
   textimage: nl_schaubild_menschlich.png
 - 
-  title: Sei Dir im Klaren über Dich selbst!
+  title: 'Seien Sie sich  im Klaren über sich!'
   text: >
     Der Natural Leader muss sich Zeit nehmen
     für sich selbst, für seine spirituelle
