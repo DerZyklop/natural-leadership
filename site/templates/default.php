@@ -1,5 +1,4 @@
 <?php snippet('header') ?>
-
   <main class="main" role="main">
     <?php
       $i = 0;
