@@ -93,10 +93,15 @@ html {
 }
 body {
   margin: 0 auto;
-  font-size: 1.2em;
+  font-size: 1em;
   line-height: 1.5em;
   background: #fff;
   color: #222;
+}
+@media screen and (min-width: 1200px) {
+  body {
+    font-size: 1.2em;
+  }
 }
 
 
@@ -331,10 +336,17 @@ h1 a, h2 a, h3 a, h4 a {
 }
 .teaser .overlay section {
   margin-left: 30%;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 @media screen and (min-width: 1200px) {
   .teaser .overlay section {
     margin-left: initial;
+  }
+  .teaser .overlay section {
+    margin-left: 30%;
+    margin-top: 3em;
+    margin-bottom: 3em;
   }
 }
 
