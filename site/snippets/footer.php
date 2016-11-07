@@ -9,6 +9,6 @@
 
   </footer>
 </section> -->
-
+<?php snippet('analytics') ?>
 </body>
 </html>
