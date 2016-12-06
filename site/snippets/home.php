@@ -1,4 +1,4 @@
-<div id="<?= $p->uid() ?>" class="teaser">
+<div class="teaser">
   <?php if ($p->hasQuote() && $p->quote() != ''): ?>
     <div class="overlay">
       <section>
@@ -32,7 +32,7 @@
 </div>
 
 <?php if ($p->hasText()) : ?>
-  <section id="<?= $p->uid() ?>">
+  <section>
     <div class="flex flex-center">
       <div class="flex-1"></div>
       <div class="flex-6">
