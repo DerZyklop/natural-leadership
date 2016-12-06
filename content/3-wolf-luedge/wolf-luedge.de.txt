@@ -92,7 +92,7 @@ Chapters:
   position: Kaufmännischer Geschäftsführer
   branche: '**Branche:** **Naturtextilien**'
   tasks: |
-    Kaufmännische Geschäftsführung mit der Aufgabe, das Unternehmen nach Übernah-me durch den KarstadtQuelle-Konzern  ﬁnanziell und organisatorisch auf eine soli-de Basis zu stellen.
+    Kaufmännische Geschäftsführung mit der Aufgabe, das Unternehmen nach Übernahme durch den KarstadtQuelle-Konzern  ﬁnanziell und organisatorisch auf eine solide Basis zu stellen.
     
     **Aufgabenfelder
     **
