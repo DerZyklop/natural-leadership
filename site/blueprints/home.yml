@@ -33,6 +33,9 @@ fields:
     type:  textarea
 files:
   fields:
+    hyperlink:
+      label: Link für Datei
+      type: text
     caption:
       label: Bildunterschrift
       type: textarea

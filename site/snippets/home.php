@@ -54,7 +54,13 @@
           <?php $image = $p->images()->find($p->textimage()); ?>
           <?php if ($image): ?>
             <figure>
+              <?php if ($image->hyperlink() != ''): ?>
+                <a href="<?= $image->hyperlink() ?>">
+              <?php endif ?>
               <?= $image ?>
+              <?php if ($image->hyperlink() != ''): ?>
+                </a>
+              <?php endif ?>
               <?php if ($image->hasCaption()): ?>
                 <figcaption><?= $image->caption()->kirbytext() ?></figcaption>
               <?php endif ?>
