@@ -24,7 +24,7 @@
       <figure>
         <?= $image ?>
         <?php if ($image->hasCaption()): ?>
-          <figcaption><?= $image->caption() ?></figcaption>
+          <figcaption><?= $image->caption()->kirbytext() ?></figcaption>
         <?php endif ?>
       </figure>
     </div>
@@ -56,7 +56,7 @@
             <figure>
               <?= $image ?>
               <?php if ($image->hasCaption()): ?>
-                <figcaption><?= $image->caption() ?></figcaption>
+                <figcaption><?= $image->caption()->kirbytext() ?></figcaption>
               <?php endif ?>
             </figure>
           <?php endif ?>
