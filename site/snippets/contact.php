@@ -49,7 +49,7 @@
     <div class="flex-5">
       <p>
         <?php if ($p->hasEmail()) : ?>
-          <a href="mailto:lorem@ipsum.de"><?= $p->email()->html() ?></a><br>
+          <a href="mailto:<?= $p->email()->html() ?>"><?= $p->email()->html() ?></a><br>
         <?php endif ?>
         <?php if ($p->hasPhone()) : ?>
           T <?= $p->phone()->html() ?><br>

@@ -1,9 +1,9 @@
 <?php return array (
-  'lifetime' => 1478518269,
+  'lifetime' => 1481061757,
   'data' => 
   array (
     'isBrowserTriggerEnabled' => true,
-    'lastTrackerCronRun' => '1478517494',
+    'lastTrackerCronRun' => 1481061457,
     'allUrlsByHostAndIdSite' => 
     array (
       'luedge.com' => 
