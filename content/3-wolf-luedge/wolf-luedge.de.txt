@@ -9,8 +9,20 @@ Backgroundimage: luedge_wolf_2013.png
 Chapters: 
 
 - 
+  start_date: 2016-11-01
+  end_date: ""
+  open_end: "1"
+  company: 'naturkosmetik verlag lüdge GmbH & Co. KG'
+  position: Geschäftsführer
+  branche: 'Verlagswesen & Eventorganisation'
+  tasks: >
+    Organisation des
+    Naturkosmetik-Branchenkongress
+    (https://www.naturkosmetik-branchenkongress.de/de/)
+  achievements: ""
+- 
   start_date: 2015-02-01
-  end_date: 2016-01-01
+  end_date: ""
   company: ikarus Design Handel AG Schweiz
   position: Geschäftsführer
   text: >
@@ -92,7 +104,7 @@ Chapters:
   position: Kaufmännischer Geschäftsführer
   branche: '**Branche:** **Naturtextilien**'
   tasks: |
-    Kaufmännische Geschäftsführung mit der Aufgabe, das Unternehmen nach Übernah-me durch den KarstadtQuelle-Konzern  ﬁnanziell und organisatorisch auf eine soli-de Basis zu stellen.
+    Kaufmännische Geschäftsführung mit der Aufgabe, das Unternehmen nach Übernahme durch den KarstadtQuelle-Konzern  ﬁnanziell und organisatorisch auf eine solide Basis zu stellen.
     
     **Aufgabenfelder
     **
@@ -152,10 +164,6 @@ Quote:
 
 ----
 
-Text: Lorem ipsum dolor sit amet, __consectetur__ adipiscing elit. Cras imperdiet nec erat ac condimentum. Nulla vel rutrum ligula. Sed hendrerit interdum orci a posuere. Vivamus ut velit aliquet, mollis purus eget, iaculis nisl. Proin posuere malesuada ante. Proin auctor orci eros, ac molestie lorem dictum nec.
-
-----
-
 Teasertext: 
 
 ----
@@ -173,6 +181,7 @@ Leftcol:
 - 
   title: Geschäftsführung
   text: |
+    - naturkosmetik-verlag GmbH & Co. KG
     - Ikarus Designhandel AG Schweiz
     - Interimsmanagement SANTAVERDE
     - Salus – Haus GmbH

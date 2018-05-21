@@ -1,5 +1,5 @@
 <?php return array (
-  'lifetime' => 1478560915,
+  'lifetime' => 1526978478,
   'data' => 
   array (
     'PluginCorePluginsAdminMetadata' => 
@@ -15966,546 +15966,812 @@
         ),
       ),
     ),
-    'DeviceDetector-373regexes-vendorfragments' => 
-    array (
-      'Dell' => 
-      array (
-        0 => 'MDDR(JS)?',
-        1 => 'MDDC(JS)?',
-        2 => 'MDDS(JS)?',
-      ),
-      'Acer' => 
-      array (
-        0 => 'MAAR(JS)?',
-      ),
-      'Sony' => 
-      array (
-        0 => 'MASE(JS)?',
-        1 => 'MASP(JS)?',
-        2 => 'MASA(JS)?',
-      ),
-      'Asus' => 
-      array (
-        0 => 'MAAU',
-        1 => 'NP0[6789]',
-        2 => 'ASJB',
-        3 => 'ASU2(JS)?',
-      ),
-      'Samsung' => 
-      array (
-        0 => 'MASM(JS)?',
-        1 => 'SMJB',
-      ),
-      'Lenovo' => 
-      array (
-        0 => 'MALC(JS)?',
-        1 => 'MALE(JS)?',
-        2 => 'MALN(JS)?',
-        3 => 'LCJB',
-        4 => 'LEN2',
-      ),
-      'Toshiba' => 
-      array (
-        0 => 'MATM(JS)?',
-        1 => 'MATB(JS)?',
-        2 => 'MATP(JS)?',
-        3 => 'TNJB',
-        4 => 'TAJB',
-      ),
-      'Medion' => 
-      array (
-        0 => 'MAMD',
-      ),
-      'MSI' => 
-      array (
-        0 => 'MAMI(JS)?',
-        1 => 'MAM3',
-      ),
-      'Gateway' => 
-      array (
-        0 => 'MAGW(JS)?',
-      ),
-      'Fujitsu' => 
-      array (
-        0 => 'MAFS(JS)?',
-        1 => 'FSJB',
-      ),
-      'Compaq' => 
-      array (
-        0 => 'CPDTDF',
-        1 => 'CPNTDF(JS?)',
-        2 => 'CMNTDF(JS)?',
-        3 => 'CMDTDF(JS)?',
-      ),
-      'HP' => 
-      array (
-        0 => 'HPCMHP',
-        1 => 'HPNTDF(JS)?',
-        2 => 'HPDTDF(JS)?',
-      ),
-      'Hyrican' => 
-      array (
-        0 => 'MANM(JS)?',
-      ),
-    ),
     'ReferrerSpamFilter-referrer_spam_blacklist' => 
     array (
       0 => '0n-line.tv',
-      1 => '1-99seo.com',
-      2 => '1-free-share-buttons.com',
-      3 => '100dollars-seo.com',
-      4 => '12masterov.com',
-      5 => '1pamm.ru',
-      6 => '1webmaster.ml',
-      7 => '2your.site',
-      8 => '3-letter-domains.net',
-      9 => '4webmasters.org',
-      10 => '5forex.ru',
-      11 => '6hopping.com',
-      12 => '7makemoneyonline.com',
-      13 => '7zap.com',
-      14 => 'acads.net',
-      15 => 'acunetix-referrer.com',
-      16 => 'adcash.com',
-      17 => 'adf.ly',
-      18 => 'adspart.com',
-      19 => 'adtiger.tk',
-      20 => 'adventureparkcostarica.com',
-      21 => 'adviceforum.info',
-      22 => 'affordablewebsitesandmobileapps.com',
-      23 => 'afora.ru',
-      24 => 'akuhni.by',
-      25 => 'alibestsale.com',
-      26 => 'allknow.info',
-      27 => 'allnews.md',
-      28 => 'allwomen.info',
-      29 => 'alpharma.net',
-      30 => 'altermix.ua',
-      31 => 'amt-k.ru',
-      32 => 'anal-acrobats.hol.es',
-      33 => 'anapa-inns.ru',
-      34 => 'android-style.com',
-      35 => 'anticrawler.org',
-      36 => 'arendakvartir.kz',
-      37 => 'arkkivoltti.net',
-      38 => 'artparquet.ru',
-      39 => 'aruplighting.com',
-      40 => 'autovideobroadcast.com',
-      41 => 'aviva-limoux.com',
-      42 => 'azartclub.org',
-      43 => 'azlex.uz',
-      44 => 'baixar-musicas-gratis.com',
-      45 => 'baladur.ru',
-      46 => 'balitouroffice.com',
-      47 => 'bard-real.com.ua',
-      48 => 'best-seo-offer.com',
-      49 => 'best-seo-software.xyz',
-      50 => 'best-seo-solution.com',
-      51 => 'bestmobilityscooterstoday.com',
-      52 => 'bestwebsitesawards.com',
-      53 => 'bif-ru.info',
-      54 => 'biglistofwebsites.com',
-      55 => 'billiard-classic.com.ua',
-      56 => 'bizru.info',
-      57 => 'black-friday.ga',
-      58 => 'blackhatworth.com',
-      59 => 'blogtotal.de',
-      60 => 'blue-square.biz',
-      61 => 'bluerobot.info',
-      62 => 'boostmyppc.com',
-      63 => 'brakehawk.com',
-      64 => 'break-the-chains.com',
-      65 => 'brk-rti.ru',
-      66 => 'brothers-smaller.ru',
-      67 => 'budmavtomatika.com.ua',
-      68 => 'burger-imperia.com',
-      69 => 'burn-fat.ga',
-      70 => 'buttons-for-website.com',
-      71 => 'buttons-for-your-website.com',
-      72 => 'buy-cheap-online.info',
-      73 => 'buy-cheap-pills-order-online.com',
-      74 => 'buy-forum.ru',
-      75 => 'call-of-duty.info',
-      76 => 'cardiosport.com.ua',
-      77 => 'cartechnic.ru',
-      78 => 'cenokos.ru',
-      79 => 'cenoval.ru',
-      80 => 'cezartabac.ro',
-      81 => 'chcu.net',
-      82 => 'chinese-amezon.com',
-      83 => 'ci.ua',
-      84 => 'cityadspix.com',
-      85 => 'civilwartheater.com',
-      86 => 'clicksor.com',
-      87 => 'coderstate.com',
-      88 => 'codysbbq.com',
-      89 => 'compliance-john.top',
-      90 => 'conciergegroup.org',
-      91 => 'connectikastudio.com',
-      92 => 'cookie-law-enforcement-aa.xyz',
-      93 => 'cookie-law-enforcement-bb.xyz',
-      94 => 'cookie-law-enforcement-cc.xyz',
-      95 => 'cookie-law-enforcement-dd.xyz',
-      96 => 'cookie-law-enforcement-ee.xyz',
-      97 => 'cookie-law-enforcement-ff.xyz',
-      98 => 'cookie-law-enforcement-gg.xyz',
-      99 => 'cookie-law-enforcement-hh.xyz',
-      100 => 'cookie-law-enforcement-ii.xyz',
-      101 => 'cookie-law-enforcement-jj.xyz',
-      102 => 'cookie-law-enforcement-kk.xyz',
-      103 => 'cookie-law-enforcement-ll.xyz',
-      104 => 'cookie-law-enforcement-mm.xyz',
-      105 => 'cookie-law-enforcement-nn.xyz',
-      106 => 'cookie-law-enforcement-oo.xyz',
-      107 => 'cookie-law-enforcement-pp.xyz',
-      108 => 'cookie-law-enforcement-qq.xyz',
-      109 => 'cookie-law-enforcement-rr.xyz',
-      110 => 'cookie-law-enforcement-ss.xyz',
-      111 => 'cookie-law-enforcement-tt.xyz',
-      112 => 'cookie-law-enforcement-uu.xyz',
-      113 => 'cookie-law-enforcement-vv.xyz',
-      114 => 'cookie-law-enforcement-ww.xyz',
-      115 => 'cookie-law-enforcement-xx.xyz',
-      116 => 'cookie-law-enforcement-yy.xyz',
-      117 => 'cookie-law-enforcement-zz.xyz',
-      118 => 'copyrightclaims.org',
-      119 => 'covadhosting.biz',
-      120 => 'cubook.supernew.org',
-      121 => 'customsua.com.ua',
-      122 => 'cyber-monday.ga',
-      123 => 'dailyrank.net',
-      124 => 'darodar.com',
-      125 => 'dbutton.net',
-      126 => 'delfin-aqua.com.ua',
-      127 => 'demenageur.com',
-      128 => 'descargar-musica-gratis.net',
-      129 => 'detskie-konstruktory.ru',
-      130 => 'dipstar.org',
-      131 => 'djekxa.ru',
-      132 => 'djonwatch.ru',
-      133 => 'dktr.ru',
-      134 => 'dogsrun.net',
-      135 => 'dojki-hd.com',
-      136 => 'domain-tracker.com',
-      137 => 'dominateforex.ml',
-      138 => 'domination.ml',
-      139 => 'doska-vsem.ru',
-      140 => 'dostavka-v-krym.com',
-      141 => 'drupa.com',
-      142 => 'dvr.biz.ua',
-      143 => 'e-buyeasy.com',
-      144 => 'e-kwiaciarz.pl',
-      145 => 'easycommerce.cf',
-      146 => 'ecomp3.ru',
-      147 => 'econom.co',
-      148 => 'edakgfvwql.ru',
-      149 => 'egovaleo.it',
-      150 => 'ekatalog.xyz',
-      151 => 'ekto.ee',
-      152 => 'elmifarhangi.com',
-      153 => 'erot.co',
-      154 => 'escort-russian.com',
-      155 => 'este-line.com.ua',
-      156 => 'eu-cookie-law-enforcement2.xyz',
-      157 => 'euromasterclass.ru',
-      158 => 'europages.com.ru',
-      159 => 'eurosamodelki.ru',
-      160 => 'event-tracking.com',
-      161 => 'eyes-on-you.ga',
-      162 => 'fast-wordpress-start.com',
-      163 => 'fbdownloader.com',
-      164 => 'fix-website-errors.com',
-      165 => 'floating-share-buttons.com',
-      166 => 'for-your.website',
-      167 => 'forex-procto.ru',
-      168 => 'forsex.info',
-      169 => 'forum69.info',
-      170 => 'free-floating-buttons.com',
-      171 => 'free-share-buttons.com',
-      172 => 'free-social-buttons.com',
-      173 => 'free-social-buttons.xyz',
-      174 => 'free-social-buttons7.xyz',
-      175 => 'free-traffic.xyz',
-      176 => 'free-video-tool.com',
-      177 => 'freenode.info',
-      178 => 'freewhatsappload.com',
-      179 => 'fsalas.com',
-      180 => 'generalporn.org',
-      181 => 'germes-trans.com',
-      182 => 'get-free-social-traffic.com',
-      183 => 'get-free-traffic-now.com',
-      184 => 'get-your-social-buttons.info',
-      185 => 'getlamborghini.ga',
-      186 => 'getrichquick.ml',
-      187 => 'getrichquickly.info',
-      188 => 'ghazel.ru',
-      189 => 'ghostvisitor.com',
-      190 => 'girlporn.ru',
-      191 => 'gkvector.ru',
-      192 => 'glavprofit.ru',
-      193 => 'gobongo.info',
-      194 => 'goodprotein.ru',
-      195 => 'googlemare.com',
-      196 => 'googlsucks.com',
-      197 => 'guardlink.org',
-      198 => 'handicapvantoday.com',
-      199 => 'havepussy.com',
-      200 => 'hdmoviecamera.net',
-      201 => 'hdmoviecams.com',
-      202 => 'hongfanji.com',
-      203 => 'hosting-tracker.com',
-      204 => 'howopen.ru',
-      205 => 'howtostopreferralspam.eu',
-      206 => 'hulfingtonpost.com',
-      207 => 'humanorightswatch.org',
-      208 => 'hundejo.com',
-      209 => 'hvd-store.com',
-      210 => 'ico.re',
-      211 => 'igadgetsworld.com',
-      212 => 'igru-xbox.net',
-      213 => 'ilikevitaly.com',
-      214 => 'iloveitaly.ro',
-      215 => 'iloveitaly.ru',
-      216 => 'ilovevitaly.co',
-      217 => 'ilovevitaly.com',
-      218 => 'ilovevitaly.info',
-      219 => 'ilovevitaly.org',
-      220 => 'ilovevitaly.ru',
-      221 => 'ilovevitaly.xyz',
-      222 => 'iminent.com',
-      223 => 'imperiafilm.ru',
-      224 => 'increasewwwtraffic.info',
-      225 => 'investpamm.ru',
-      226 => 'iskalko.ru',
-      227 => 'ispaniya-costa-blanca.ru',
-      228 => 'it-max.com.ua',
-      229 => 'jjbabskoe.ru',
-      230 => 'justprofit.xyz',
-      231 => 'kabbalah-red-bracelets.com',
-      232 => 'kambasoft.com',
-      233 => 'kazrent.com',
-      234 => 'keywords-monitoring-success.com',
-      235 => 'keywords-monitoring-your-success.com',
-      236 => 'kino-fun.ru',
-      237 => 'kino-key.info',
-      238 => 'kinopolet.net',
-      239 => 'knigonosha.net',
-      240 => 'konkursov.net',
-      241 => 'law-check-two.xyz',
-      242 => 'law-enforcement-ee.xyz',
-      243 => 'law-enforcement-bot-ff.xyz',
-      244 => 'law-enforcement-check-three.xyz',
-      245 => 'law-six.xyz',
-      246 => 'laxdrills.com',
-      247 => 'legalrc.biz',
-      248 => 'littleberry.ru',
-      249 => 'livefixer.com',
-      250 => 'lsex.xyz',
-      251 => 'lumb.co',
-      252 => 'luxup.ru',
-      253 => 'magicdiet.gq',
-      254 => 'makemoneyonline.com',
-      255 => 'makeprogress.ga',
-      256 => 'manualterap.roleforum.ru',
-      257 => 'maridan.com.ua',
-      258 => 'marketland.ml',
-      259 => 'masterseek.com',
-      260 => 'mebelcomplekt.ru',
-      261 => 'mebeldekor.com.ua',
-      262 => 'med-zdorovie.com.ua',
-      263 => 'meds-online24.com',
-      264 => 'minegam.com',
-      265 => 'mirobuvi.com.ua',
-      266 => 'mirtorrent.net',
-      267 => 'mobilemedia.md',
-      268 => 'monetizationking.net',
-      269 => 'moneytop.ru',
-      270 => 'mosrif.ru',
-      271 => 'moyakuhnia.ru',
-      272 => 'muscle-factory.com.ua',
-      273 => 'myftpupload.com',
-      274 => 'myplaycity.com',
-      275 => 'net-profits.xyz',
-      276 => 'niki-mlt.ru',
-      277 => 'novosti-hi-tech.ru',
-      278 => 'nufaq.com',
-      279 => 'o-o-11-o-o.com',
-      280 => 'o-o-6-o-o.com',
-      281 => 'o-o-6-o-o.ru',
-      282 => 'o-o-8-o-o.com',
-      283 => 'o-o-8-o-o.ru',
-      284 => 'online-hit.info',
-      285 => 'online-templatestore.com',
-      286 => 'onlinetvseries.me',
-      287 => 'onlywoman.org',
-      288 => 'ooo-olni.ru',
-      289 => 'ownshop.cf',
-      290 => 'ozas.net',
-      291 => 'palvira.com.ua',
-      292 => 'petrovka-online.com',
-      293 => 'photokitchendesign.com',
-      294 => 'pizza-imperia.com',
-      295 => 'pizza-tycoon.com',
-      296 => 'popads.net',
-      297 => 'pops.foundation',
-      298 => 'pornhub-forum.ga',
-      299 => 'pornhub-forum.uni.me',
-      300 => 'pornhub-ru.com',
-      301 => 'pornoforadult.com',
-      302 => 'pornogig.com',
-      303 => 'pornoklad.ru',
-      304 => 'portnoff.od.ua',
-      305 => 'pozdravleniya-c.ru',
-      306 => 'priceg.com',
-      307 => 'pricheski-video.com',
-      308 => 'prlog.ru',
-      309 => 'producm.ru',
-      310 => 'prodvigator.ua',
-      311 => 'prointer.net.ua',
-      312 => 'promoforum.ru',
-      313 => 'pron.pro',
-      314 => 'psa48.ru',
-      315 => 'qualitymarketzone.com',
-      316 => 'quit-smoking.ga',
-      317 => 'qwesa.ru',
-      318 => 'rank-checker.online',
-      319 => 'rankings-analytics.com',
-      320 => 'ranksonic.info',
-      321 => 'ranksonic.net',
-      322 => 'ranksonic.org',
-      323 => 'rapidgator-porn.ga',
-      324 => 'rcb101.ru',
-      325 => 'rednise.com',
-      326 => 'replica-watch.ru',
-      327 => 'research.ifmo.ru',
-      328 => 'resellerclub.com',
-      329 => 'responsive-test.net',
-      330 => 'reversing.cc',
-      331 => 'rightenergysolutions.com.au',
-      332 => 'rospromtest.ru',
-      333 => 'rumamba.com',
-      334 => 'rusexy.xyz',
-      335 => 'sad-torg.com.ua',
-      336 => 'sady-urala.ru',
-      337 => 'sanjosestartups.com',
-      338 => 'santasgift.ml',
-      339 => 'savetubevideo.com',
-      340 => 'savetubevideo.info',
-      341 => 'screentoolkit.com',
-      342 => 'scripted.com',
-      343 => 'search-error.com',
-      344 => 'semalt.com',
-      345 => 'semaltmedia.com',
-      346 => 'seo-2-0.com',
-      347 => 'seo-platform.com',
-      348 => 'seo-smm.kz',
-      349 => 'seoanalyses.com',
-      350 => 'seoexperimenty.ru',
-      351 => 'seopub.net',
-      352 => 'sexsaoy.com',
-      353 => 'sexyali.com',
-      354 => 'sexyteens.hol.es',
-      355 => 'share-buttons.xyz',
-      356 => 'sharebutton.net',
-      357 => 'sharebutton.to',
-      358 => 'shop.xz618.com',
-      359 => 'sibecoprom.ru',
-      360 => 'simple-share-buttons.com',
-      361 => 'site-auditor.online',
-      362 => 'site5.com',
-      363 => 'siteripz.net',
-      364 => 'sitevaluation.org',
-      365 => 'sledstvie-veli.net',
-      366 => 'slftsdybbg.ru',
-      367 => 'slkrm.ru',
-      368 => 'slow-website.xyz',
-      369 => 'smailik.org',
-      370 => 'smartphonediscount.info',
-      371 => 'snip.to',
-      372 => 'snip.tw',
-      373 => 'soaksoak.ru',
-      374 => 'social-button.xyz',
-      375 => 'social-buttons-ii.xyz',
-      376 => 'social-buttons.com',
-      377 => 'social-traffic-1.xyz',
-      378 => 'social-traffic-2.xyz',
-      379 => 'social-traffic-3.xyz',
-      380 => 'social-traffic-4.xyz',
-      381 => 'social-traffic-5.xyz',
-      382 => 'social-traffic-7.xyz',
-      383 => 'social-widget.xyz',
-      384 => 'socialbuttons.xyz',
-      385 => 'socialseet.ru',
-      386 => 'socialtrade.biz',
-      387 => 'sohoindia.net',
-      388 => 'solitaire-game.ru',
-      389 => 'solnplast.ru',
-      390 => 'sosdepotdebilan.com',
-      391 => 'spin2016.cf',
-      392 => 'spravka130.ru',
-      393 => 'steame.ru',
-      394 => 'success-seo.com',
-      395 => 'superiends.org',
-      396 => 'supervesti.ru',
-      397 => 'taihouse.ru',
-      398 => 'tattooha.com',
-      399 => 'tedxrj.com',
-      400 => 'theguardlan.com',
-      401 => 'tomck.com',
-      402 => 'top1-seo-service.com',
-      403 => 'topquality.cf',
-      404 => 'topseoservices.co',
-      405 => 'traffic-cash.xyz',
-      406 => 'traffic2cash.org',
-      407 => 'traffic2cash.xyz',
-      408 => 'traffic2money.com',
-      409 => 'trafficgenius.xyz',
-      410 => 'trafficmonetize.org',
-      411 => 'trafficmonetizer.org',
-      412 => 'trion.od.ua',
-      413 => 'uasb.ru',
-      414 => 'unpredictable.ga',
-      415 => 'uptime.com',
-      416 => 'uptimechecker.com',
-      417 => 'uzungil.com',
-      418 => 'varikozdok.ru',
-      419 => 'vesnatehno.com',
-      420 => 'video--production.com',
-      421 => 'video-woman.com',
-      422 => 'videos-for-your-business.com',
-      423 => 'viel.su',
-      424 => 'viktoria-center.ru',
-      425 => 'vodaodessa.com',
-      426 => 'vodkoved.ru',
-      427 => 'w3javascript.com',
-      428 => 'wallpaperdesk.info',
-      429 => 'web-revenue.xyz',
-      430 => 'webmaster-traffic.com',
-      431 => 'webmonetizer.net',
-      432 => 'website-analyzer.info',
-      433 => 'website-speed-checker.site',
-      434 => 'websites-reviews.com',
-      435 => 'websocial.me',
-      436 => 'wmasterlead.com',
-      437 => 'woman-orgasm.ru',
-      438 => 'wordpress-crew.net',
-      439 => 'wordpresscore.com',
-      440 => 'works.if.ua',
-      441 => 'ykecwqlixx.ru',
-      442 => 'youporn-forum.ga',
-      443 => 'youporn-forum.uni.me',
-      444 => 'youporn-ru.com',
-      445 => 'yourserverisdown.com',
-      446 => 'zastroyka.org',
-      447 => 'zoominfo.com',
-      448 => 'zvetki.ru',
-      449 => 'годом.рф',
-      450 => 'грузоподъемные-машины.рф',
-      451 => 'лечениенаркомании.com',
-      452 => 'непереводимая.рф',
-      453 => 'профмонтаж-врн.рф',
-      454 => 'снятьдомвсевастополе.рф',
-      455 => 'холодныйобзвон.рф',
+      1 => '100dollars-seo.com',
+      2 => '100searchengines.com',
+      3 => '12masterov.com',
+      4 => '12u.info',
+      5 => '1-99seo.com',
+      6 => '1-free-share-buttons.com',
+      7 => '1pamm.ru',
+      8 => '1webmaster.ml',
+      9 => '24x7-server-support.site',
+      10 => '2your.site',
+      11 => '3-letter-domains.net',
+      12 => '3waynetworks.com',
+      13 => '4inn.ru',
+      14 => '4istoshop.com',
+      15 => '4webmasters.org',
+      16 => '5forex.ru',
+      17 => '5-steps-to-start-business.com',
+      18 => '6hopping.com',
+      19 => '7makemoneyonline.com',
+      20 => '7zap.com',
+      21 => 'abcdefh.xyz',
+      22 => 'abcdeg.xyz',
+      23 => 'abclauncher.com',
+      24 => 'acads.net',
+      25 => 'acarreo.ru',
+      26 => 'acunetix-referrer.com',
+      27 => 'adanih.com',
+      28 => 'adcash.com',
+      29 => 'adf.ly',
+      30 => 'adspart.com',
+      31 => 'adtiger.tk',
+      32 => 'adventureparkcostarica.com',
+      33 => 'adviceforum.info',
+      34 => 'advokateg.xyz',
+      35 => 'affordablewebsitesandmobileapps.com',
+      36 => 'afora.ru',
+      37 => 'aibolita.com',
+      38 => 'aidarmebel.kz',
+      39 => 'akuhni.by',
+      40 => 'alfabot.xyz',
+      41 => 'alibestsale.com',
+      42 => 'aliexsale.ru',
+      43 => 'allergick.com',
+      44 => 'allknow.info',
+      45 => 'allmarketsnewdayli.gdn',
+      46 => 'allnews24.in',
+      47 => 'allnews.md',
+      48 => 'allwomen.info',
+      49 => 'allwrighter.ru',
+      50 => 'alpharma.net',
+      51 => 'altermix.ua',
+      52 => 'amazon-seo-service.com',
+      53 => 'amt-k.ru',
+      54 => 'anal-acrobats.hol.es',
+      55 => 'analytics-ads.xyz',
+      56 => 'anapa-inns.ru',
+      57 => 'android-style.com',
+      58 => 'animalphotos.xyz',
+      59 => 'animenime.ru',
+      60 => 'anticrawler.org',
+      61 => 'antiguabarbuda.ru',
+      62 => 'arendakvartir.kz',
+      63 => 'arendovalka.xyz',
+      64 => 'arkkivoltti.net',
+      65 => 'artpaint-market.ru',
+      66 => 'artparquet.ru',
+      67 => 'aruplighting.com',
+      68 => 'autoblog.org.ua',
+      69 => 'auto-complex.by',
+      70 => 'auto-kia-fulldrive.ru',
+      71 => 'autoseo-traffic.com',
+      72 => 'autovideobroadcast.com',
+      73 => 'aviva-limoux.com',
+      74 => 'avkzarabotok.info',
+      75 => 'avtovykup.kz',
+      76 => 'azartclub.org',
+      77 => 'azbukafree.com',
+      78 => 'azlex.uz',
+      79 => 'baixar-musicas-gratis.com',
+      80 => 'baladur.ru',
+      81 => 'balitouroffice.com',
+      82 => 'bard-real.com.ua',
+      83 => 'batut-fun.ru',
+      84 => 'bavariagid.de',
+      85 => 'beachtoday.ru',
+      86 => 'bedroomlighting.us',
+      87 => 'beremenyashka.com',
+      88 => 'bestmobilityscooterstoday.com',
+      89 => 'best-seo-offer.com',
+      90 => 'best-seo-software.xyz',
+      91 => 'best-seo-solution.com',
+      92 => 'bestwebsitesawards.com',
+      93 => 'betterhealthbeauty.com',
+      94 => 'bif-ru.info',
+      95 => 'biglistofwebsites.com',
+      96 => 'billiard-classic.com.ua',
+      97 => 'bio-market.kz',
+      98 => 'biplanecentre.ru',
+      99 => 'bird1.ru',
+      100 => 'biteg.xyz',
+      101 => 'bizru.info',
+      102 => 'black-friday.ga',
+      103 => 'blackhatworth.com',
+      104 => 'blogtotal.de',
+      105 => 'bluerobot.info',
+      106 => 'blue-square.biz',
+      107 => 'boltalko.xyz',
+      108 => 'boostmyppc.com',
+      109 => 'brakehawk.com',
+      110 => 'brateg.xyz',
+      111 => 'break-the-chains.com',
+      112 => 'brillianty.info',
+      113 => 'brk-rti.ru',
+      114 => 'brothers-smaller.ru',
+      115 => 'brusilov.ru',
+      116 => 'bsell.ru',
+      117 => 'budilneg.xyz',
+      118 => 'budmavtomatika.com.ua',
+      119 => 'bufetout.ru',
+      120 => 'buketeg.xyz',
+      121 => 'bukleteg.xyz',
+      122 => 'burger-imperia.com',
+      123 => 'burn-fat.ga',
+      124 => 'buttons-for-website.com',
+      125 => 'buttons-for-your-website.com',
+      126 => 'buy-cheap-online.info',
+      127 => 'buy-cheap-pills-order-online.com',
+      128 => 'buy-forum.ru',
+      129 => 'buy-meds24.com',
+      130 => 'call-of-duty.info',
+      131 => 'cardiosport.com.ua',
+      132 => 'cartechnic.ru',
+      133 => 'cenokos.ru',
+      134 => 'cenoval.ru',
+      135 => 'cezartabac.ro',
+      136 => 'chcu.net',
+      137 => 'cheap-trusted-backlinks.com',
+      138 => 'chelyabinsk.dienai.ru',
+      139 => 'chinese-amezon.com',
+      140 => 'chizhik-2.ru',
+      141 => 'cityadspix.com',
+      142 => 'ci.ua',
+      143 => 'civilwartheater.com',
+      144 => 'cleaningservices.kiev.ua',
+      145 => 'clicksor.com',
+      146 => 'climate.by',
+      147 => 'club-lukojl.ru',
+      148 => 'coderstate.com',
+      149 => 'codysbbq.com',
+      150 => 'coffeemashiny.ru',
+      151 => 'columb.net.ua',
+      152 => 'commerage.ru',
+      153 => 'compliance-alexa.xyz',
+      154 => 'compliance-alex.xyz',
+      155 => 'compliance-andrew.xyz',
+      156 => 'compliance-barak.xyz',
+      157 => 'compliance-brian.xyz',
+      158 => 'compliance-donald.xyz',
+      159 => 'compliance-don.xyz',
+      160 => 'compliance-elena.xyz',
+      161 => 'compliance-fred.xyz',
+      162 => 'compliance-george.xyz',
+      163 => 'compliance-irvin.xyz',
+      164 => 'compliance-ivan.xyz',
+      165 => 'compliance-john.top',
+      166 => 'compliance-julianna.top',
+      167 => 'conciergegroup.org',
+      168 => 'connectikastudio.com',
+      169 => 'cookie-law-enforcement-aa.xyz',
+      170 => 'cookie-law-enforcement-bb.xyz',
+      171 => 'cookie-law-enforcement-cc.xyz',
+      172 => 'cookie-law-enforcement-dd.xyz',
+      173 => 'cookie-law-enforcement-ee.xyz',
+      174 => 'cookie-law-enforcement-ff.xyz',
+      175 => 'cookie-law-enforcement-gg.xyz',
+      176 => 'cookie-law-enforcement-hh.xyz',
+      177 => 'cookie-law-enforcement-ii.xyz',
+      178 => 'cookie-law-enforcement-jj.xyz',
+      179 => 'cookie-law-enforcement-kk.xyz',
+      180 => 'cookie-law-enforcement-ll.xyz',
+      181 => 'cookie-law-enforcement-mm.xyz',
+      182 => 'cookie-law-enforcement-nn.xyz',
+      183 => 'cookie-law-enforcement-oo.xyz',
+      184 => 'cookie-law-enforcement-pp.xyz',
+      185 => 'cookie-law-enforcement-qq.xyz',
+      186 => 'cookie-law-enforcement-rr.xyz',
+      187 => 'cookie-law-enforcement-ss.xyz',
+      188 => 'cookie-law-enforcement-tt.xyz',
+      189 => 'cookie-law-enforcement-uu.xyz',
+      190 => 'cookie-law-enforcement-vv.xyz',
+      191 => 'cookie-law-enforcement-ww.xyz',
+      192 => 'cookie-law-enforcement-xx.xyz',
+      193 => 'cookie-law-enforcement-yy.xyz',
+      194 => 'cookie-law-enforcement-zz.xyz',
+      195 => 'copyrightclaims.org',
+      196 => 'copyrightinstitute.org',
+      197 => 'covadhosting.biz',
+      198 => 'cp24.com.ua',
+      199 => 'cubook.supernew.org',
+      200 => 'customsua.com.ua',
+      201 => 'cyber-monday.ga',
+      202 => 'dailyrank.net',
+      203 => 'darodar.com',
+      204 => 'dbutton.net',
+      205 => 'dcdcapital.com',
+      206 => 'deart-13.ru',
+      207 => 'delfin-aqua.com.ua',
+      208 => 'demenageur.com',
+      209 => 'dengi-v-kredit.in.ua',
+      210 => 'dermatovenerologiya.com',
+      211 => 'descargar-musica-gratis.net',
+      212 => 'detskie-konstruktory.ru',
+      213 => 'dev-seo.blog',
+      214 => 'dienai.ru',
+      215 => 'dipstar.org',
+      216 => 'distonija.com',
+      217 => 'dividendo.ru',
+      218 => 'djekxa.ru',
+      219 => 'djonwatch.ru',
+      220 => 'dktr.ru',
+      221 => 'docs4all.com',
+      222 => 'docsarchive.net',
+      223 => 'docsportal.net',
+      224 => 'documentbase.net',
+      225 => 'documentsite.net',
+      226 => 'dogsrun.net',
+      227 => 'dojki-hd.com',
+      228 => 'domain-tracker.com',
+      229 => 'domashniy-hotel.ru',
+      230 => 'dominateforex.ml',
+      231 => 'domination.ml',
+      232 => 'doska-vsem.ru',
+      233 => 'dostavka-v-krym.com',
+      234 => 'drupa.com',
+      235 => 'dvr.biz.ua',
+      236 => 'earn-from-articles.com',
+      237 => 'easycommerce.cf',
+      238 => 'e-buyeasy.com',
+      239 => 'e-commerce-seo1.com',
+      240 => 'e-commerce-seo.com',
+      241 => 'ecommerce-seo.org',
+      242 => 'ecomp3.ru',
+      243 => 'econom.co',
+      244 => 'edakgfvwql.ru',
+      245 => 'edudocs.net',
+      246 => 'egovaleo.it',
+      247 => 'ekatalog.xyz',
+      248 => 'ek-invest.ru',
+      249 => 'eko-gazon.ru',
+      250 => 'ekoproekt-kr.ru',
+      251 => 'ekto.ee',
+      252 => 'e-kwiaciarz.pl',
+      253 => 'elektrikovich.ru',
+      254 => 'elementspluss.ru',
+      255 => 'elentur.com.ua',
+      256 => 'elmifarhangi.com',
+      257 => 'emerson-rus.ru',
+      258 => 'eric-artem.com',
+      259 => 'erot.co',
+      260 => 'escort-russian.com',
+      261 => 'este-line.com.ua',
+      262 => 'etehnika.com.ua',
+      263 => 'eu-cookie-law-enforcement2.xyz',
+      264 => 'euromasterclass.ru',
+      265 => 'europages.com.ru',
+      266 => 'eurosamodelki.ru',
+      267 => 'event-tracking.com',
+      268 => 'exdocsfiles.com',
+      269 => 'express-vyvoz.ru',
+      270 => 'eyes-on-you.ga',
+      271 => 'f1nder.org',
+      272 => 'fast-wordpress-start.com',
+      273 => 'fbdownloader.com',
+      274 => 'feminist.org.ua',
+      275 => 'filesclub.net',
+      276 => 'filter-ot-zheleza.ru',
+      277 => 'finansov.info',
+      278 => 'findercarphotos.com',
+      279 => 'fix-website-errors.com',
+      280 => 'floating-share-buttons.com',
+      281 => 'forex-procto.ru',
+      282 => 'forsex.info',
+      283 => 'fortwosmartcar.pw',
+      284 => 'forum69.info',
+      285 => 'for-your.website',
+      286 => 'foxweber.com',
+      287 => 'frauplus.ru',
+      288 => 'free-fbook-traffic.com',
+      289 => 'free-fb-traffic.com',
+      290 => 'free-floating-buttons.com',
+      291 => 'freenode.info',
+      292 => 'free-share-buttons.com',
+      293 => 'free-social-buttons7.xyz',
+      294 => 'free-social-buttons.com',
+      295 => 'free-social-buttons.xyz',
+      296 => 'free-traffic.xyz',
+      297 => 'free-video-tool.com',
+      298 => 'freewhatsappload.com',
+      299 => 'freewlan.info',
+      300 => 'freshnails.com.ua',
+      301 => 'fsalas.com',
+      302 => 'game300.ru',
+      303 => 'gearcraft.us',
+      304 => 'gearsadspromo.club',
+      305 => 'generalporn.org',
+      306 => 'germes-trans.com',
+      307 => 'get-free-social-traffic.com',
+      308 => 'get-free-traffic-now.com',
+      309 => 'getlamborghini.ga',
+      310 => 'getrichquickly.info',
+      311 => 'getrichquick.ml',
+      312 => 'get-your-social-buttons.info',
+      313 => 'ghazel.ru',
+      314 => 'ghostvisitor.com',
+      315 => 'giftbig.ru',
+      316 => 'girlporn.ru',
+      317 => 'gkvector.ru',
+      318 => 'glavprofit.ru',
+      319 => 'global-smm.ru',
+      320 => 'gobongo.info',
+      321 => 'goodhumor24.com',
+      322 => 'goodprotein.ru',
+      323 => 'google-liar.ru',
+      324 => 'googlemare.com',
+      325 => 'googlsucks.com',
+      326 => 'gorgaz.info',
+      327 => 'guardlink.org',
+      328 => 'handicapvantoday.com',
+      329 => 'happysong.ru',
+      330 => 'havepussy.com',
+      331 => 'hawaiisurf.com',
+      332 => 'hdmoviecamera.net',
+      333 => 'hdmoviecams.com',
+      334 => 'healbio.ru',
+      335 => 'healgastro.com',
+      336 => 'homeafrikalike.tk',
+      337 => 'homemypicture.tk',
+      338 => 'hongfanji.com',
+      339 => 'hosting-tracker.com',
+      340 => 'hottour.com',
+      341 => 'housediz.com',
+      342 => 'howopen.ru',
+      343 => 'howtostopreferralspam.eu',
+      344 => 'hoztorg-opt.ru',
+      345 => 'hseipaa.kz',
+      346 => 'hulfingtonpost.com',
+      347 => 'humanorightswatch.org',
+      348 => 'hundejo.com',
+      349 => 'hvd-store.com',
+      350 => 'ico.re',
+      351 => 'igadgetsworld.com',
+      352 => 'igru-xbox.net',
+      353 => 'ilikevitaly.com',
+      354 => 'iloveitaly.ro',
+      355 => 'iloveitaly.ru',
+      356 => 'ilovevitaly.co',
+      357 => 'ilovevitaly.com',
+      358 => 'ilovevitaly.info',
+      359 => 'ilovevitaly.org',
+      360 => 'ilovevitaly.ru',
+      361 => 'ilovevitaly.xyz',
+      362 => 'iminent.com',
+      363 => 'imperiafilm.ru',
+      364 => 'incitystroy.ru',
+      365 => 'incomekey.net',
+      366 => 'increasewwwtraffic.info',
+      367 => 'inet-shop.su',
+      368 => 'infodocsportal.com',
+      369 => 'inform-ua.info',
+      370 => 'insider.pro',
+      371 => 'interferencer.ru',
+      372 => 'intex-air.ru',
+      373 => 'investpamm.ru',
+      374 => 'iskalko.ru',
+      375 => 'isotoner.com',
+      376 => 'ispaniya-costa-blanca.ru',
+      377 => 'it-max.com.ua',
+      378 => 'izhstrelok.ru',
+      379 => 'jjbabskoe.ru',
+      380 => 'justkillingti.me',
+      381 => 'justprofit.xyz',
+      382 => 'kabbalah-red-bracelets.com',
+      383 => 'kabinet-binbank.ru',
+      384 => 'kabinet-card-5ka.ru',
+      385 => 'kabinet-click-alfabank.ru',
+      386 => 'kabinet-lk-megafon.ru',
+      387 => 'kabinet-login-mts.ru',
+      388 => 'kabinet-mil.ru',
+      389 => 'kabinet-mos.ru',
+      390 => 'kabinet-my-beeline.ru',
+      391 => 'kabinet-my-pochtabank.ru',
+      392 => 'kabinet-online-vtb.ru',
+      393 => 'kabinet-tinkoff.ru',
+      394 => 'kabinet-ttk.ru',
+      395 => 'kambasoft.com',
+      396 => 'kamin-sam.ru',
+      397 => 'karapuz.org.ua',
+      398 => 'kazka.ru',
+      399 => 'kazrent.com',
+      400 => 'kerch.site',
+      401 => 'keywords-monitoring-success.com',
+      402 => 'keywords-monitoring-your-success.com',
+      403 => 'kharkov.ua',
+      404 => 'kinobum.org',
+      405 => 'kino-fun.ru',
+      406 => 'kino-key.info',
+      407 => 'kinopolet.net',
+      408 => 'knigonosha.net',
+      409 => 'komp-pomosch.ru',
+      410 => 'komputers-best.ru',
+      411 => 'komukc.com.ua',
+      412 => 'konkursov.net',
+      413 => 'kozhasobak.com',
+      414 => 'krasnodar-avtolombard.ru',
+      415 => 'kredytbank.com.ua',
+      416 => 'laminat.com.ua',
+      417 => 'landliver.org',
+      418 => 'landoftracking.com',
+      419 => 'laptop-4-less.com',
+      420 => 'law-check-two.xyz',
+      421 => 'law-enforcement-bot-ff.xyz',
+      422 => 'law-enforcement-check-three.xyz',
+      423 => 'law-enforcement-ee.xyz',
+      424 => 'law-six.xyz',
+      425 => 'laxdrills.com',
+      426 => 'leeboyrussia.com',
+      427 => 'legalrc.biz',
+      428 => 'lerporn.info',
+      429 => 'leto-dacha.ru',
+      430 => 'lipidofobia.com.br',
+      431 => 'littleberry.ru',
+      432 => 'livefixer.com',
+      433 => 'livia-pache.ru',
+      434 => 'livingroomdecoratingideas.website',
+      435 => 'lk-gosuslugi.ru',
+      436 => 'login-tinkoff.ru',
+      437 => 'loveorganic.ch',
+      438 => 'lsex.xyz',
+      439 => 'lukoilcard.ru',
+      440 => 'lumb.co',
+      441 => 'luton-invest.ru',
+      442 => 'luxup.ru',
+      443 => 'magicdiet.gq',
+      444 => 'magnetic-bracelets.ru',
+      445 => 'makemoneyonline.com',
+      446 => 'makeprogress.ga',
+      447 => 'manualterap.roleforum.ru',
+      448 => 'marblestyle.ru',
+      449 => 'maridan.com.ua',
+      450 => 'marketland.ml',
+      451 => 'masterseek.com',
+      452 => 'matras.space',
+      453 => 'mattgibson.us',
+      454 => 'max-apprais.com',
+      455 => 'maxxximoda.ru',
+      456 => 'mebelcomplekt.ru',
+      457 => 'mebeldekor.com.ua',
+      458 => 'mebel-iz-dereva.kiev.ua',
+      459 => 'med-dopomoga.com',
+      460 => 'meds-online24.com',
+      461 => 'meduza-consult.ru',
+      462 => 'med-zdorovie.com.ua',
+      463 => 'megapolis-96.ru',
+      464 => 'metallo-konstruktsii.ru',
+      465 => 'mikozstop.com',
+      466 => 'mifepriston.net',
+      467 => 'mikrocement.com.ua',
+      468 => 'minegam.com',
+      469 => 'mirobuvi.com.ua',
+      470 => 'mirtorrent.net',
+      471 => 'mobilemedia.md',
+      472 => 'mockupui.com',
+      473 => 'monetizationking.net',
+      474 => 'money-for-placing-articles.com',
+      475 => 'moneytop.ru',
+      476 => 'mosrif.ru',
+      477 => 'moyakuhnia.ru',
+      478 => 'moy-dokument.com',
+      479 => 'muscle-factory.com.ua',
+      480 => 'musichallaudio.ru',
+      481 => 'myftpupload.com',
+      482 => 'myplaycity.com',
+      483 => 'nachalka21.ru',
+      484 => 'nanochskazki.ru',
+      485 => 'needtosellmyhousefast.com',
+      486 => 'net-profits.xyz',
+      487 => 'nevapotolok.ru',
+      488 => 'newsrosprom.ru',
+      489 => 'newstaffadsshop.club',
+      490 => 'niki-mlt.ru',
+      491 => 'nizniynovgorod.dienai.ru',
+      492 => 'novosti-hi-tech.ru',
+      493 => 'nufaq.com',
+      494 => 'obsessionphrases.com',
+      495 => 'odsadsmobile.biz',
+      496 => 'office2web.com',
+      497 => 'online-binbank.ru',
+      498 => 'online-hit.info',
+      499 => 'online-intim.com',
+      500 => 'online-mkb.ru',
+      501 => 'online-templatestore.com',
+      502 => 'onlinetvseries.me',
+      503 => 'online-vtb.ru',
+      504 => 'onlywoman.org',
+      505 => 'o-o-11-o-o.com',
+      506 => 'o-o-6-o-o.com',
+      507 => 'o-o-6-o-o.ru',
+      508 => 'o-o-8-o-o.com',
+      509 => 'o-o-8-o-o.ru',
+      510 => 'ooo-olni.ru',
+      511 => 'optsol.ru',
+      512 => 'orakul.spb.ru',
+      513 => 'osteochondrosis.ru',
+      514 => 'ownshop.cf',
+      515 => 'ozas.net',
+      516 => 'paidonlinesites.com',
+      517 => 'palvira.com.ua',
+      518 => 'perm.dienai.ru',
+      519 => 'perper.ru',
+      520 => 'petrovka-online.com',
+      521 => 'photo-clip.ru',
+      522 => 'photokitchendesign.com',
+      523 => 'picturesmania.com',
+      524 => 'piulatte.cz',
+      525 => 'pizza-imperia.com',
+      526 => 'pizza-tycoon.com',
+      527 => 'pk-services.ru',
+      528 => 'podarkilove.ru',
+      529 => 'podemnik.pro',
+      530 => 'podseka1.ru',
+      531 => 'pokupaylegko.ru',
+      532 => 'popads.net',
+      533 => 'pops.foundation',
+      534 => 'popugaychiki.com',
+      535 => 'pornhub-forum.ga',
+      536 => 'pornhub-forum.uni.me',
+      537 => 'pornhub-ru.com',
+      538 => 'pornoforadult.com',
+      539 => 'pornogig.com',
+      540 => 'pornohd1080.online',
+      541 => 'pornoklad.ru',
+      542 => 'portnoff.od.ua',
+      543 => 'pozdravleniya-c.ru',
+      544 => 'priceg.com',
+      545 => 'pricheski-video.com',
+      546 => 'prlog.ru',
+      547 => 'procrafts.ru',
+      548 => 'prodaemdveri.com',
+      549 => 'producm.ru',
+      550 => 'prodvigator.ua',
+      551 => 'professionalsolutions.eu',
+      552 => 'prointer.net.ua',
+      553 => 'promoforum.ru',
+      554 => 'pron.pro',
+      555 => 'prosmibank.ru',
+      556 => 'psa48.ru',
+      557 => 'qualitymarketzone.com',
+      558 => 'quit-smoking.ga',
+      559 => 'qwesa.ru',
+      560 => 'rank-checker.online',
+      561 => 'rankings-analytics.com',
+      562 => 'ranksonic.info',
+      563 => 'ranksonic.net',
+      564 => 'ranksonic.org',
+      565 => 'rapidgator-porn.ga',
+      566 => 'rapidsites.pro',
+      567 => 'razborka-skoda.org.ua',
+      568 => 'rcb101.ru',
+      569 => 'realresultslist.com',
+      570 => 'rednise.com',
+      571 => 'regionshop.biz',
+      572 => 'releshop.ru',
+      573 => 'remkompov.ru',
+      574 => 'remont-kvartirspb.com',
+      575 => 'replica-watch.ru',
+      576 => 'research.ifmo.ru',
+      577 => 'resellerclub.com',
+      578 => 'responsive-test.net',
+      579 => 'reversing.cc',
+      580 => 'rightenergysolutions.com.au',
+      581 => 'roof-city.ru',
+      582 => 'rospromtest.ru',
+      583 => 'ruinfocomp.ru',
+      584 => 'ru-lk-rt.ru',
+      585 => 'rumamba.com',
+      586 => 'rupolitshow.ru',
+      587 => 'rusexy.xyz',
+      588 => 'sad-torg.com.ua',
+      589 => 'sady-urala.ru',
+      590 => 'saltspray.ru',
+      591 => 'sanjosestartups.com',
+      592 => 'santaren.by',
+      593 => 'santasgift.ml',
+      594 => 'santehnovich.ru',
+      595 => 'savetubevideo.com',
+      596 => 'savetubevideo.info',
+      597 => 'scansafe.net',
+      598 => 'scat.porn',
+      599 => 'screentoolkit.com',
+      600 => 'scripted.com',
+      601 => 'searchencrypt.com',
+      602 => 'search-error.com',
+      603 => 'security-corporation.com.ua',
+      604 => 'sell-fb-group-here.com',
+      605 => 'semalt.com',
+      606 => 'semaltmedia.com',
+      607 => 'seo-2-0.com',
+      608 => 'seoanalyses.com',
+      609 => 'seocheckupx.com',
+      610 => 'seocheckupx.net',
+      611 => 'seoexperimenty.ru',
+      612 => 'seojokes.net',
+      613 => 'seo-platform.com',
+      614 => 'seopub.net',
+      615 => 'seo-smm.kz',
+      616 => 'sexsaoy.com',
+      617 => 'sexyali.com',
+      618 => 'sexyteens.hol.es',
+      619 => 'shagtomsk.ru',
+      620 => 'sharebutton.io',
+      621 => 'sharebutton.net',
+      622 => 'share-buttons-for-free.com',
+      623 => 'share-buttons.xyz',
+      624 => 'sharebutton.to',
+      625 => 'shoppingmiracles.co.uk',
+      626 => 'shop.xz618.com',
+      627 => 'sibecoprom.ru',
+      628 => 'sim-dealer.ru',
+      629 => 'simple-share-buttons.com',
+      630 => 'site5.com',
+      631 => 'site-auditor.online',
+      632 => 'siteripz.net',
+      633 => 'sitevaluation.org',
+      634 => 'skinali.com',
+      635 => 'sledstvie-veli.net',
+      636 => 'slftsdybbg.ru',
+      637 => 'slkrm.ru',
+      638 => 'slomm.ru',
+      639 => 'slow-website.xyz',
+      640 => 'smailik.org',
+      641 => 'smartphonediscount.info',
+      642 => 'snabs.kz',
+      643 => 'snip.to',
+      644 => 'snip.tw',
+      645 => 'soaksoak.ru',
+      646 => 'sochi-3d.ru',
+      647 => 'social-buttons.com',
+      648 => 'social-buttons-ii.xyz',
+      649 => 'socialbuttons.xyz',
+      650 => 'social-button.xyz',
+      651 => 'socialseet.ru',
+      652 => 'socialtrade.biz',
+      653 => 'social-traffic-1.xyz',
+      654 => 'social-traffic-2.xyz',
+      655 => 'social-traffic-3.xyz',
+      656 => 'social-traffic-4.xyz',
+      657 => 'social-traffic-5.xyz',
+      658 => 'social-traffic-7.xyz',
+      659 => 'social-widget.xyz',
+      660 => 'sohoindia.net',
+      661 => 'solitaire-game.ru',
+      662 => 'solnplast.ru',
+      663 => 'sosdepotdebilan.com',
+      664 => 'sovetskie-plakaty.ru',
+      665 => 'soyuzexpedition.ru',
+      666 => 'spb-scenar.ru',
+      667 => 'speedup-my.site',
+      668 => 'spin2016.cf',
+      669 => 'sp-laptop.ru',
+      670 => 'spravka130.ru',
+      671 => 'spravkavspb.net',
+      672 => 'stavimdveri.ru',
+      673 => 'steame.ru',
+      674 => 'stiralkovich.ru',
+      675 => 'stocktwists.com',
+      676 => 'store-rx.com',
+      677 => 'studentguide.ru',
+      678 => 'stream-tds.com',
+      679 => 'stroyka47.ru',
+      680 => 'success-seo.com',
+      681 => 'sundrugstore.com',
+      682 => 'superiends.org',
+      683 => 'supervesti.ru',
+      684 => 'svetka.info',
+      685 => 'svetoch.moscow',
+      686 => 'taihouse.ru',
+      687 => 'tattooha.com',
+      688 => 'td-perimetr.ru',
+      689 => 'tedxrj.com',
+      690 => 'tentcomplekt.ru',
+      691 => 'teplohod-gnezdo.ru',
+      692 => 'texnika.com.ua',
+      693 => 'tgtclick.com',
+      694 => 'thaoduoctoc.com',
+      695 => 'theautoprofit.ml',
+      696 => 'theguardlan.com',
+      697 => 'thesmartsearch.net',
+      698 => 't-machinery.ru',
+      699 => 'tokshow.online',
+      700 => 'tomck.com',
+      701 => 'top10-way.com',
+      702 => 'top1-seo-service.com',
+      703 => 'top-gan.ru',
+      704 => 'topquality.cf',
+      705 => 'topseoservices.co',
+      706 => 'tracker24-gps.ru',
+      707 => 'track-rankings.online',
+      708 => 'traffic2cash.org',
+      709 => 'traffic2cash.xyz',
+      710 => 'traffic2money.com',
+      711 => 'traffic-cash.xyz',
+      712 => 'trafficgenius.xyz',
+      713 => 'trafficmonetize.org',
+      714 => 'trafficmonetizer.org',
+      715 => 'traphouselatino.net',
+      716 => 'trion.od.ua',
+      717 => 'tsatu.edu.ua',
+      718 => 'tuningdom.ru',
+      719 => 'twsufa.ru',
+      720 => 'uasb.ru',
+      721 => 'ua.tc',
+      722 => 'ucoz.ru',
+      723 => 'ufa.dienai.ru',
+      724 => 'ul-potolki.ru',
+      725 => 'unibus.su',
+      726 => 'univerfiles.com',
+      727 => 'unlimitdocs.net',
+      728 => 'unpredictable.ga',
+      729 => 'uptime-as.net',
+      730 => 'uptimechecker.com',
+      731 => 'uptime.com',
+      732 => 'uptime-eu.net',
+      733 => 'uptime-us.net',
+      734 => 'uzpaket.com',
+      735 => 'uzungil.com',
+      736 => 'validus.pro',
+      737 => 'varikozdok.ru',
+      738 => 'veloland.in.ua',
+      739 => 'ventopt.by',
+      740 => 'veselokloun.ru',
+      741 => 'vesnatehno.com',
+      742 => 'video--production.com',
+      743 => 'videos-for-your-business.com',
+      744 => 'video-woman.com',
+      745 => 'viel.su',
+      746 => 'viktoria-center.ru',
+      747 => 'vodaodessa.com',
+      748 => 'vodkoved.ru',
+      749 => 'w3javascript.com',
+      750 => 'wallpaperdesk.info',
+      751 => 'wdss.com.ua',
+      752 => 'webmaster-traffic.com',
+      753 => 'webmonetizer.net',
+      754 => 'web-revenue.xyz',
+      755 => 'website-analytics.online',
+      756 => 'website-analyzer.info',
+      757 => 'website-speed-checker.site',
+      758 => 'website-speed-check.site',
+      759 => 'websites-reviews.com',
+      760 => 'websocial.me',
+      761 => 'weburlopener.com',
+      762 => 'wmasterlead.com',
+      763 => 'woman-orgasm.ru',
+      764 => 'wordpresscore.com',
+      765 => 'wordpress-crew.net',
+      766 => 'workius.ru',
+      767 => 'works.if.ua',
+      768 => 'worldmed.info',
+      769 => 'wufak.com',
+      770 => 'www-lk-rt.ru',
+      771 => 'xkaz.org',
+      772 => 'xn-------53dbcapga5atlplfdm6ag1ab1bvehl0b7toa0k.xn--p1ai',
+      773 => 'xn----7sbabhjc3ccc5aggbzfmfi.xn--p1ai',
+      774 => 'xn----7sbabm1ahc4b2aqff.su',
+      775 => 'xn----7sbabn5abjehfwi8bj.xn--p1ai',
+      776 => 'xn----7sbho2agebbhlivy.xn--p1ai',
+      777 => 'xn--80aaajkrncdlqdh6ane8t.xn--p1ai',
+      778 => 'xn--80aanaardaperhcem4a6i.com',
+      779 => 'xn--80adaggc5bdhlfamsfdij4p7b.xn--p1ai',
+      780 => 'xn--80adgcaax6acohn6r.xn--p1ai',
+      781 => 'xn----8sbaki4azawu5b.xn--p1ai',
+      782 => 'xn----8sbhefaln6acifdaon5c6f4axh.xn--p1ai',
+      783 => 'xn--90acenikpebbdd4f6d.xn--p1ai',
+      784 => 'xn--c1acygb.xn--p1ai',
+      785 => 'xn-----clckdac3bsfgdft3aebjp5etek.xn--p1ai',
+      786 => 'xn--d1aifoe0a9a.top',
+      787 => 'xn--e1agf4c.xn--80adxhks',
+      788 => 'xn----ftbeoaiyg1ak1cb7d.xn--p1ai',
+      789 => 'xn----itbbudqejbfpg3l.com',
+      790 => 'ykecwqlixx.ru',
+      791 => 'yodse.io',
+      792 => 'youporn-forum.ga',
+      793 => 'youporn-forum.uni.me',
+      794 => 'youporn-ru.com',
+      795 => 'yourserverisdown.com',
+      796 => 'zahvat.ru',
+      797 => 'zastroyka.org',
+      798 => 'zavod-gm.ru',
+      799 => 'zdm-auto.com',
+      800 => 'zdorovie-nogi.info',
+      801 => 'zelena-mriya.com.ua',
+      802 => 'zoominfo.com',
+      803 => 'zvetki.ru',
     ),
     'PluginHeartbeatColumns\\Piwik\\Plugin\\Dimension\\VisitDimension' => 
     array (
@@ -16634,6 +16900,6274 @@
     ),
     'PluginUserIdColumns\\Piwik\\Plugin\\Dimension\\ActionDimension' => 
     array (
+    ),
+    'SearchEngine-SearchEngineDefinitions' => 
+    array (
+      '1.cz' => 
+      array (
+        'params' => 
+        array (
+          0 => '/s\\/([^\\/]+)/',
+          1 => 'q',
+        ),
+        'backlink' => 's/{k}',
+        'charsets' => 
+        array (
+          0 => 'iso-8859-2',
+        ),
+        'name' => '1.cz',
+      ),
+      'www.118700.se' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'sok.aspx?q={k}',
+        'name' => '118 700',
+      ),
+      'foretag.118700.se' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'sok.aspx?q={k}',
+        'name' => '118 700',
+      ),
+      'webben.118700.se' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'sok.aspx?q={k}',
+        'name' => '118 700',
+      ),
+      'www.123people.com' => 
+      array (
+        'params' => 
+        array (
+          0 => '/s\\/([^\\/]+)/',
+          1 => 'search_term',
+        ),
+        'backlink' => 's/{k}',
+        'name' => '123people',
+      ),
+      '123people.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => '/s\\/([^\\/]+)/',
+          1 => 'search_term',
+        ),
+        'backlink' => 's/{k}',
+        'name' => '123people',
+      ),
+      'so.360.cn' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 's?q={k}',
+        'charsets' => 
+        array (
+          0 => 'UTF-8',
+          1 => 'gb2312',
+        ),
+        'name' => '360search',
+      ),
+      'www.so.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 's?q={k}',
+        'charsets' => 
+        array (
+          0 => 'UTF-8',
+          1 => 'gb2312',
+        ),
+        'name' => '360search',
+      ),
+      'm.so.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 's?q={k}',
+        'charsets' => 
+        array (
+          0 => 'UTF-8',
+          1 => 'gb2312',
+        ),
+        'name' => '360search',
+      ),
+      'www.abacho.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'suche?q={k}',
+        'name' => 'Abacho',
+      ),
+      'www.abacho.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'suche?q={k}',
+        'name' => 'Abacho',
+      ),
+      'www.abacho.co.uk' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'suche?q={k}',
+        'name' => 'Abacho',
+      ),
+      'www.se.abacho.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'suche?q={k}',
+        'name' => 'Abacho',
+      ),
+      'www.tr.abacho.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'suche?q={k}',
+        'name' => 'Abacho',
+      ),
+      'www.abacho.at' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'suche?q={k}',
+        'name' => 'Abacho',
+      ),
+      'www.abacho.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'suche?q={k}',
+        'name' => 'Abacho',
+      ),
+      'www.abacho.es' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'suche?q={k}',
+        'name' => 'Abacho',
+      ),
+      'www.abacho.ch' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'suche?q={k}',
+        'name' => 'Abacho',
+      ),
+      'www.abacho.it' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'suche?q={k}',
+        'name' => 'Abacho',
+      ),
+      'abcsok.no' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'ABCsøk',
+      ),
+      'verden.abcsok.no' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'ABCsøk',
+      ),
+      'www.acoon.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'begriff',
+        ),
+        'backlink' => 'cgi-bin/search.exe?begriff={k}',
+        'name' => 'Acoon',
+      ),
+      'chercherfr.aguea.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 's.py?q={k}',
+        'name' => 'Aguea',
+      ),
+      'www.allaverksamheter.se' => 
+      array (
+        'params' => 
+        array (
+          0 => 'What',
+        ),
+        'backlink' => 'SearchResult.aspx?What={k}',
+        'name' => 'Allaverksamheter',
+      ),
+      'alexa.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Alexa',
+      ),
+      'search.toolbars.alexa.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Alexa',
+      ),
+      'rechercher.aliceadsl.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'qs',
+        ),
+        'backlink' => 'google.pl?qs={k}',
+        'name' => 'Alice Adsl',
+      ),
+      'all.by' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'cgi-bin/search.cgi?mode=by&query={k}',
+        'name' => 'All.by',
+      ),
+      'www.allesklar.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'words',
+        ),
+        'backlink' => '?words={k}',
+        'name' => 'Allesklar',
+      ),
+      'www.allesklar.at' => 
+      array (
+        'params' => 
+        array (
+          0 => 'words',
+        ),
+        'backlink' => '?words={k}',
+        'name' => 'Allesklar',
+      ),
+      'www.allesklar.ch' => 
+      array (
+        'params' => 
+        array (
+          0 => 'words',
+        ),
+        'backlink' => '?words={k}',
+        'name' => 'Allesklar',
+      ),
+      'www.alltheweb.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'AllTheWeb',
+      ),
+      'www.altavista.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web/results?q={k}',
+        'name' => 'AltaVista',
+      ),
+      'search.altavista.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web/results?q={k}',
+        'name' => 'AltaVista',
+      ),
+      'listings.altavista.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web/results?q={k}',
+        'name' => 'AltaVista',
+      ),
+      'altavista.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web/results?q={k}',
+        'name' => 'AltaVista',
+      ),
+      'altavista.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web/results?q={k}',
+        'name' => 'AltaVista',
+      ),
+      '{}.altavista.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web/results?q={k}',
+        'name' => 'AltaVista',
+      ),
+      'be-nl.altavista.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web/results?q={k}',
+        'name' => 'AltaVista',
+      ),
+      'be-fr.altavista.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web/results?q={k}',
+        'name' => 'AltaVista',
+      ),
+      'search.aol.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'search.aol.it' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'aolsearch.aol.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'www.aolrecherche.aol.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'www.aolrecherches.aol.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'www.aolimages.aol.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'aim.search.aol.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'www.recherche.aol.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'recherche.aol.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'find.web.aol.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'recherche.aol.ca' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'aolsearch.aol.co.uk' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'search.aol.co.uk' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'aolrecherche.aol.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'sucheaol.aol.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'suche.aol.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'o2suche.aol.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'suche.aolsvc.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'aolbusqueda.aol.com.mx' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'alicesuche.aol.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'alicesuchet.aol.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'suchet2.aol.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'search.hp.my.aol.com.au' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'search.hp.my.aol.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'search.hp.my.aol.it' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'search-intl.netscape.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'q',
+        ),
+        'backlink' => 'aol/search?q={k}',
+        'name' => 'AOL',
+      ),
+      'de.aolsearch.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'AOL',
+      ),
+      'apollo.lv/portal/search/' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?cof=FORID%3A11&q={k}&search_where=www',
+        'name' => 'Apollo lv',
+      ),
+      'apollo7.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'a7db/index.php?query={k}&de_sharelook=true&de_bing=true&de_witch=true&de_google=true&de_yahoo=true&de_lycos=true',
+        'name' => 'Apollo7',
+      ),
+      'sm.aport.ru' => 
+      array (
+        'params' => 
+        array (
+          0 => 'r',
+        ),
+        'backlink' => 'search?r={k}',
+        'name' => 'Aport',
+      ),
+      'arama.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search.php3?q={k}',
+        'name' => 'Arama',
+      ),
+      'www.arcor.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'Keywords',
+        ),
+        'backlink' => 'content/searchresult.jsp?Keywords={k}',
+        'name' => 'Arcor',
+      ),
+      'arianna.libero.it' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'search/abin/integrata.cgi?query={k}',
+        'name' => 'Arianna',
+      ),
+      'www.arianna.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'search/abin/integrata.cgi?query={k}',
+        'name' => 'Arianna',
+      ),
+      'ask.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'web.ask.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'int.ask.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'mws.ask.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'images.ask.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'images.{}.ask.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'ask.reference.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'www.askkids.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'iwon.ask.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'www.ask.co.uk' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      '{}.ask.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'www.qbyrd.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      '{}.qbyrd.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'www.search-results.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'www1.search-results.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'int.search-results.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      '{}.search-results.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'search.ask.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      '{}.search.ask.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'avira-int.ask.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'searchqu.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'search.tb.ask.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'nortonsafe.search.ask.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'avira.search.ask.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'int.search.tb.ask.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Ask',
+      ),
+      'search.avira.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => '#/web/result?q={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+        ),
+        'name' => 'Avira SafeSearch',
+      ),
+      'search.avira.net' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => '#/web/result?q={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+        ),
+        'name' => 'Avira SafeSearch',
+      ),
+      'safesearch.avira.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ask',
+          1 => 'q',
+          2 => 'searchfor',
+        ),
+        'backlink' => '#/web/result?q={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+        ),
+        'name' => 'Avira SafeSearch',
+      ),
+      'searchatlas.centrum.cz' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Atlas',
+      ),
+      'search.auone.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'charsets' => 
+        array (
+          0 => 'utf-8',
+          1 => 'euc-jp',
+          2 => 'ms932',
+        ),
+        'name' => 'auone',
+      ),
+      'sp-search.auone.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'charsets' => 
+        array (
+          0 => 'utf-8',
+          1 => 'euc-jp',
+          2 => 'ms932',
+        ),
+        'name' => 'auone',
+      ),
+      'sp-image.search.auone.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'charsets' => 
+        array (
+          0 => 'utf-8',
+          1 => 'euc-jp',
+          2 => 'ms932',
+        ),
+        'name' => 'auone Images',
+      ),
+      'www2.austronaut.at' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Austronaut',
+      ),
+      'www1.austronaut.at' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Austronaut',
+      ),
+      'search.babylon.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => '/\\/web\\/(.*)/',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Babylon',
+      ),
+      'searchassist.babylon.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => '/\\/web\\/(.*)/',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Babylon',
+      ),
+      'www.baidu.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'wd',
+          1 => 'word',
+          2 => 'kw',
+        ),
+        'backlink' => 's?wd={k}',
+        'charsets' => 
+        array (
+          0 => 'UTF-8',
+          1 => 'gb2312',
+        ),
+        'name' => 'Baidu',
+      ),
+      'www1.baidu.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'wd',
+          1 => 'word',
+          2 => 'kw',
+        ),
+        'backlink' => 's?wd={k}',
+        'charsets' => 
+        array (
+          0 => 'UTF-8',
+          1 => 'gb2312',
+        ),
+        'name' => 'Baidu',
+      ),
+      'm.baidu.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'wd',
+          1 => 'word',
+          2 => 'kw',
+        ),
+        'backlink' => 's?wd={k}',
+        'charsets' => 
+        array (
+          0 => 'UTF-8',
+          1 => 'gb2312',
+        ),
+        'name' => 'Baidu',
+      ),
+      'www.baidu.co.th' => 
+      array (
+        'params' => 
+        array (
+          0 => 'wd',
+          1 => 'word',
+          2 => 'kw',
+        ),
+        'backlink' => 's?wd={k}',
+        'charsets' => 
+        array (
+          0 => 'UTF-8',
+          1 => 'gb2312',
+        ),
+        'name' => 'Baidu',
+      ),
+      'zhidao.baidu.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'wd',
+          1 => 'word',
+          2 => 'kw',
+        ),
+        'backlink' => 's?wd={k}',
+        'charsets' => 
+        array (
+          0 => 'UTF-8',
+          1 => 'gb2312',
+        ),
+        'name' => 'Baidu',
+      ),
+      'tieba.baidu.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'wd',
+          1 => 'word',
+          2 => 'kw',
+        ),
+        'backlink' => 's?wd={k}',
+        'charsets' => 
+        array (
+          0 => 'UTF-8',
+          1 => 'gb2312',
+        ),
+        'name' => 'Baidu',
+      ),
+      'news.baidu.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'wd',
+          1 => 'word',
+          2 => 'kw',
+        ),
+        'backlink' => 's?wd={k}',
+        'charsets' => 
+        array (
+          0 => 'UTF-8',
+          1 => 'gb2312',
+        ),
+        'name' => 'Baidu',
+      ),
+      'web.gougou.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'search',
+        ),
+        'backlink' => 'search?search={k}',
+        'name' => 'Baidu',
+      ),
+      'cgi.search.biglobe.ne.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'cgi-bin/search-st?q={k}',
+        'charsets' => 
+        array (
+          0 => 'utf-8',
+          1 => 'euc-jp',
+          2 => 'ms932',
+        ),
+        'name' => 'Biglobe',
+      ),
+      'images.search.biglobe.ne.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'cgi-bin/search-st?q={k}',
+        'name' => 'Biglobe Images',
+      ),
+      'bing.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'Q',
+        ),
+        'backlink' => 'search?q={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/\\/cr\\?.*/',
+          1 => '/^$/',
+          2 => '/',
+        ),
+        'name' => 'Bing',
+      ),
+      '{}.bing.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'Q',
+        ),
+        'backlink' => 'search?q={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/\\/cr\\?.*/',
+          1 => '/^$/',
+          2 => '/',
+        ),
+        'name' => 'Bing',
+      ),
+      'global.bing.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'Q',
+        ),
+        'backlink' => 'search?q={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/\\/cr\\?.*/',
+          1 => '/^$/',
+          2 => '/',
+        ),
+        'name' => 'Bing',
+      ),
+      'msnbc.msn.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'Q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Bing',
+      ),
+      'dizionario.it.msn.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'Q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Bing',
+      ),
+      'enciclopedia.it.msn.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'Q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Bing',
+      ),
+      'cc.bingj.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'Q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Bing',
+      ),
+      'bing.com/images/search' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'Q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Bing Images',
+      ),
+      '{}.bing.com/images/search' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'Q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Bing Images',
+      ),
+      'blekko.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => '/\\/ws\\/(.*)/',
+        ),
+        'backlink' => 'ws/{k}',
+        'name' => 'blekko',
+      ),
+      'www.blogdigger.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Blogdigger',
+      ),
+      'www.blogpulse.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'search?query={k}',
+        'name' => 'Blogpulse',
+      ),
+      'search.bluewin.ch' => 
+      array (
+        'params' => 
+        array (
+          0 => 'searchTerm',
+          1 => 'q',
+        ),
+        'backlink' => 'v2/index.php?q={k}',
+        'name' => 'Bluewin',
+      ),
+      'web.canoe.ca' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Canoe.ca',
+      ),
+      'search.centrum.cz' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Centrum',
+      ),
+      'morfeo.centrum.cz' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Centrum',
+      ),
+      'www.charter.net' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/index.php?q={k}',
+        'name' => 'Charter',
+      ),
+      'claro-search.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Claro Search',
+      ),
+      'pesquisa.clix.pt' => 
+      array (
+        'params' => 
+        array (
+          0 => 'question',
+        ),
+        'backlink' => 'resultado.html?in=Mundial&question={k}',
+        'name' => 'Clix',
+      ),
+      'search.comcast.net' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Comcast',
+      ),
+      'websearch.cs.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'cs/search?query={k}',
+        'name' => 'Compuserve.com (Enhanced by Google)',
+      ),
+      'search.conduit.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'Results.aspx?q={k}',
+        'name' => 'Conduit.com',
+      ),
+      'images.search.conduit.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'Results.aspx?q={k}',
+        'name' => 'Conduit.com',
+      ),
+      'www.crawler.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/results1.aspx?q={k}',
+        'name' => 'Crawler',
+      ),
+      'www.cuil.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Cuil',
+      ),
+      'daemon-search.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'explore/web?q={k}',
+        'name' => 'Daemon search',
+      ),
+      'my.daemon-search.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'explore/web?q={k}',
+        'name' => 'Daemon search',
+      ),
+      'www.dasoertliche.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'kw',
+        ),
+        'name' => 'DasOertliche',
+      ),
+      'www2.dasoertliche.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'ph',
+          1 => 'kw',
+        ),
+        'name' => 'DasOertliche',
+      ),
+      'www1.dastelefonbuch.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'kw',
+        ),
+        'name' => 'DasTelefonbuch',
+      ),
+      'search.daum.net' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Daum',
+      ),
+      'otsing.delfi.ee' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'find?q={k}',
+        'name' => 'Delfi EE',
+      ),
+      'smart.delfi.lv' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'find?q={k}',
+        'name' => 'Delfi lv',
+      ),
+      'digg.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 's',
+        ),
+        'backlink' => 'search?s={k}',
+        'name' => 'Digg',
+      ),
+      'fr.dir.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'req',
+        ),
+        'name' => 'dir.com',
+      ),
+      'search.disconnect.me' => 
+      array (
+        'params' => 
+        array (
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/.*/',
+        ),
+        'name' => 'DisconnectSearch',
+      ),
+      'dmoz.org' => 
+      array (
+        'params' => 
+        array (
+          0 => 'search',
+        ),
+        'name' => 'dmoz',
+      ),
+      'editors.dmoz.org' => 
+      array (
+        'params' => 
+        array (
+          0 => 'search',
+        ),
+        'name' => 'dmoz',
+      ),
+      'duckduckgo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/.*/',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'DuckDuckGo',
+      ),
+      'r.duckduckgo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/.*/',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'DuckDuckGo',
+      ),
+      'search.earthlink.net' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Earthlink',
+      ),
+      'ecosia.org' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+        ),
+        'name' => 'Ecosia',
+      ),
+      'www.ecosia.org' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+        ),
+        'name' => 'Ecosia',
+      ),
+      'ariadna.elmundo.es' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'El Mundo',
+      ),
+      'www.eniro.se' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'search_word',
+        ),
+        'backlink' => 'query?q={k}',
+        'name' => 'Eniro',
+      ),
+      'eo.st' => 
+      array (
+        'params' => 
+        array (
+          0 => 'x_query',
+        ),
+        'backlink' => 'cgi-bin/eolost.cgi?x_query={k}',
+        'name' => 'eo',
+      ),
+      'www.eurip.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/?q={k}',
+        'name' => 'Eurip',
+      ),
+      'www.euroseek.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'string',
+        ),
+        'backlink' => 'system/search.cgi?string={k}',
+        'name' => 'Euroseek',
+      ),
+      'www.everyclick.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'keyword',
+        ),
+        'name' => 'Everyclick',
+      ),
+      'www.exalead.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/results?q={k}',
+        'name' => 'Exalead',
+      ),
+      'www.exalead.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/results?q={k}',
+        'name' => 'Exalead',
+      ),
+      'search.excite.it' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web/?q={k}',
+        'name' => 'Excite',
+      ),
+      'search.excite.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web/?q={k}',
+        'name' => 'Excite',
+      ),
+      'search.excite.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web/?q={k}',
+        'name' => 'Excite',
+      ),
+      'search.excite.co.uk' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web/?q={k}',
+        'name' => 'Excite',
+      ),
+      'search.excite.es' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web/?q={k}',
+        'name' => 'Excite',
+      ),
+      'search.excite.nl' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web/?q={k}',
+        'name' => 'Excite',
+      ),
+      'msxml.excite.com' => 
+      array (
+        'params' => 
+        array (
+          0 => '/\\/[^\\/]+\\/ws\\/results\\/[^\\/]+\\/([^\\/]+)/',
+          1 => 'q',
+        ),
+        'name' => 'Excite',
+      ),
+      'www.excite.co.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'search',
+        ),
+        'backlink' => 'search.gw?search={k}',
+        'charsets' => 
+        array (
+          0 => 'SHIFT_JIS',
+        ),
+        'name' => 'Excite',
+      ),
+      'www.facebook.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/?q={k}',
+        'name' => 'Facebook',
+      ),
+      'www.fastbrowsersearch.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'results/results.aspx?q={k}',
+        'name' => 'Fast Browser Search',
+      ),
+      'www.findhurtig.dk' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Findhurtig',
+      ),
+      'www.fireball.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'ajax.asp?q={k}',
+        'name' => 'Fireball',
+      ),
+      'www.firstsfind.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'qry',
+        ),
+        'name' => 'Firstsfind',
+      ),
+      'www.fixsuche.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Fixsuche',
+      ),
+      'www.flix.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'keyword',
+        ),
+        'name' => 'Flix.de',
+      ),
+      'search.fooooo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web/?q={k}',
+        'name' => 'Fooooo',
+      ),
+      'forestle.org' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search.php?q={k}',
+        'name' => 'Forestle',
+      ),
+      '{}.forestle.org' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search.php?q={k}',
+        'name' => 'Forestle',
+      ),
+      'forestle.mobi' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search.php?q={k}',
+        'name' => 'Forestle',
+      ),
+      'recherche.francite.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'name',
+        ),
+        'name' => 'Francite',
+      ),
+      'search.free.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'qs',
+        ),
+        'name' => 'Free',
+      ),
+      'search1-2.free.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'qs',
+        ),
+        'name' => 'Free',
+      ),
+      'search1-1.free.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'qs',
+        ),
+        'name' => 'Free',
+      ),
+      'search.freecause.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p',
+        ),
+        'backlink' => '?p={k}',
+        'name' => 'FreeCause',
+      ),
+      'suche.freenet.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'Keywords',
+        ),
+        'backlink' => 'suche/?query={k}',
+        'name' => 'Freenet',
+      ),
+      'friendfeed.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'FriendFeed',
+      ),
+      'gais.cs.ccu.edu.tw' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search.php?q={k}',
+        'name' => 'GAIS',
+      ),
+      'search.genieo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '&q={k}',
+        'name' => 'Genieo',
+      ),
+      'geona.net' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Geona',
+      ),
+      'www.gigablast.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Gigablast',
+      ),
+      'dir.gigablast.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Gigablast (Directory)',
+      ),
+      'www.gnadenmeer.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'keyword',
+        ),
+        'name' => 'Gnadenmeer',
+      ),
+      'www.gomeo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'Keywords',
+          1 => '/\\/search\\/([^\\/]+)/',
+        ),
+        'backlink' => '/search/{k}',
+        'name' => 'Gomeo',
+      ),
+      'search.goo.ne.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'MT',
+        ),
+        'backlink' => 'web.jsp?MT={k}',
+        'name' => 'goo',
+      ),
+      'ocnsearch.goo.ne.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'MT',
+        ),
+        'backlink' => 'web.jsp?MT={k}',
+        'name' => 'goo',
+      ),
+      'google.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+          2 => '/\\/search(\\?.*)?/',
+          3 => '/\\/url\\?.*/',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Google',
+      ),
+      'google.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+          2 => '/\\/search(\\?.*)?/',
+          3 => '/\\/url\\?.*/',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Google',
+      ),
+      'encrypted.google.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+          2 => '/\\/search(\\?.*)?/',
+          3 => '/\\/url\\?.*/',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Google',
+      ),
+      'www2.google.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+          2 => '/\\/search(\\?.*)?/',
+          3 => '/\\/url\\?.*/',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Google',
+      ),
+      'ipv6.google.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+          2 => '/\\/search(\\?.*)?/',
+          3 => '/\\/url\\?.*/',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Google',
+      ),
+      'go.google.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+          2 => '/\\/search(\\?.*)?/',
+          3 => '/\\/url\\?.*/',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Google',
+      ),
+      'wwwgoogle.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+          2 => '/\\/search(\\?.*)?/',
+          3 => '/\\/url\\?.*/',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Google',
+      ),
+      'wwwgoogle.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+          2 => '/\\/search(\\?.*)?/',
+          3 => '/\\/url\\?.*/',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Google',
+      ),
+      'gogole.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+          2 => '/\\/search(\\?.*)?/',
+          3 => '/\\/url\\?.*/',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Google',
+      ),
+      'gogole.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+          2 => '/\\/search(\\?.*)?/',
+          3 => '/\\/url\\?.*/',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Google',
+      ),
+      'gppgle.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+          2 => '/\\/search(\\?.*)?/',
+          3 => '/\\/url\\?.*/',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Google',
+      ),
+      'gppgle.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+          2 => '/\\/search(\\?.*)?/',
+          3 => '/\\/url\\?.*/',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Google',
+      ),
+      'googel.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+          2 => '/\\/search(\\?.*)?/',
+          3 => '/\\/url\\?.*/',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Google',
+      ),
+      'googel.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+          2 => '/\\/search(\\?.*)?/',
+          3 => '/\\/url\\?.*/',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Google',
+      ),
+      'search.avg.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+          2 => '/\\/search(\\?.*)?/',
+          3 => '/\\/url\\?.*/',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Google',
+      ),
+      'isearch.avg.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+          2 => '/\\/search(\\?.*)?/',
+          3 => '/\\/url\\?.*/',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Google',
+      ),
+      'com.google.android.googlequicksearchbox' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/.*/',
+        ),
+        'name' => 'Google',
+      ),
+      'android-app//com.google.android.googlequicksearchbox/https/www.google.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/.*/',
+        ),
+        'name' => 'Google',
+      ),
+      'search.chedot.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'text',
+        ),
+        'name' => 'Google',
+      ),
+      'www.cnn.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Google',
+      ),
+      'darkoogle.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Google',
+      ),
+      'search.darkoogle.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Google',
+      ),
+      'search.foxtab.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Google',
+      ),
+      'www.gooofullsearch.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'Keywords',
+        ),
+        'name' => 'Google',
+      ),
+      'search.hiyo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'Keywords',
+        ),
+        'name' => 'Google',
+      ),
+      'search.incredimail.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'Keywords',
+        ),
+        'name' => 'Google',
+      ),
+      'search1.incredimail.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'Keywords',
+        ),
+        'name' => 'Google',
+      ),
+      'search2.incredimail.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'Keywords',
+        ),
+        'name' => 'Google',
+      ),
+      'search3.incredimail.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'Keywords',
+        ),
+        'name' => 'Google',
+      ),
+      'search4.incredimail.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'Keywords',
+        ),
+        'name' => 'Google',
+      ),
+      'search.sweetim.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'Keywords',
+        ),
+        'name' => 'Google',
+      ),
+      'www.fastweb.it' => 
+      array (
+        'params' => 
+        array (
+          0 => 'Keywords',
+        ),
+        'name' => 'Google',
+      ),
+      'search.juno.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Google',
+      ),
+      'search.zum.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Google',
+      ),
+      'find.tdc.dk' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Google',
+      ),
+      'it.luna.tv' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Google',
+      ),
+      'searchresults.verizon.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Google',
+      ),
+      'search.walla.co.il' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Google',
+      ),
+      'search.alot.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Google',
+      ),
+      'suche.gmx.net' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Google',
+      ),
+      'search.incredibar.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search.php?q={k}',
+        'name' => 'Google',
+      ),
+      'www.delta-search.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Google',
+      ),
+      'www1.delta-search.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Google',
+      ),
+      'search.1und1.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Google',
+      ),
+      'suche.1und1.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Google',
+      ),
+      'search.zonealarm.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Google',
+      ),
+      'start.lenovo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/index.php?q={k}',
+        'name' => 'Google',
+      ),
+      'wow.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/index.php?q={k}',
+        'name' => 'Google',
+      ),
+      '{}.wow.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/index.php?q={k}',
+        'name' => 'Google',
+      ),
+      'search.leonardo.it' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/index.php?q={k}',
+        'name' => 'Google',
+      ),
+      'www.optuszoo.com.au' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/index.php?q={k}',
+        'name' => 'Google',
+      ),
+      'search.dolphin-browser.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/index.php?q={k}',
+        'name' => 'Google',
+      ),
+      'netlavis.azione.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/index.php?q={k}',
+        'name' => 'Google',
+      ),
+      'search.nan.so' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/index.php?q={k}',
+        'name' => 'Google',
+      ),
+      'cgi2.nintendo.co.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'gsc.q',
+        ),
+        'name' => 'Google',
+      ),
+      'search.smt.docomo.ne.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'MT',
+        ),
+        'name' => 'Google',
+      ),
+      'image.search.smt.docomo.ne.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'MT',
+        ),
+        'name' => 'Google',
+      ),
+      'gfsoso.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Google',
+      ),
+      'searches.safehomepage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Google',
+      ),
+      'searches.f-secure.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'search?query={k}',
+        'name' => 'Google',
+      ),
+      'search.f-secure.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'search?query={k}',
+        'name' => 'Google',
+      ),
+      'webcache.googleusercontent.com' => 
+      array (
+        'params' => 
+        array (
+          0 => '/\\/search\\?q=cache:(?:[A-Za-z0-9]+):[^+]+([^&]+)/',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Google',
+      ),
+      'search.bt.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p',
+        ),
+        'backlink' => 'result?p={k}',
+        'name' => 'Google',
+      ),
+      'startab.me' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/?q={k}',
+        'name' => 'Google',
+      ),
+      'blogsearch.google.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'blogsearch?q={k}',
+        'name' => 'Google Blogsearch',
+      ),
+      'blogsearch.google.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'blogsearch?q={k}',
+        'name' => 'Google Blogsearch',
+      ),
+      'google.com/cse' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'query',
+        ),
+        'name' => 'Google Custom Search',
+      ),
+      'google.{}/cse' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'query',
+        ),
+        'name' => 'Google Custom Search',
+      ),
+      'cse.google.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'query',
+        ),
+        'name' => 'Google Custom Search',
+      ),
+      'cse.google.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'query',
+        ),
+        'name' => 'Google Custom Search',
+      ),
+      'google.com/custom' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'query',
+        ),
+        'name' => 'Google Custom Search',
+      ),
+      'google.{}/custom' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'query',
+        ),
+        'name' => 'Google Custom Search',
+      ),
+      'images.google.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/.*/',
+        ),
+        'backlink' => 'images?q={k}',
+        'name' => 'Google Images',
+      ),
+      'images.google.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/.*/',
+        ),
+        'backlink' => 'images?q={k}',
+        'name' => 'Google Images',
+      ),
+      'google.com/imgres' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/.*/',
+        ),
+        'backlink' => 'images?q={k}',
+        'name' => 'Google Images',
+      ),
+      'google.{}/imgres' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/.*/',
+        ),
+        'backlink' => 'images?q={k}',
+        'name' => 'Google Images',
+      ),
+      'maps.google.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'maps?q={k}',
+        'name' => 'Google Maps',
+      ),
+      'maps.google.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'maps?q={k}',
+        'name' => 'Google Maps',
+      ),
+      'news.google.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Google News',
+      ),
+      'news.google.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Google News',
+      ),
+      'scholar.google.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'scholar?q={k}',
+        'name' => 'Google Scholar',
+      ),
+      'scholar.google.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'scholar?q={k}',
+        'name' => 'Google Scholar',
+      ),
+      'google.com/products' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}&tbm=shop',
+        'name' => 'Google Shopping',
+      ),
+      'google.{}/products' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}&tbm=shop',
+        'name' => 'Google Shopping',
+      ),
+      'googlesyndicatedsearch.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Google syndicated search',
+      ),
+      'translate.google.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Google Translations',
+      ),
+      'video.google.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}&tbm=vid',
+        'name' => 'Google Video',
+      ),
+      'www.goyellow.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'MDN',
+        ),
+        'name' => 'GoYellow.de',
+      ),
+      'www.gulesider.no' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Gule Sider',
+      ),
+      'www.haosou.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 's?q={k}',
+        'name' => 'Haosou',
+      ),
+      'www.highbeam.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'Search.aspx?q={k}',
+        'name' => 'HighBeam',
+      ),
+      'req.hit-parade.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p7',
+        ),
+        'backlink' => 'general/recherche.asp?p7={k}',
+        'name' => 'Hit-Parade',
+      ),
+      'class.hit-parade.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p7',
+        ),
+        'backlink' => 'general/recherche.asp?p7={k}',
+        'name' => 'Hit-Parade',
+      ),
+      'www.hit-parade.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p7',
+        ),
+        'backlink' => 'general/recherche.asp?p7={k}',
+        'name' => 'Hit-Parade',
+      ),
+      'holmes.ge' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search.htm?q={k}',
+        'name' => 'Holmes',
+      ),
+      'www.hooseek.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'recherche',
+        ),
+        'backlink' => 'web?recherche={k}',
+        'name' => 'Hooseek',
+      ),
+      'www.hotbot.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Hotbot',
+      ),
+      'start.iplay.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'searchresults.aspx?q={k}',
+        'name' => 'I-play',
+      ),
+      'blogs.icerocket.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Icerocket',
+      ),
+      'www.icq.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/results.php?q={k}',
+        'name' => 'ICQ',
+      ),
+      'search.icq.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/results.php?q={k}',
+        'name' => 'ICQ',
+      ),
+      'www.ilse.nl' => 
+      array (
+        'params' => 
+        array (
+          0 => 'search_for',
+        ),
+        'backlink' => '?search_for={k}',
+        'name' => 'Ilse NL',
+      ),
+      'search.imesh.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'si',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'iMesh',
+      ),
+      'www2.inbox.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/results1.aspx?q={k}',
+        'name' => 'Inbox',
+      ),
+      'infospace.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '/search/web?q={k}',
+        'name' => 'InfoSpace',
+      ),
+      'dogpile.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '/search/web?q={k}',
+        'name' => 'InfoSpace',
+      ),
+      'tattoodle.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '/search/web?q={k}',
+        'name' => 'InfoSpace',
+      ),
+      'metacrawler.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '/search/web?q={k}',
+        'name' => 'InfoSpace',
+      ),
+      'webfetch.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '/search/web?q={k}',
+        'name' => 'InfoSpace',
+      ),
+      'webcrawler.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '/search/web?q={k}',
+        'name' => 'InfoSpace',
+      ),
+      'search.kiwee.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '/search/web?q={k}',
+        'name' => 'InfoSpace',
+      ),
+      'searches.vi-view.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '/search/web?q={k}',
+        'name' => 'InfoSpace',
+      ),
+      'search.webssearches.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '/search/web?q={k}',
+        'name' => 'InfoSpace',
+      ),
+      'search.fbdownloader.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '/search/web?q={k}',
+        'name' => 'InfoSpace',
+      ),
+      'searches3.globososo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '/search/web?q={k}',
+        'name' => 'InfoSpace',
+      ),
+      'wsdsold.infospace.com' => 
+      array (
+        'params' => 
+        array (
+          0 => '/\\/[^\\/]+\\/ws\\/results\\/[^\\/]+\\/([^\\/]+)/',
+        ),
+        'backlink' => 'pemonitorhosted/ws/results/Web/{k}/1/417/TopNavigation/Source/',
+        'name' => 'InfoSpace',
+      ),
+      'search.avast.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'InfoSpace',
+      ),
+      'isearch.babylon.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'InfoSpace',
+      ),
+      'start.facemoods.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 's',
+        ),
+        'name' => 'InfoSpace',
+      ),
+      'start.funmoods.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'InfoSpace',
+      ),
+      'search.magentic.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'InfoSpace',
+      ),
+      'search.searchcompletion.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'InfoSpace',
+      ),
+      'www.searchmobileonline.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'InfoSpace',
+      ),
+      'isearch.glarysoft.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'InfoSpace',
+      ),
+      'search.chatzum.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'InfoSpace',
+      ),
+      'home.speedbit.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'InfoSpace',
+      ),
+      'search.b1.org' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'InfoSpace',
+      ),
+      'searchya.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'InfoSpace',
+      ),
+      'search.handycafe.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'InfoSpace',
+      ),
+      'search.v9.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'InfoSpace',
+      ),
+      'search.iminent.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'InfoSpace',
+      ),
+      'utorrent.inspsearch.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'InfoSpace',
+      ),
+      'govome.inspsearch.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'InfoSpace',
+      ),
+      'www.google.interia.pl' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'szukaj?q={k}',
+        'name' => 'Interia',
+      ),
+      'www.isodelen.se' => 
+      array (
+        'params' => 
+        array (
+          0 => 'Keywords',
+        ),
+        'backlink' => 'sokresultat?Keywords={k}',
+        'name' => 'Isodelen',
+      ),
+      'ixquick.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'IxQuick',
+      ),
+      'www.eu.ixquick.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'IxQuick',
+      ),
+      'ixquick.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'IxQuick',
+      ),
+      'www.ixquick.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'IxQuick',
+      ),
+      'us.ixquick.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'IxQuick',
+      ),
+      's1.us.ixquick.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'IxQuick',
+      ),
+      's2.us.ixquick.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'IxQuick',
+      ),
+      's3.us.ixquick.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'IxQuick',
+      ),
+      's4.us.ixquick.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'IxQuick',
+      ),
+      's5.us.ixquick.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'IxQuick',
+      ),
+      'eu.ixquick.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'IxQuick',
+      ),
+      's8-eu.ixquick.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'IxQuick',
+      ),
+      's1-eu.ixquick.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'IxQuick',
+      ),
+      's2-eu4.ixquick.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'IxQuick',
+      ),
+      's5-eu4.ixquick.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'IxQuick',
+      ),
+      'junglekey.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'search.php?query={k}&type=web&lang=en',
+        'name' => 'Jungle Key',
+      ),
+      'junglekey.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'search.php?query={k}&type=web&lang=en',
+        'name' => 'Jungle Key',
+      ),
+      'www.jungle-spider.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Jungle Spider',
+      ),
+      'jyxo.1188.cz' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 's?q={k}',
+        'name' => 'Jyxo',
+      ),
+      'k9safesearch.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search.jsp?q={k}',
+        'name' => 'K9 Safe Search',
+      ),
+      'www.kataweb.it' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Kataweb',
+      ),
+      'www.kensaq.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Kensaq',
+      ),
+      'kvasir.no' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'search_word',
+        ),
+        'backlink' => 'alle?q={k}',
+        'name' => 'Kvasir',
+      ),
+      'www.kvasir.no' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'search_word',
+        ),
+        'backlink' => 'alle?q={k}',
+        'name' => 'Kvasir',
+      ),
+      'www.toile.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'La Toile Du Québec (Google)',
+      ),
+      'web.toile.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'La Toile Du Québec (Google)',
+      ),
+      'laban.vn' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search.html?q={k}',
+        'name' => 'Laban',
+      ),
+      'www.latne.lv' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'siets.php?q={k}',
+        'name' => 'Latne',
+      ),
+      'search.lilo.org' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'results.php?q={k}',
+        'name' => 'Lilo',
+      ),
+      'lo.st' => 
+      array (
+        'params' => 
+        array (
+          0 => 'x_query',
+        ),
+        'backlink' => 'cgi-bin/eolost.cgi?x_query={k}',
+        'name' => 'Lo.st',
+      ),
+      'www.lookany.com' => 
+      array (
+        'params' => 
+        array (
+          0 => '/(?:search|images|videos)\\/([^\\/]+)/',
+        ),
+        'name' => 'LookAny',
+      ),
+      'search.lookseek.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search2.php?q={k}',
+        'name' => 'Lookseek',
+      ),
+      'www.looksmart.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'key',
+        ),
+        'name' => 'Looksmart',
+      ),
+      'search.lycos.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => '?query={k}',
+        'name' => 'Lycos',
+      ),
+      'lycos.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => '?query={k}',
+        'name' => 'Lycos',
+      ),
+      'www.maailm.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'tekst',
+        ),
+        'name' => 'maailm.com',
+      ),
+      'go.mail.ru' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?rch=e&q={k}',
+        'charsets' => 
+        array (
+          0 => 'UTF-8',
+          1 => 'windows-1251',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/redir\\?.*redir=.*/',
+        ),
+        'name' => 'Mailru',
+      ),
+      'www.mamma.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'result.php?q={k}',
+        'name' => 'Mamma',
+      ),
+      'mamma75.mamma.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'result.php?q={k}',
+        'name' => 'Mamma',
+      ),
+      'www.meinestadt.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'words',
+        ),
+        'name' => 'Meinestadt.de',
+      ),
+      'meta.ua' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search.asp?q={k}',
+        'name' => 'Meta.ua',
+      ),
+      's1.metacrawler.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'qry',
+        ),
+        'backlink' => '?qry={k}',
+        'name' => 'MetaCrawler DE',
+      ),
+      's2.metacrawler.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'qry',
+        ),
+        'backlink' => '?qry={k}',
+        'name' => 'MetaCrawler DE',
+      ),
+      's3.metacrawler.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'qry',
+        ),
+        'backlink' => '?qry={k}',
+        'name' => 'MetaCrawler DE',
+      ),
+      'meta.rrzn.uni-hannover.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'eingabe',
+        ),
+        'backlink' => 'meta/cgi-bin/meta.ger1?eingabe={k}',
+        'name' => 'Metager',
+      ),
+      'www.metager.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'eingabe',
+        ),
+        'backlink' => 'meta/cgi-bin/meta.ger1?eingabe={k}',
+        'name' => 'Metager',
+      ),
+      'metager.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'eingabe',
+        ),
+        'backlink' => 'meta/cgi-bin/meta.ger1?eingabe={k}',
+        'name' => 'Metager',
+      ),
+      'metager2.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/index.php?q={k}',
+        'name' => 'Metager2',
+      ),
+      'www.mister-wong.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'keywords',
+        ),
+        'backlink' => 'search/?keywords={k}',
+        'name' => 'Mister Wong',
+      ),
+      'www.mister-wong.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'keywords',
+        ),
+        'backlink' => 'search/?keywords={k}',
+        'name' => 'Mister Wong',
+      ),
+      'www.monstercrawler.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'qry',
+        ),
+        'name' => 'Monstercrawler',
+      ),
+      'www.mozbot.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'results.php?q={k}',
+        'name' => 'mozbot',
+      ),
+      'www.mozbot.co.uk' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'results.php?q={k}',
+        'name' => 'mozbot',
+      ),
+      'www.mozbot.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'results.php?q={k}',
+        'name' => 'mozbot',
+      ),
+      'searchservice.myspace.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'qry',
+        ),
+        'backlink' => 'index.cfm?fuseaction=sitesearch.results&type=Web&qry={k}',
+        'name' => 'MySpace',
+      ),
+      'www.mysearch.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'searchfor',
+          1 => 'searchFor',
+        ),
+        'backlink' => 'search/Ajmain.jhtml?searchfor={k}',
+        'name' => 'MyWebSearch',
+      ),
+      'ms114.mysearch.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'searchfor',
+          1 => 'searchFor',
+        ),
+        'backlink' => 'search/Ajmain.jhtml?searchfor={k}',
+        'name' => 'MyWebSearch',
+      ),
+      'ms146.mysearch.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'searchfor',
+          1 => 'searchFor',
+        ),
+        'backlink' => 'search/Ajmain.jhtml?searchfor={k}',
+        'name' => 'MyWebSearch',
+      ),
+      'kf.mysearch.myway.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'searchfor',
+          1 => 'searchFor',
+        ),
+        'backlink' => 'search/Ajmain.jhtml?searchfor={k}',
+        'name' => 'MyWebSearch',
+      ),
+      'ki.mysearch.myway.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'searchfor',
+          1 => 'searchFor',
+        ),
+        'backlink' => 'search/Ajmain.jhtml?searchfor={k}',
+        'name' => 'MyWebSearch',
+      ),
+      'search.myway.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'searchfor',
+          1 => 'searchFor',
+        ),
+        'backlink' => 'search/Ajmain.jhtml?searchfor={k}',
+        'name' => 'MyWebSearch',
+      ),
+      'search.mywebsearch.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'searchfor',
+          1 => 'searchFor',
+        ),
+        'backlink' => 'search/Ajmain.jhtml?searchfor={k}',
+        'name' => 'MyWebSearch',
+      ),
+      'www.najdi.si' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search.jsp?q={k}',
+        'name' => 'Najdi.si',
+      ),
+      'search.nate.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/all.html?q={k}',
+        'charsets' => 
+        array (
+          0 => 'EUC-KR',
+        ),
+        'name' => 'Nate',
+      ),
+      'search.naver.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'search.naver?query={k}',
+        'name' => 'Naver',
+      ),
+      'ko.search.need2find.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'searchfor',
+        ),
+        'backlink' => 'search/AJmain.jhtml?searchfor={k}',
+        'name' => 'Needtofind',
+      ),
+      'www.neti.ee' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'cgi-bin/otsing?query={k}',
+        'charsets' => 
+        array (
+          0 => 'iso-8859-1',
+        ),
+        'name' => 'Neti',
+      ),
+      'search.nifty.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'Text',
+        ),
+        'backlink' => 'websearch/search?q={k}',
+        'name' => 'Nifty',
+      ),
+      'search.azby.fmworld.net' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'Text',
+        ),
+        'backlink' => 'websearch/search?q={k}',
+        'name' => 'Nifty',
+      ),
+      'videosearch.nifty.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'kw',
+        ),
+        'backlink' => 'search?kw={k}',
+        'name' => 'Nifty Videos',
+      ),
+      'nigma.ru' => 
+      array (
+        'params' => 
+        array (
+          0 => 's',
+        ),
+        'backlink' => 'index.php?s={k}',
+        'name' => 'Nigma',
+      ),
+      'szukaj.onet.pl' => 
+      array (
+        'params' => 
+        array (
+          0 => 'qt',
+        ),
+        'backlink' => 'query.html?qt={k}',
+        'name' => 'Onet.pl',
+      ),
+      'online.no' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'google/index.jsp?q={k}',
+        'name' => 'Online.no',
+      ),
+      'www.only-search.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'OnlySearch',
+      ),
+      'www.1881.no' => 
+      array (
+        'params' => 
+        array (
+          0 => 'Query',
+        ),
+        'backlink' => 'Multi/?Query={k}',
+        'name' => 'Opplysningen 1881',
+      ),
+      'busca.orange.es' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Orange',
+      ),
+      'lemoteur.ke.voila.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'kw',
+        ),
+        'backlink' => '?kw={k}',
+        'name' => 'Orange',
+      ),
+      'lemoteur.orange.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'kw',
+        ),
+        'backlink' => '?kw={k}',
+        'name' => 'Orange',
+      ),
+      'www.paperball.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'suche/s/?q={k}',
+        'name' => 'Paperball',
+      ),
+      'extern.peoplecheck.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'link.php?q={k}',
+        'name' => 'PeopleCheck',
+      ),
+      'search.peoplepc.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'PeoplePC',
+      ),
+      'www.picsearch.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'index.cgi?q={k}',
+        'name' => 'Picsearch',
+      ),
+      'www.plazoo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Plazoo',
+      ),
+      'plusnetwork.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'PlusNetwork',
+      ),
+      'poisk.ru' => 
+      array (
+        'params' => 
+        array (
+          0 => 'text',
+        ),
+        'backlink' => 'cgi-bin/poisk?text={k}',
+        'charsets' => 
+        array (
+          0 => 'windows-1251',
+        ),
+        'name' => 'Poisk.Ru',
+      ),
+      'search.qip.ru' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'search?query={k}',
+        'name' => 'qip.ru',
+      ),
+      'www.qualigo.at' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Qualigo',
+      ),
+      'www.qualigo.ch' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Qualigo',
+      ),
+      'www.qualigo.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Qualigo',
+      ),
+      'www.qualigo.nl' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Qualigo',
+      ),
+      'www.qwant.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+        ),
+        'name' => 'Qwant',
+      ),
+      'lite.qwant.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+        ),
+        'name' => 'Qwant',
+      ),
+      'websearch.rakuten.co.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'qt',
+        ),
+        'backlink' => 'WebIS?qt={k}',
+        'name' => 'Rakuten',
+      ),
+      'nova.rambler.ru' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+          1 => 'words',
+        ),
+        'backlink' => 'search?query={k}',
+        'name' => 'Rambler',
+      ),
+      'www.riksdelen.se' => 
+      array (
+        'params' => 
+        array (
+          0 => 'What',
+        ),
+        'backlink' => 'SearchResult.aspx?What={k}',
+        'name' => 'Riksdelen',
+      ),
+      'search.rr.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Road Runner',
+      ),
+      'rpmfind.net' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'linux/rpm2html/search.php?query={k}',
+        'name' => 'rpmfind',
+      ),
+      'fr2.rpmfind.net' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'linux/rpm2html/search.php?query={k}',
+        'name' => 'rpmfind',
+      ),
+      'pesquisa.sapo.pt' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Sapo',
+      ),
+      'scour.com' => 
+      array (
+        'params' => 
+        array (
+          0 => '/search\\/[^\\/]+\\/(.*)/',
+        ),
+        'backlink' => 'search/web/{k}',
+        'name' => 'Scour.com',
+      ),
+      'www.search.ch' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Search.ch',
+      ),
+      'www.search.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Search.com',
+      ),
+      'searchalot.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Searchalot',
+      ),
+      'www.searchcanvas.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'SearchCanvas',
+      ),
+      'searchlock.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/.*/',
+        ),
+        'name' => 'SearchLock',
+      ),
+      'results.searchlock.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/.*/',
+        ),
+        'name' => 'SearchLock',
+      ),
+      'www.searchy.co.uk' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'index.html?q={k}',
+        'name' => 'Searchy',
+      ),
+      'search.seesaa.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => '/\\/([^\\/]+)\\/index\\.html/',
+        ),
+        'backlink' => '{k}/index.html',
+        'name' => 'SeeSaa',
+      ),
+      'bg.setooz.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'search?query={k}',
+        'name' => 'Setooz',
+      ),
+      'da.setooz.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'search?query={k}',
+        'name' => 'Setooz',
+      ),
+      'el.setooz.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'search?query={k}',
+        'name' => 'Setooz',
+      ),
+      'fa.setooz.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'search?query={k}',
+        'name' => 'Setooz',
+      ),
+      'ur.setooz.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'search?query={k}',
+        'name' => 'Setooz',
+      ),
+      '{}.setooz.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'search?query={k}',
+        'name' => 'Setooz',
+      ),
+      'search.seznam.cz' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Seznam',
+      ),
+      'videa.seznam.cz' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Seznam Videa',
+      ),
+      'www.sharelook.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'keyword',
+        ),
+        'name' => 'Sharelook',
+      ),
+      'www.skynet.be' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'services/recherche/google?q={k}',
+        'name' => 'Skynet',
+      ),
+      'm.sm.cn' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 's?q={k}',
+        'name' => 'sm.cn',
+      ),
+      'm.sp.sm.cn' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 's?q={k}',
+        'name' => 'sm.cn',
+      ),
+      'www.sm.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'sm.de',
+      ),
+      'search.smartaddressbar.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 's',
+        ),
+        'backlink' => '?s={k}',
+        'name' => 'SmartAddressbar',
+      ),
+      'search.smartshopping.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'kwd',
+          1 => 'keywords',
+        ),
+        'backlink' => '?kwd={k}',
+        'name' => 'SmartShopping',
+      ),
+      'search.snap.do' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Snap.do',
+      ),
+      'www.so-net.ne.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'search/web/?query={k}',
+        'name' => 'So-net',
+      ),
+      'video.so-net.ne.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'kw',
+        ),
+        'backlink' => 'search/?kw={k}',
+        'name' => 'So-net Videos',
+      ),
+      'search.softonic.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'default/default?q={k}',
+        'name' => 'Softonic',
+      ),
+      'www.sogou.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'web?query={k}',
+        'charsets' => 
+        array (
+          0 => 'gb2312',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/link\\?url=.*/',
+        ),
+        'name' => 'Sogou',
+      ),
+      'm.sogou.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'keyword',
+        ),
+        'name' => 'Sogou',
+      ),
+      'wap.sogou.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'keyword',
+        ),
+        'name' => 'Sogou',
+      ),
+      'www.soso.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'w',
+        ),
+        'backlink' => 'q?w={k}',
+        'charsets' => 
+        array (
+          0 => 'gb2312',
+        ),
+        'name' => 'Soso',
+      ),
+      'www.sputnik.ru' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Sputnik',
+      ),
+      'startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      'classic.startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      'www.startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      'eu.startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      's6-eu5.ixquick.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      's2-eu4.startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      's6-eu4.startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      's7-eu4.startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      's1-eu5.startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      's2-eu5.startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      's4-eu5.startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      's5-eu5.startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      's6-eu5.startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      's7-eu5.startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      's8-eu5.startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      's10-eu5.startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      's11-eu5.startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      's12-eu5.startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      's13-eu5.startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      's14-eu5.startpage.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'do/asearch?query={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/do/asearch',
+        ),
+        'name' => 'StartPage',
+      ),
+      'startgoogle.startpagina.nl' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'query',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Startpagina (Google)',
+      ),
+      'www.startsiden.no' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'sok/index.html?q={k}',
+        'name' => 'Startsiden',
+      ),
+      'suche.info' => 
+      array (
+        'params' => 
+        array (
+          0 => 'Keywords',
+        ),
+        'backlink' => 'suche.php?Keywords={k}',
+        'name' => 'Suche.info',
+      ),
+      'www.suchmaschine.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'suchstr',
+        ),
+        'backlink' => 'cgi-bin/wo.cgi?suchstr={k}',
+        'name' => 'Suchmaschine.com',
+      ),
+      'www.suchnase.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Suchnase',
+      ),
+      'surfcanyon.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Surf Canyon',
+      ),
+      'suche.t-online.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'fast-cgi/tsc?mandant=toi&context=internet-tab&q={k}',
+        'name' => 'T-Online',
+      ),
+      'brisbane.t-online.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'fast-cgi/tsc?mandant=toi&context=internet-tab&q={k}',
+        'name' => 'T-Online',
+      ),
+      'navigationshilfe.t-online.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'dtag/dns/results?mode=search_top&q={k}',
+        'name' => 'T-Online',
+      ),
+      'www.talimba.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'search',
+        ),
+        'backlink' => 'index.php?page=search/web&search={k}',
+        'name' => 'talimba',
+      ),
+      'www.talktalk.co.uk' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'search/results.html?query={k}',
+        'name' => 'TalkTalk',
+      ),
+      'tarmot.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'ara/?q={k}',
+        'name' => 'Tarmot',
+      ),
+      'technorati.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?return=sites&authority=all&q={k}',
+        'name' => 'Technorati',
+      ),
+      'www.teoma.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'web?q={k}',
+        'name' => 'Teoma',
+      ),
+      'buscador.terra.es' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'Default.aspx?source=Search&query={k}',
+        'name' => 'Terra',
+      ),
+      'buscador.terra.cl' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'Default.aspx?source=Search&query={k}',
+        'name' => 'Terra',
+      ),
+      'buscador.terra.com.br' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'Default.aspx?source=Search&query={k}',
+        'name' => 'Terra',
+      ),
+      'search.tiscali.it' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'key',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Tiscali',
+      ),
+      'search-dyn.tiscali.it' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'key',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Tiscali',
+      ),
+      'hledani.tiscali.cz' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Tiscali',
+      ),
+      'www.tixuma.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'sc',
+        ),
+        'backlink' => 'index.php?mp=search&stp=&sc={k}&tg=0',
+        'name' => 'Tixuma',
+      ),
+      'www.toolbarhome.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search.aspx?q={k}',
+        'name' => 'Toolbarhome',
+      ),
+      'vshare.toolbarhome.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search.aspx?q={k}',
+        'name' => 'Toolbarhome',
+      ),
+      'www.toppreise.ch' => 
+      array (
+        'params' => 
+        array (
+          0 => 'search',
+        ),
+        'backlink' => 'index.php?search={k}',
+        'charsets' => 
+        array (
+          0 => 'ISO-8859-1',
+        ),
+        'name' => 'Toppreise.ch',
+      ),
+      'toppreise.ch' => 
+      array (
+        'params' => 
+        array (
+          0 => 'search',
+        ),
+        'backlink' => 'index.php?search={k}',
+        'charsets' => 
+        array (
+          0 => 'ISO-8859-1',
+        ),
+        'name' => 'Toppreise.ch',
+      ),
+      'fr.toppreise.ch' => 
+      array (
+        'params' => 
+        array (
+          0 => 'search',
+        ),
+        'backlink' => 'index.php?search={k}',
+        'charsets' => 
+        array (
+          0 => 'ISO-8859-1',
+        ),
+        'name' => 'Toppreise.ch',
+      ),
+      'de.toppreise.ch' => 
+      array (
+        'params' => 
+        array (
+          0 => 'search',
+        ),
+        'backlink' => 'index.php?search={k}',
+        'charsets' => 
+        array (
+          0 => 'ISO-8859-1',
+        ),
+        'name' => 'Toppreise.ch',
+      ),
+      'en.toppreise.ch' => 
+      array (
+        'params' => 
+        array (
+          0 => 'search',
+        ),
+        'backlink' => 'index.php?search={k}',
+        'charsets' => 
+        array (
+          0 => 'ISO-8859-1',
+        ),
+        'name' => 'Toppreise.ch',
+      ),
+      'www.trouvez.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Trouvez.com',
+      ),
+      'www.trovarapido.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'result.php?q={k}',
+        'name' => 'TrovaRapido',
+      ),
+      'www.trusted-search.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'w',
+        ),
+        'backlink' => 'search?w={k}',
+        'name' => 'Trusted Search',
+      ),
+      'www.twingly.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search?q={k}',
+        'name' => 'Twingly',
+      ),
+      'busca.uol.com.br' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '/web/?q={k}',
+        'name' => 'uol.com.br',
+      ),
+      'www.url.org' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?l=de&q={k}',
+        'name' => 'URL.ORGanzier',
+      ),
+      'www.vinden.nl' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Vinden',
+      ),
+      'www.vindex.nl' => 
+      array (
+        'params' => 
+        array (
+          0 => 'search_for',
+        ),
+        'backlink' => '/web?search_for={k}',
+        'name' => 'Vindex',
+      ),
+      'search.vindex.nl' => 
+      array (
+        'params' => 
+        array (
+          0 => 'search_for',
+        ),
+        'backlink' => '/web?search_for={k}',
+        'name' => 'Vindex',
+      ),
+      'ricerca.virgilio.it' => 
+      array (
+        'params' => 
+        array (
+          0 => 'qs',
+        ),
+        'backlink' => 'ricerca?qs={k}',
+        'name' => 'Virgilio',
+      ),
+      'ricercaimmagini.virgilio.it' => 
+      array (
+        'params' => 
+        array (
+          0 => 'qs',
+        ),
+        'backlink' => 'ricerca?qs={k}',
+        'name' => 'Virgilio',
+      ),
+      'ricercavideo.virgilio.it' => 
+      array (
+        'params' => 
+        array (
+          0 => 'qs',
+        ),
+        'backlink' => 'ricerca?qs={k}',
+        'name' => 'Virgilio',
+      ),
+      'ricercanews.virgilio.it' => 
+      array (
+        'params' => 
+        array (
+          0 => 'qs',
+        ),
+        'backlink' => 'ricerca?qs={k}',
+        'name' => 'Virgilio',
+      ),
+      'mobile.virgilio.it' => 
+      array (
+        'params' => 
+        array (
+          0 => 'qrs',
+        ),
+        'name' => 'Virgilio',
+      ),
+      'search.ke.voila.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'rdata',
+        ),
+        'backlink' => 'S/voila?rdata={k}',
+        'name' => 'Voila',
+      ),
+      'www.lemoteur.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'rdata',
+        ),
+        'backlink' => 'S/voila?rdata={k}',
+        'name' => 'Voila',
+      ),
+      'web.volny.cz' => 
+      array (
+        'params' => 
+        array (
+          0 => 'search',
+        ),
+        'backlink' => 'fulltext/?search={k}',
+        'charsets' => 
+        array (
+          0 => 'windows-1250',
+        ),
+        'name' => 'Volny',
+      ),
+      'www.walhello.info' => 
+      array (
+        'params' => 
+        array (
+          0 => 'key',
+        ),
+        'backlink' => 'search?key={k}',
+        'name' => 'Walhello',
+      ),
+      'www.walhello.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'key',
+        ),
+        'backlink' => 'search?key={k}',
+        'name' => 'Walhello',
+      ),
+      'www.walhello.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'key',
+        ),
+        'backlink' => 'search?key={k}',
+        'name' => 'Walhello',
+      ),
+      'www.walhello.nl' => 
+      array (
+        'params' => 
+        array (
+          0 => 'key',
+        ),
+        'backlink' => 'search?key={k}',
+        'name' => 'Walhello',
+      ),
+      'suche.web.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'su',
+          1 => 'q',
+        ),
+        'backlink' => 'search/web/?su={k}',
+        'name' => 'Web.de',
+      ),
+      'm.suche.web.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'su',
+          1 => 'q',
+        ),
+        'backlink' => 'search/web/?su={k}',
+        'name' => 'Web.de',
+      ),
+      'www.web.nl' => 
+      array (
+        'params' => 
+        array (
+          0 => 'zoekwoord',
+        ),
+        'name' => 'Web.nl',
+      ),
+      'www.weborama.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'QUERY',
+        ),
+        'name' => 'weborama',
+      ),
+      'www.websearch.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'qkw',
+          1 => 'q',
+        ),
+        'backlink' => 'search/results2.aspx?q={k}',
+        'name' => 'WebSearch',
+      ),
+      'fr.wedoo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'keyword',
+        ),
+        'name' => 'Wedoo',
+      ),
+      'en.wedoo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'keyword',
+        ),
+        'name' => 'Wedoo',
+      ),
+      'es.wedoo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'keyword',
+        ),
+        'name' => 'Wedoo',
+      ),
+      'search.winamp.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/search?q={k}',
+        'name' => 'Winamp',
+      ),
+      'szukaj.wp.pl' => 
+      array (
+        'params' => 
+        array (
+          0 => 'szukaj',
+        ),
+        'backlink' => 'http://szukaj.wp.pl/szukaj.html?szukaj={k}',
+        'name' => 'Wirtualna Polska',
+      ),
+      'www.witch.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'search',
+        ),
+        'backlink' => 'search-result.php?cn=0&search={k}',
+        'name' => 'Witch',
+      ),
+      'www.woopie.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'kw',
+        ),
+        'backlink' => 'search?kw={k}',
+        'name' => 'Woopie',
+      ),
+      'search.www.ee' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'www värav',
+      ),
+      'www.x-recherche.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'MOTS',
+        ),
+        'backlink' => 'cgi-bin/websearch?MOTS={k}',
+        'name' => 'X-Recherche',
+      ),
+      'search.yahoo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p',
+          1 => 'q',
+        ),
+        'backlink' => 'search?p={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/\\/r\\/.*/',
+          1 => '/^$/',
+          2 => '/',
+        ),
+        'name' => 'Yahoo!',
+      ),
+      'malaysia.search.yahoo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p',
+          1 => 'q',
+        ),
+        'backlink' => 'search?p={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/\\/r\\/.*/',
+          1 => '/^$/',
+          2 => '/',
+        ),
+        'name' => 'Yahoo!',
+      ),
+      '{}.search.yahoo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p',
+          1 => 'q',
+        ),
+        'backlink' => 'search?p={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/\\/r\\/.*/',
+          1 => '/^$/',
+          2 => '/',
+        ),
+        'name' => 'Yahoo!',
+      ),
+      'cade.yahoo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p',
+          1 => 'q',
+        ),
+        'backlink' => 'search?p={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/\\/r\\/.*/',
+          1 => '/^$/',
+          2 => '/',
+        ),
+        'name' => 'Yahoo!',
+      ),
+      'espanol.search.yahoo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p',
+          1 => 'q',
+        ),
+        'backlink' => 'search?p={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/\\/r\\/.*/',
+          1 => '/^$/',
+          2 => '/',
+        ),
+        'name' => 'Yahoo!',
+      ),
+      'qc.search.yahoo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p',
+          1 => 'q',
+        ),
+        'backlink' => 'search?p={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/\\/r\\/.*/',
+          1 => '/^$/',
+          2 => '/',
+        ),
+        'name' => 'Yahoo!',
+      ),
+      'one.cn.yahoo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p',
+          1 => 'q',
+        ),
+        'backlink' => 'search?p={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/\\/r\\/.*/',
+          1 => '/^$/',
+          2 => '/',
+        ),
+        'name' => 'Yahoo!',
+      ),
+      'r.search.yahoo.com' => 
+      array (
+        'params' => 
+        array (
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/.*/',
+        ),
+        'name' => 'Yahoo!',
+      ),
+      'www.cercato.it' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Yahoo!',
+      ),
+      'search.offerbox.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Yahoo!',
+      ),
+      'www.benefind.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Yahoo!',
+      ),
+      'ys.mirostart.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Yahoo!',
+      ),
+      'search.yahoo.com/search/dir' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p',
+        ),
+        'backlink' => '?p={k}',
+        'name' => 'Yahoo! Directory',
+      ),
+      'images.search.yahoo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p',
+          1 => 'va',
+        ),
+        'backlink' => 'search/images?p={k}',
+        'name' => 'Yahoo! Images',
+      ),
+      '{}.images.yahoo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p',
+          1 => 'va',
+        ),
+        'backlink' => 'search/images?p={k}',
+        'name' => 'Yahoo! Images',
+      ),
+      'cade.images.yahoo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p',
+          1 => 'va',
+        ),
+        'backlink' => 'search/images?p={k}',
+        'name' => 'Yahoo! Images',
+      ),
+      'espanol.images.yahoo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p',
+          1 => 'va',
+        ),
+        'backlink' => 'search/images?p={k}',
+        'name' => 'Yahoo! Images',
+      ),
+      'qc.images.yahoo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p',
+          1 => 'va',
+        ),
+        'backlink' => 'search/images?p={k}',
+        'name' => 'Yahoo! Images',
+      ),
+      'search.yahoo.co.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p',
+          1 => 'vp',
+        ),
+        'backlink' => 'search?p={k}',
+        'charsets' => 
+        array (
+          0 => 'utf-8',
+          1 => 'euc-jp',
+          2 => 'ms932',
+        ),
+        'hiddenkeyword' => 
+        array (
+          0 => '/\\/r\\/.*/',
+          1 => '/^$/',
+          2 => '/',
+        ),
+        'name' => 'Yahoo! Japan',
+      ),
+      'jp.hao123.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Yahoo! Japan',
+      ),
+      'home.kingsoft.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'keyword',
+        ),
+        'name' => 'Yahoo! Japan',
+      ),
+      'jwsearch.jword.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Yahoo! Japan',
+      ),
+      'image.search.yahoo.co.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p',
+        ),
+        'backlink' => 'search?p={k}',
+        'charsets' => 
+        array (
+          0 => 'utf-8',
+          1 => 'euc-jp',
+          2 => 'ms932',
+        ),
+        'name' => 'Yahoo! Japan Images',
+      ),
+      'video.search.yahoo.co.jp' => 
+      array (
+        'params' => 
+        array (
+          0 => 'p',
+        ),
+        'backlink' => 'search?p={k}',
+        'charsets' => 
+        array (
+          0 => 'utf-8',
+          1 => 'euc-jp',
+          2 => 'ms932',
+        ),
+        'name' => 'Yahoo! Japan Videos',
+      ),
+      'search.yam.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'k',
+        ),
+        'backlink' => 'Search/Web/?SearchType=web&k={k}',
+        'name' => 'Yam',
+      ),
+      'yandex.ru' => 
+      array (
+        'params' => 
+        array (
+          0 => 'text',
+        ),
+        'backlink' => 'yandsearch?text={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+        ),
+        'name' => 'Yandex',
+      ),
+      'yandex.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'text',
+        ),
+        'backlink' => 'yandsearch?text={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+        ),
+        'name' => 'Yandex',
+      ),
+      'yandex.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'text',
+        ),
+        'backlink' => 'yandsearch?text={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+        ),
+        'name' => 'Yandex',
+      ),
+      'www.yandex.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'text',
+        ),
+        'backlink' => 'yandsearch?text={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+        ),
+        'name' => 'Yandex',
+      ),
+      'clck.yandex.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'text',
+        ),
+        'backlink' => 'yandsearch?text={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+        ),
+        'name' => 'Yandex',
+      ),
+      'm.yandex.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'text',
+        ),
+        'backlink' => 'yandsearch?text={k}',
+        'hiddenkeyword' => 
+        array (
+          0 => '/^$/',
+          1 => '/',
+        ),
+        'name' => 'Yandex',
+      ),
+      'yabs.yandex.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Yandex',
+      ),
+      'images.yandex.ru' => 
+      array (
+        'params' => 
+        array (
+          0 => 'text',
+        ),
+        'backlink' => 'yandsearch?text={k}',
+        'name' => 'Yandex Images',
+      ),
+      'images.yandex.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'text',
+        ),
+        'backlink' => 'yandsearch?text={k}',
+        'name' => 'Yandex Images',
+      ),
+      'images.yandex.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'text',
+        ),
+        'backlink' => 'yandsearch?text={k}',
+        'name' => 'Yandex Images',
+      ),
+      'www.yasni.de' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Yasni',
+      ),
+      'www.yasni.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Yasni',
+      ),
+      'www.yasni.co.uk' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Yasni',
+      ),
+      'www.yasni.ch' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Yasni',
+      ),
+      'www.yasni.at' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'name' => 'Yasni',
+      ),
+      'www.yatedo.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/profil?q={k}',
+        'name' => 'Yatedo',
+      ),
+      'www.yatedo.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => 'search/profil?q={k}',
+        'name' => 'Yatedo',
+      ),
+      'yellowmap.de' => 
+      array (
+        'params' => 
+        array (
+          0 => ' ',
+        ),
+        'name' => 'Yellowmap',
+      ),
+      'search.yippy.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'query',
+        ),
+        'backlink' => 'search?query={k}',
+        'name' => 'Yippy',
+      ),
+      'www.yougoo.fr' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?cx=search&q={k}',
+        'name' => 'YouGoo',
+      ),
+      'www.zapmeta.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'query',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Zapmeta',
+      ),
+      'zapmeta.{}' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'query',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Zapmeta',
+      ),
+      'uk.zapmeta.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'query',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Zapmeta',
+      ),
+      'ar.zapmeta.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'query',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Zapmeta',
+      ),
+      'au.zapmeta.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'query',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Zapmeta',
+      ),
+      'ca.zapmeta.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'query',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Zapmeta',
+      ),
+      'fi.zapmeta.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'query',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Zapmeta',
+      ),
+      'no.zapmeta.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'query',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Zapmeta',
+      ),
+      'tr.zapmeta.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+          1 => 'query',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Zapmeta',
+      ),
+      'p.zhongsou.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'w',
+        ),
+        'backlink' => 'p?w={k}',
+        'name' => 'Zhongsou',
+      ),
+      'www3.zoek.nl' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'name' => 'Zoek',
+      ),
+      'www.zoeken.nl' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'name' => 'Zoeken',
+      ),
+      'zoohoo.cz' => 
+      array (
+        'params' => 
+        array (
+          0 => 'q',
+        ),
+        'backlink' => '?q={k}',
+        'charsets' => 
+        array (
+          0 => 'windows-1250',
+        ),
+        'name' => 'Zoohoo',
+      ),
+      'www.zoznam.sk' => 
+      array (
+        'params' => 
+        array (
+          0 => 's',
+        ),
+        'backlink' => 'hladaj.fcgi?s={k}&co=svet',
+        'name' => 'Zoznam',
+      ),
+      'www.zxuso.com' => 
+      array (
+        'params' => 
+        array (
+          0 => 'wd',
+        ),
+        'backlink' => 'ri/?wd={k}',
+        'name' => 'Zxuso',
+      ),
+      'kwzf.net' => 
+      array (
+        'params' => 
+        array (
+          0 => 'search',
+        ),
+        'backlink' => '#search={k}',
+        'name' => '묻지마 검색',
+      ),
+    ),
+    'DeviceDetector-373regexes-vendorfragments' => 
+    array (
+      'Dell' => 
+      array (
+        0 => 'MDDR(JS)?',
+        1 => 'MDDC(JS)?',
+        2 => 'MDDS(JS)?',
+      ),
+      'Acer' => 
+      array (
+        0 => 'MAAR(JS)?',
+      ),
+      'Sony' => 
+      array (
+        0 => 'MASE(JS)?',
+        1 => 'MASP(JS)?',
+        2 => 'MASA(JS)?',
+      ),
+      'Asus' => 
+      array (
+        0 => 'MAAU',
+        1 => 'NP0[6789]',
+        2 => 'ASJB',
+        3 => 'ASU2(JS)?',
+      ),
+      'Samsung' => 
+      array (
+        0 => 'MASM(JS)?',
+        1 => 'SMJB',
+      ),
+      'Lenovo' => 
+      array (
+        0 => 'MALC(JS)?',
+        1 => 'MALE(JS)?',
+        2 => 'MALN(JS)?',
+        3 => 'LCJB',
+        4 => 'LEN2',
+      ),
+      'Toshiba' => 
+      array (
+        0 => 'MATM(JS)?',
+        1 => 'MATB(JS)?',
+        2 => 'MATP(JS)?',
+        3 => 'TNJB',
+        4 => 'TAJB',
+      ),
+      'Medion' => 
+      array (
+        0 => 'MAMD',
+      ),
+      'MSI' => 
+      array (
+        0 => 'MAMI(JS)?',
+        1 => 'MAM3',
+      ),
+      'Gateway' => 
+      array (
+        0 => 'MAGW(JS)?',
+      ),
+      'Fujitsu' => 
+      array (
+        0 => 'MAFS(JS)?',
+        1 => 'FSJB',
+      ),
+      'Compaq' => 
+      array (
+        0 => 'CPDTDF',
+        1 => 'CPNTDF(JS?)',
+        2 => 'CMNTDF(JS)?',
+        3 => 'CMDTDF(JS)?',
+      ),
+      'HP' => 
+      array (
+        0 => 'HPCMHP',
+        1 => 'HPNTDF(JS)?',
+        2 => 'HPDTDF(JS)?',
+      ),
+      'Hyrican' => 
+      array (
+        0 => 'MANM(JS)?',
+      ),
     ),
   ),
 );
