@@ -1,5 +1,5 @@
 <?php return array (
-  'lifetime' => 1481071340,
+  'lifetime' => 1526966867,
   'data' => 
   array (
     'PluginCorePluginsAdminMetadata' => 
