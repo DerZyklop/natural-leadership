@@ -9,8 +9,20 @@ Backgroundimage: luedge_wolf_2013.png
 Chapters: 
 
 - 
+  start_date: 2016-11-01
+  end_date: ""
+  open_end: "1"
+  company: 'naturkosmetik verlag lüdge GmbH & Co. KG'
+  position: Geschäftsführer
+  branche: 'Verlagswesen & Eventorganisation'
+  tasks: >
+    Organisation des
+    Naturkosmetik-Branchenkongress
+    (https://www.naturkosmetik-branchenkongress.de/de/)
+  achievements: ""
+- 
   start_date: 2015-02-01
-  end_date: 2016-01-01
+  end_date: ""
   company: ikarus Design Handel AG Schweiz
   position: Geschäftsführer
   text: >
@@ -169,6 +181,7 @@ Leftcol:
 - 
   title: Geschäftsführung
   text: |
+    - naturkosmetik-verlag GmbH & Co. KG
     - Ikarus Designhandel AG Schweiz
     - Interimsmanagement SANTAVERDE
     - Salus – Haus GmbH
