@@ -37,6 +37,9 @@ RewriteBase /
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
 RewriteRule ^(.*)$ http://%1%{REQUEST_URI} [R=301,QSA,NC,L]
 
+RewriteCond %{SERVER_PORT} !^443$
+RewriteRule (.*) https://%{HTTP_HOST}/$1 [R=301,L]
+
 # Route all domains to http://luedge.com/
 RewriteCond %{HTTP_HOST} !^luedge\.com$ [NC]
 RewriteRule ^(.*)$ http://luedge.com/$1 [R=301,L]
