@@ -24,6 +24,23 @@
         </div>
       <?php endforeach ?>
     <?php endif ?>
+    <div class="page-seperator">
+      <div class="flex">
+        <div class="flex-1"></div>
+        <div class="flex-10">
+          <hr>
+        </div>
+        <div class="flex-1"></div>
+      </div>
+      <section>
+        <div class="flex">
+          <div class="flex-1"></div>
+          <div class="flex-10">
+            <a href="/impressum">Impressum & Datenschutzerklärung</a>
+          </div>
+          <div class="flex-1"></div>
+        </div>
+      </section>
+    </div>
   </main>
-
 <?php snippet('footer') ?>
