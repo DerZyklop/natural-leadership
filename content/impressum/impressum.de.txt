@@ -12,9 +12,10 @@ Telefon (+49) 6441 67100-224
 HRB-Nr. 7159 Amtsgericht Wetzlar
 Steuer-IDNr.: 20 240 01319
 
-Sitz der Gesellschaft:     Wetzlar
-Geschäftsführer:              Wolf Lüdge
-
+Sitz der Gesellschaft: Wetzlar
+Geschäftsführer: Wolf Lüdge
+<br>
+<br>
 
 ## Datenschutzerklärung
 
