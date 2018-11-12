@@ -11,6 +11,5 @@ history:
   - home
   - impressum
   - kontakt
-  - natural-leadership
 firstname: Nils
 lastname: Neumann
