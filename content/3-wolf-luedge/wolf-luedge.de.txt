@@ -22,7 +22,7 @@ Chapters:
   achievements: ""
 - 
   start_date: 2015-02-01
-  end_date: ""
+  end_date: 2018-01-01
   company: ikarus Design Handel AG Schweiz
   position: Geschäftsführer
   text: >
@@ -39,7 +39,7 @@ Chapters:
     - IT
     - Logistik
   achievements: ""
-  open_end: "1"
+  open_end: "0"
 - 
   start_date: 2014-06-01
   end_date: 2015-01-01

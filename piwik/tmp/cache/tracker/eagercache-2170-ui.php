@@ -1,5 +1,5 @@
 <?php return array (
-  'lifetime' => 1526966867,
+  'lifetime' => 1541137381,
   'data' => 
   array (
     'PluginCorePluginsAdminMetadata' => 
@@ -2099,251 +2099,332 @@
     'PluginCustomPiwikJsReleaseChannelPiwik\\UpdateCheck\\ReleaseChannel' => 
     array (
     ),
-    'PluginCorePluginsAdminRendererPiwik\\API\\ApiRenderer' => 
+    'availableLanguages' => 
     array (
+      0 => 
+      array (
+        'code' => 'am',
+        'name' => 'አማርኛ',
+        'english_name' => 'Amharic',
+      ),
+      1 => 
+      array (
+        'code' => 'ar',
+        'name' => 'العربية',
+        'english_name' => 'Arabic',
+      ),
+      2 => 
+      array (
+        'code' => 'be',
+        'name' => 'Беларуская',
+        'english_name' => 'Belarusian',
+      ),
+      3 => 
+      array (
+        'code' => 'bg',
+        'name' => 'Български',
+        'english_name' => 'Bulgarian',
+      ),
+      4 => 
+      array (
+        'code' => 'bn',
+        'name' => 'বাংলা',
+        'english_name' => 'Bengali',
+      ),
+      5 => 
+      array (
+        'code' => 'bs',
+        'name' => 'Bosanski',
+        'english_name' => 'Bosnian',
+      ),
+      6 => 
+      array (
+        'code' => 'ca',
+        'name' => 'Català',
+        'english_name' => 'Catalan',
+      ),
+      7 => 
+      array (
+        'code' => 'cs',
+        'name' => 'Čeština',
+        'english_name' => 'Czech',
+      ),
+      8 => 
+      array (
+        'code' => 'cy',
+        'name' => 'Cymraeg',
+        'english_name' => 'Welsh',
+      ),
+      9 => 
+      array (
+        'code' => 'da',
+        'name' => 'Dansk',
+        'english_name' => 'Danish',
+      ),
+      10 => 
+      array (
+        'code' => 'de',
+        'name' => 'Deutsch',
+        'english_name' => 'German',
+      ),
+      11 => 
+      array (
+        'code' => 'el',
+        'name' => 'Ελληνικά',
+        'english_name' => 'Greek',
+      ),
+      12 => 
+      array (
+        'code' => 'en',
+        'name' => 'English',
+        'english_name' => 'English',
+      ),
+      13 => 
+      array (
+        'code' => 'es',
+        'name' => 'Español',
+        'english_name' => 'Spanish',
+      ),
+      14 => 
+      array (
+        'code' => 'et',
+        'name' => 'Eesti',
+        'english_name' => 'Estonian',
+      ),
+      15 => 
+      array (
+        'code' => 'eu',
+        'name' => 'Euskara',
+        'english_name' => 'Basque',
+      ),
+      16 => 
+      array (
+        'code' => 'fa',
+        'name' => 'فارسی',
+        'english_name' => 'Persian',
+      ),
+      17 => 
+      array (
+        'code' => 'fi',
+        'name' => 'Suomi',
+        'english_name' => 'Finnish',
+      ),
+      18 => 
+      array (
+        'code' => 'fr',
+        'name' => 'Français',
+        'english_name' => 'French',
+      ),
+      19 => 
+      array (
+        'code' => 'gl',
+        'name' => 'Galego',
+        'english_name' => 'Galician',
+      ),
+      20 => 
+      array (
+        'code' => 'he',
+        'name' => 'עברית',
+        'english_name' => 'Hebrew',
+      ),
+      21 => 
+      array (
+        'code' => 'hi',
+        'name' => 'हिन्दी',
+        'english_name' => 'Hindi',
+      ),
+      22 => 
+      array (
+        'code' => 'hr',
+        'name' => 'Hrvatski',
+        'english_name' => 'Croatian',
+      ),
+      23 => 
+      array (
+        'code' => 'hu',
+        'name' => 'Magyar',
+        'english_name' => 'Hungarian',
+      ),
+      24 => 
+      array (
+        'code' => 'id',
+        'name' => 'Indonesia',
+        'english_name' => 'Indonesian',
+      ),
+      25 => 
+      array (
+        'code' => 'is',
+        'name' => 'Íslenska',
+        'english_name' => 'Icelandic',
+      ),
+      26 => 
+      array (
+        'code' => 'it',
+        'name' => 'Italiano',
+        'english_name' => 'Italian',
+      ),
+      27 => 
+      array (
+        'code' => 'ja',
+        'name' => '日本語',
+        'english_name' => 'Japanese',
+      ),
+      28 => 
+      array (
+        'code' => 'ka',
+        'name' => 'ქართული',
+        'english_name' => 'Georgian',
+      ),
+      29 => 
+      array (
+        'code' => 'ko',
+        'name' => '한국어',
+        'english_name' => 'Korean',
+      ),
+      30 => 
+      array (
+        'code' => 'lt',
+        'name' => 'Lietuvių',
+        'english_name' => 'Lithuanian',
+      ),
+      31 => 
+      array (
+        'code' => 'lv',
+        'name' => 'Latviešu',
+        'english_name' => 'Latvian',
+      ),
+      32 => 
+      array (
+        'code' => 'nb',
+        'name' => 'Norsk bokmål',
+        'english_name' => 'Norwegian Bokmål',
+      ),
+      33 => 
+      array (
+        'code' => 'nl',
+        'name' => 'Nederlands',
+        'english_name' => 'Dutch',
+      ),
+      34 => 
+      array (
+        'code' => 'nn',
+        'name' => 'Nynorsk',
+        'english_name' => 'Norwegian Nynorsk',
+      ),
+      35 => 
+      array (
+        'code' => 'pl',
+        'name' => 'Polski',
+        'english_name' => 'Polish',
+      ),
+      36 => 
+      array (
+        'code' => 'pt-br',
+        'name' => 'Português do Brasil',
+        'english_name' => 'Brazilian Portuguese',
+      ),
+      37 => 
+      array (
+        'code' => 'pt',
+        'name' => 'Português',
+        'english_name' => 'Portuguese',
+      ),
+      38 => 
+      array (
+        'code' => 'ro',
+        'name' => 'Română',
+        'english_name' => 'Romanian',
+      ),
+      39 => 
+      array (
+        'code' => 'ru',
+        'name' => 'Русский',
+        'english_name' => 'Russian',
+      ),
+      40 => 
+      array (
+        'code' => 'sk',
+        'name' => 'Slovenčina',
+        'english_name' => 'Slovak',
+      ),
+      41 => 
+      array (
+        'code' => 'sl',
+        'name' => 'Slovenščina',
+        'english_name' => 'Slovenian',
+      ),
+      42 => 
+      array (
+        'code' => 'sq',
+        'name' => 'Shqip',
+        'english_name' => 'Albanian',
+      ),
+      43 => 
+      array (
+        'code' => 'sr',
+        'name' => 'Српски',
+        'english_name' => 'Serbian',
+      ),
+      44 => 
+      array (
+        'code' => 'sv',
+        'name' => 'Svenska',
+        'english_name' => 'Swedish',
+      ),
+      45 => 
+      array (
+        'code' => 'ta',
+        'name' => 'தமிழ்',
+        'english_name' => 'Tamil',
+      ),
+      46 => 
+      array (
+        'code' => 'te',
+        'name' => 'తెలుగు',
+        'english_name' => 'Telugu',
+      ),
+      47 => 
+      array (
+        'code' => 'th',
+        'name' => 'ไทย',
+        'english_name' => 'Thai',
+      ),
+      48 => 
+      array (
+        'code' => 'tl',
+        'name' => 'Filipino',
+        'english_name' => 'Tagalog',
+      ),
+      49 => 
+      array (
+        'code' => 'tr',
+        'name' => 'Türkçe',
+        'english_name' => 'Turkish',
+      ),
+      50 => 
+      array (
+        'code' => 'uk',
+        'name' => 'Українська',
+        'english_name' => 'Ukrainian',
+      ),
+      51 => 
+      array (
+        'code' => 'vi',
+        'name' => 'Tiếng Việt',
+        'english_name' => 'Vietnamese',
+      ),
+      52 => 
+      array (
+        'code' => 'zh-cn',
+        'name' => '简体中文',
+        'english_name' => 'Simplified Chinese',
+      ),
+      53 => 
+      array (
+        'code' => 'zh-tw',
+        'name' => '繁體中文',
+        'english_name' => 'Traditional Chinese',
+      ),
     ),
-    'PluginCoreAdminHomeRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginCoreHomeRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginWebsiteMeasurableRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginDiagnosticsRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginCoreVisualizationsRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginProxyRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginAPIRendererPiwik\\API\\ApiRenderer' => 
-    array (
-      '/var/www/virtual/nlwl/html/piwik/plugins/API/Renderer/Console.php' => 'Piwik\\Plugins\\API\\Renderer\\Console',
-      '/var/www/virtual/nlwl/html/piwik/plugins/API/Renderer/Csv.php' => 'Piwik\\Plugins\\API\\Renderer\\Csv',
-      '/var/www/virtual/nlwl/html/piwik/plugins/API/Renderer/Html.php' => 'Piwik\\Plugins\\API\\Renderer\\Html',
-      '/var/www/virtual/nlwl/html/piwik/plugins/API/Renderer/Json2.php' => 'Piwik\\Plugins\\API\\Renderer\\Json2',
-      '/var/www/virtual/nlwl/html/piwik/plugins/API/Renderer/Json.php' => 'Piwik\\Plugins\\API\\Renderer\\Json',
-      '/var/www/virtual/nlwl/html/piwik/plugins/API/Renderer/Original.php' => 'Piwik\\Plugins\\API\\Renderer\\Original',
-      '/var/www/virtual/nlwl/html/piwik/plugins/API/Renderer/Php.php' => 'Piwik\\Plugins\\API\\Renderer\\Php',
-      '/var/www/virtual/nlwl/html/piwik/plugins/API/Renderer/Rss.php' => 'Piwik\\Plugins\\API\\Renderer\\Rss',
-      '/var/www/virtual/nlwl/html/piwik/plugins/API/Renderer/Tsv.php' => 'Piwik\\Plugins\\API\\Renderer\\Tsv',
-      '/var/www/virtual/nlwl/html/piwik/plugins/API/Renderer/Xml.php' => 'Piwik\\Plugins\\API\\Renderer\\Xml',
-    ),
-    'PluginExamplePluginRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginWidgetizeRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginTransitionsRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginLanguagesManagerRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginActionsRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginDashboardRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginMultiSitesRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginReferrersRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginUserLanguageRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginDevicesDetectionRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginGoalsRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginEcommerceRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginSEORendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginEventsRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginUserCountryRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginVisitsSummaryRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginVisitFrequencyRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginVisitTimeRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginVisitorInterestRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginExampleAPIRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginExampleRssWidgetRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginFeedbackRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginMonologRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginLoginRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginUsersManagerRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginSitesManagerRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginInstallationRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginCoreUpdaterRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginCoreConsoleRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginScheduledReportsRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginUserCountryMapRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginLiveRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginCustomVariablesRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginPrivacyManagerRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginImageGraphRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginAnnotationsRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginMobileMessagingRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginOverlayRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginSegmentEditorRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginInsightsRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginMorpheusRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginContentsRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginBulkTrackingRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginResolutionRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginDevicePluginsRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginHeartbeatRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginIntlRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginMarketplaceRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginProfessionalServicesRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginUserIdRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginCustomPiwikJsRendererPiwik\\API\\ApiRenderer' => 
-    array (
-    ),
-    'PluginCorePluginsAdminTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginCoreAdminHomeTasksPiwik\\Plugin\\Tasks' => 'Piwik\\Plugins\\CoreAdminHome\\Tasks',
-    'PluginCoreHomeTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginWebsiteMeasurableTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginDiagnosticsTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginCoreVisualizationsTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginProxyTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginAPITasksPiwik\\Plugin\\Tasks' => false,
-    'PluginExamplePluginTasksPiwik\\Plugin\\Tasks' => 'Piwik\\Plugins\\ExamplePlugin\\Tasks',
-    'PluginWidgetizeTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginTransitionsTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginLanguagesManagerTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginActionsTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginDashboardTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginMultiSitesTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginReferrersTasksPiwik\\Plugin\\Tasks' => 'Piwik\\Plugins\\Referrers\\Tasks',
-    'PluginUserLanguageTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginDevicesDetectionTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginGoalsTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginEcommerceTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginSEOTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginEventsTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginUserCountryTasksPiwik\\Plugin\\Tasks' => 'Piwik\\Plugins\\UserCountry\\Tasks',
-    'PluginVisitsSummaryTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginVisitFrequencyTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginVisitTimeTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginVisitorInterestTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginExampleAPITasksPiwik\\Plugin\\Tasks' => false,
-    'PluginExampleRssWidgetTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginFeedbackTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginMonologTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginLoginTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginUsersManagerTasksPiwik\\Plugin\\Tasks' => 'Piwik\\Plugins\\UsersManager\\Tasks',
-    'PluginSitesManagerTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginInstallationTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginCoreUpdaterTasksPiwik\\Plugin\\Tasks' => 'Piwik\\Plugins\\CoreUpdater\\Tasks',
-    'PluginCoreConsoleTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginScheduledReportsTasksPiwik\\Plugin\\Tasks' => 'Piwik\\Plugins\\ScheduledReports\\Tasks',
-    'PluginUserCountryMapTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginLiveTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginCustomVariablesTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginPrivacyManagerTasksPiwik\\Plugin\\Tasks' => 'Piwik\\Plugins\\PrivacyManager\\Tasks',
-    'PluginImageGraphTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginAnnotationsTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginMobileMessagingTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginOverlayTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginSegmentEditorTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginInsightsTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginMorpheusTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginContentsTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginBulkTrackingTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginResolutionTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginDevicePluginsTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginHeartbeatTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginIntlTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginMarketplaceTasksPiwik\\Plugin\\Tasks' => 'Piwik\\Plugins\\Marketplace\\Tasks',
-    'PluginProfessionalServicesTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginUserIdTasksPiwik\\Plugin\\Tasks' => false,
-    'PluginCustomPiwikJsTasksPiwik\\Plugin\\Tasks' => 'Piwik\\Plugins\\CustomPiwikJs\\Tasks',
   ),
 );
