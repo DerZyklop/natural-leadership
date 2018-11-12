@@ -10,6 +10,8 @@
   <meta name="description" content="<?php echo $site->description()->html() ?>">
   <meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
 
+  <link rel="shortcut icon" href="assets/images/favicon.png">
+
   <?php echo css('assets/css/main.css') ?>
 
 </head>
