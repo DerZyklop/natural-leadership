@@ -5,12 +5,12 @@ firstname: Miriam
 lastname: Gückel
 email: miriamgueckel@gmx.de
 password: >
-  $2a$10$cPQbthDMj/R2Aa47RknfSed.IWITUcjT2sbEV0LwxgA48qQTpg3VS
+  $2a$10$YkncGa7b6PCL9r3bcWTjPO6NVAu6tZiOdS.AMtprYsRcaQG.rFVpC
 language: de
 role: editor
 history:
-  - kontakt
   - wolf-luedge
-  - impressum
-  - natural-leadership
+  - camp
+  - natural-leadership-camp
   - home
+  - kontakt
