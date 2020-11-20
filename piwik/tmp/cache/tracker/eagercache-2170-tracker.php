@@ -1,9 +1,5 @@
 <?php return array (
-<<<<<<< HEAD
-  'lifetime' => 1548726696,
-=======
-  'lifetime' => 1535086378,
->>>>>>> b78eb18983d70ac7a2662ec5788acd5174077a26
+  'lifetime' => 1599722718,
   'data' => 
   array (
     'PluginCorePluginsAdminMetadata' => 
@@ -1681,79 +1677,6 @@
       19 => 'DevicePlugins',
       20 => 'Heartbeat',
       21 => 'UserId',
-    ),
-    'PluginCoreHomeTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-      '/var/www/virtual/nlwl/html/piwik/plugins/CoreHome/Tracker/VisitRequestProcessor.php' => 'Piwik\\Plugins\\CoreHome\\Tracker\\VisitRequestProcessor',
-    ),
-    'PluginActionsTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-      '/var/www/virtual/nlwl/html/piwik/plugins/Actions/Tracker/ActionsRequestProcessor.php' => 'Piwik\\Plugins\\Actions\\Tracker\\ActionsRequestProcessor',
-    ),
-    'PluginReferrersTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-    ),
-    'PluginUserLanguageTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-    ),
-    'PluginDevicesDetectionTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-    ),
-    'PluginGoalsTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-      '/var/www/virtual/nlwl/html/piwik/plugins/Goals/Tracker/GoalsRequestProcessor.php' => 'Piwik\\Plugins\\Goals\\Tracker\\GoalsRequestProcessor',
-    ),
-    'PluginEcommerceTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-      '/var/www/virtual/nlwl/html/piwik/plugins/Ecommerce/Tracker/EcommerceRequestProcessor.php' => 'Piwik\\Plugins\\Ecommerce\\Tracker\\EcommerceRequestProcessor',
-    ),
-    'PluginEventsTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-    ),
-    'PluginUserCountryTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-    ),
-    'PluginVisitTimeTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-    ),
-    'PluginVisitorInterestTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-    ),
-    'PluginLoginTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-    ),
-    'PluginUsersManagerTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-    ),
-    'PluginSitesManagerTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-      '/var/www/virtual/nlwl/html/piwik/plugins/SitesManager/Tracker/SitesManagerRequestProcessor.php' => 'Piwik\\Plugins\\SitesManager\\Tracker\\SitesManagerRequestProcessor',
-    ),
-    'PluginCustomVariablesTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-      '/var/www/virtual/nlwl/html/piwik/plugins/CustomVariables/Tracker/CustomVariablesRequestProcessor.php' => 'Piwik\\Plugins\\CustomVariables\\Tracker\\CustomVariablesRequestProcessor',
-    ),
-    'PluginPrivacyManagerTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-    ),
-    'PluginContentsTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-    ),
-    'PluginBulkTrackingTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-    ),
-    'PluginResolutionTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-    ),
-    'PluginDevicePluginsTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-    ),
-    'PluginHeartbeatTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
-      '/var/www/virtual/nlwl/html/piwik/plugins/Heartbeat/Tracker/PingRequestProcessor.php' => 'Piwik\\Plugins\\Heartbeat\\Tracker\\PingRequestProcessor',
-    ),
-    'PluginUserIdTrackerPiwik\\Tracker\\RequestProcessor' => 
-    array (
     ),
   ),
 );

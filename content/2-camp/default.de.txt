@@ -6,16 +6,9 @@ Ismenuitem: 0
 
 ----
 
-<<<<<<< HEAD
 Text: 
 
 Der Erfolg einer Führungskraft begründet sich 50% auf der Haltung zur Rolle und Aufgabe und zu 25% auf den Umgang mit Mitarbeitern. Fach-Kompetenz (15%) und Methoden-Kompetenz (10%) haben nachgelagerten Einfluss auf den Erfolg.
 Das NATURAL LEADERSHIP CAMP vertritt den Ansatz, dass die größten Entwicklungspotentiale einer Führungskraft in dieser Haltung und im Umgang mit Menschen zu finden sind und setzt mit den Inhalten genau an diesen erfolgsrelevanten Stellen an: Haltung und soziale Kompetenz sind die Erfolgsfaktoren in einer sich rasant verändernden Welt.
 **Gehen Sie mit uns auf eine spannende Erkundungstour!**
  Hier geht es zur Homepage. **(link: https://natural-leaders.de/ text: Hier geht es zur Homepage.)**
-=======
-Text: Der Erfolg  einer Führungskraft begründet sich  50%  auf der Haltung  zur  Rolle und Aufgabe und zu 25% auf den Umgang mit Mitarbeitern.  Fach-Kompetenz (15%) und Methoden-Kompetenz (10%) haben nachgelagerten Einfluss auf den Erfolg.
-Das NATURAL LEADERSHIP CAMP  vertritt den Ansatz, dass die größten Entwicklungspotentiale einer Führungskraft  in dieser Haltung und im Umgang mit Menschen zu finden sind und setzt mit den Inhalten genau  an diesen erfolgsrelevanten Stellen an: Haltung und soziale Kompetenz sind die Erfolgsfaktoren in einer sich rasant verändernden Welt.
-**Gehen Sie mit uns auf eine spannende Erkundungstour!**
-Das vierteilige Camp findet  am   26.2/27.2 – 02./03.03. – 07./08.05. ­ –  04.06 statt. **(link: https://natural-leaders.de/ text: Hier geht es zur Homepage.)**
->>>>>>> b78eb18983d70ac7a2662ec5788acd5174077a26

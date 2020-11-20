@@ -12,7 +12,7 @@ Chapters:
   start_date: 2018-04-01
   end_date: ""
   open_end: "1"
-  company: IoTOS GmbH
+  company: 'GEC GmbH & CO KG'
   position: Geschäftsführer
   branche: 'Industrielle IoT-Anwendungen wie z.B. ONCITE (www.iotos.io &  www.oncite.io)'
   tasks: Kaufmännische Geschäftsführung
@@ -190,7 +190,7 @@ Leftcol:
 - 
   title: Geschäftsführung
   text: |
-    - IoTOS GmbH
+    - GEC GmbH & CO KG
     - naturkosmetik-verlag GmbH & Co. KG
     - Ikarus Designhandel AG Schweiz
     - Interimsmanagement SANTAVERDE
