@@ -1,5 +1,9 @@
 <?php return array (
+<<<<<<< HEAD
   'lifetime' => 1581580831,
+=======
+  'lifetime' => 1538059642,
+>>>>>>> b78eb18983d70ac7a2662ec5788acd5174077a26
   'data' => 
   array (
     'General' => 

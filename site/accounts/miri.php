@@ -9,8 +9,8 @@ password: >
 language: de
 role: editor
 history:
-  - wolf-luedge
-  - camp
   - natural-leadership-camp
   - home
   - kontakt
+  - wolf-luedge
+  - impressum
