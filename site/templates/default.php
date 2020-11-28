@@ -6,7 +6,8 @@
     <?php $onePagerPages = $site->children()->visible(); ?>
     <?php if ($onePagerPages): ?>
       <?php foreach ($onePagerPages as $p): ?>
-        <div id="<?= $p->uid() ?>">
+        <div>
+          <a id="<?= $p->uid() ?>" class="anchor"></a>
           <?php if ($i != 0): ?>
             <div class="page-seperator">
               <div class="flex">

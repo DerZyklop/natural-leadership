@@ -135,17 +135,12 @@ body {
       0 0 6px rgba(0,0,0,0.1);
   }
 
-/*  header, header .logo-wrap {
-    background: #fff;
+  a.anchor {
+    display: block;
     position: relative;
-    z-index: 20;
+    top: -82px;
+    visibility: hidden;
   }
-
-  .permanentmailhint {
-    top: initial;
-    right: initial;
-  }
-*/
 }
 .logo {
   display: block;
@@ -668,4 +663,3 @@ ul li {
   font-size: 8em;
   color: #ecbd33;
 }
-

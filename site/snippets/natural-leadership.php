@@ -1,4 +1,6 @@
-<section id="<?= $p->uid() ?>">
+<section>
+  <a id="<?= $p->uid() ?>" class="anchor"></a>
+
   <div class="flex flex-center">
     <div class="flex-4">
       <?php if ($p->hasTextimage()): ?>
